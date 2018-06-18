@@ -1,0 +1,82 @@
+Title: "Partenaires"
+SponsorsButton: "Devenir Sponsor"
+Edition:
+
+-
+  year: "2018"
+  partners:
+  - group: "Sponsors GOLD"
+    elements: 
+    - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
+    - {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
+    - {name: "CAFPI", description: "CAFPI, N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
+    - {name: "EXAKIS", description: "Exakis, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis.com", imageUrl: "exakis.png", width: "125px"}
+    - {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
+    - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
+  - group: "Partenaires privilégiés"
+    elements: 
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
+    - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
+  - group: "Avec la participation de"
+    elements: 
+    - {name: "Atlanthal", description: "Centre de Thalassothérapie", link: "http://www.atlanthal.com", imageUrl: "atlanthal.jpg", width: "120px"}
+    - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
+    - {name: "Bleu Blanc Jaune", description: "Restaurant Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
+
+-
+  year: "2017"
+  partners:
+  - group: "Sponsors GOLD"
+    elements:
+    - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
+    - {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
+    - {name: "CAFPI", description: "CAFPI, N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
+    - {name: "EXAKIS", description: "Exakis, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis.com", imageUrl: "exakis.png", width: "125px"}
+    - {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
+    - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
+  - group: "Partenaires privilégiés"
+    elements: 
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
+    - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
+  - group: "Avec la participation de"
+    elements: 
+    - {name: "Atlanthal", description: "Centre de Thalassothérapie", link: "http://www.atlanthal.com", imageUrl: "atlanthal.jpg", width: "120px"}
+    - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
+    - {name: "Bleu Blanc Jaune", description: "Restaurant Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
+
+-
+  year: "2016"
+  partners:
+  - group: "Sponsors GOLD" 
+    elements:
+    - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
+    - {name: "EXAKIS", description: "Exakis, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis.com", imageUrl: "exakis.png", width: "125px"}
+    - {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+  - group: "Sponsors SILVER"
+    elements:
+    - {name: "Waavy", description: "", link: "http://waavy.fr/", imageUrl: "waavy.png", width: "204px"}
+    - {name: "Duffau Consulting", description: "", link: "http://www.duffau.consulting/", imageUrl: "duffau.png", width: "204px"}
+  - group: "Partenaires privilégiés"
+    elements: 
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
+  - group: "Partenaires"
+    elements: 
+    - {name: "Duchess", description: "Association Duchess France", link: "http://www.duchess-france.org/", imageUrl: "duchess.png", width: "204px"}
+    - {name: "ANTIC", description: "Agence de Développement des Usages Numériques", link: "http://www.antic-paysbasque.com/", imageUrl: "antic.png", width: "204px"}
+    - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
+  - group: "Avec la participation de"
+    elements: 
+    - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
+    - {name: "Restaurant du Trinquet d’Arcangues", description: "Restaurant du Trinquet d’Arcangues", link: "http://www.trinquetdarcangues.com", imageUrl: "trinquet-logo.png", width: "120px"}
+    - {name: "Bleu Blanc Jaune", description: "Restaurant Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}

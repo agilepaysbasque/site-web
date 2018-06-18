@@ -26,9 +26,10 @@ Comme en 2017, cette édition sera composée de conférences le 1er jour et d'un
 Soumettez nous vos sessions, leurs contenus n’ont pas besoin d'être définitifs, vous pourrez même échanger entre orateurs si vous le souhaitez.
 Vos propositions de sessions, serviront à constituer le programme de la 1ère journée.
 
-<h4><a href="https://tinyurl.com/agilepb-cfp18" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp18</a></h4>
+<!-- <h4><a href="https://tinyurl.com/agilepb-cfp18" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp18</a></h4>
 **Date limite : 30 avril 2018 à minuit.**
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWJI4qCpKrgZYMZTZTHrNufih2s2RyLVbA9-Xgf8n5jG38Ug/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWJI4qCpKrgZYMZTZTHrNufih2s2RyLVbA9-Xgf8n5jG38Ug/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe> -->
+**Le CPF est clôturé, merci pour vos proposition.**
 
 #### Revue et Sélection
 Une revue de chaque proposition sera effectuée et une sélection sera opérée afin d’offrir la meilleure expérience possible à nos participants.
