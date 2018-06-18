@@ -13,8 +13,8 @@ title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
 description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
-baseurl: ""
-url: "http://www.agile-paysbasque.fr/"
+baseurl: "/site-web"
+url: "https://agilepaysbasquedev.github.io"
 
 permalink: "/blog/:title"
 
@@ -31,7 +31,7 @@ organizerEmail: "agilepb@gmail.com"
 
 # FIXME logo
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://agile-paysbasque.fr"
+organizerLink: "https://agile-paysbasque.fr"
 
 # Head
 metaKeywords: "Agile, Scrum, KanBan, DevOps, Lean Startup, Lean,"
@@ -42,13 +42,13 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # FIXME Sponsorhip PDF
 # XXX relative url must start with "/" here. Others sponsor relative links don't need it'
-c4sponsorsUrl: "/blog/devenir-sponsor"
+c4sponsorsUrl: "/be-sponsor"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/cfp/", text: "Devenir Orateur", }
+ - {permalink: "/be-sponsor/", text: "Devenir Sponsor", }
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
@@ -68,7 +68,7 @@ eventDate: "21 / 22 Septembre 2018"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {permalink: "/cfp/", text: "Devenir Orateur"}
+ - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 heroCount: 8
 heroFirst: 1
 
@@ -307,42 +307,42 @@ directionDetails2Cards:
  - {title: "Par autoroute", information: "<p><b>Depuis Bordeaux</b> Autoroute A63 en direction de Bayonne.</p><p>Prendre la sortie 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet.</p><p><b>Depuis Toulouse</b> Autoroute A64 jusqu'à Bayonne puis Autoroute A63 (direction Bordeaux), sortie n° 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet.</p>"}
  - {title: "Par bus", information: "<p>Atlantal est desservi par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour.</p><p>La ligne 10 vous permet d'atteindre l'hôtel. Depuis Bayonne ou Biarritz : Ligne 10 (itinéraire) : Bayonne Technocité – Gare de Biarritz (correspondances) – Anglet Chambre d'Amour – Anglet Les Cavaliers.</p><p>Tous les arrêts de la ligne 10 sur le <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=1'>site web</a>.</p><p>Consultez vos trajets et vos horaires en un seul clic sur internet <a href='www.chronoplus.eu'>Chronoplus</a> et même depuis votre mobile sur <a href='www.chronoplus.mobi'>Chronoplus Mobile</a></p>"}
 
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: false
+# # Hackathon
+# hackathonTitle: "Hackathon"
+# enableHackathon: false
 
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+# # Hackathon About Block
+# aboutHackathonTitle: "Meet our themes"
+# hackathonRows:
+#  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+#  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+#  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+# # Hackathon Judges Block
+# judgesImage: "judges.jpg"
+# judgesTitle: "Judges"
 
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+# # Hackathon Prizes Block
+# prizesTitle: "Prizes"
+# prizes:
+#  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+#  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+#  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "Voir sur Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+# # Hackathon Location Block
+# hackathonLocationBlockTitle: "Location"
+# hackathonLocationName: "Communa"
+# hackathonLocationLink: "http://communa.net.ua/"
+# hackathonStreetAddress: "1 Halytska St"
+# hackathonAddressLocality: "Lviv"
+# hackathonAddressLocalityRegion: "Lvivska"
+# hackathonPostalCode: "79000"
+# hackathonAddressCountry: "Ukraine"
+# hackathonTimeTitle: "Hack through"
+# hackathonStartTime: "2014-10-24T10:00"
+# hackathonDoorTime: "09:00"
+# hackathonEndTime: "2014-10-25T00:00"
+# viewOnMap: "Voir sur Google Maps"
+# hackathonPlaceCoordinates: "49.840999, 24.031144"
+# hackathonMapCenterCoordinates: "49.840696, 24.028754"
+# hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

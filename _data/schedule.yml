@@ -1,11 +1,11 @@
 - 
-  date: "2017-09-22"
-  dateReadable: "22 Septembre - MATIN"
+  date: "2018-09-23"
+  dateReadable: "23 Septembre - MATIN"
   tracks: 
-    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
-    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
-    - {title: "Estia 2 - Réunion 1 et 2", color: "#D50000"}
-    - {title: "Estia 2 - Amphi 22", color: "#FFD600"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
+    - {title: "Salle 4", color: "#FFD600"}
   timeslots:
     - {
         startTime: "8:00",
@@ -29,32 +29,24 @@
     }
     - {
         startTime: "11:15",
-        sessionIds: [11151,11152, 404, 11154]
+        sessionIds: [11151,11152, 11153, 404]
     }
     - {
         startTime: "12:15",
         sessionIds: [12151, 12153]
     }
     - {
-        startTime: "12:45",
-        sessionIds: [12451, 404]
-    }
-    - {
         startTime: "13:15",
         sessionIds: [13151, 13153]
     }
-    - {
-        startTime: "13:45",
-        sessionIds: [13451, 404]
-    }
 - 
-  date: "2017-09-22"
-  dateReadable: "22 Septembre - APRES-MIDI"
+  date: "2018-09-23"
+  dateReadable: "23 Septembre - APRES-MIDI"
   tracks: 
-    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
-    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
-    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
-    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+    - {title: "Salle 3", color: "#D50000"}
+    - {title: "Salle 4", color: "#FF6D00"}
   timeslots:
     - {
         startTime: "14:15",
@@ -66,16 +58,16 @@
     }
     - {
         startTime: "15:30",
-        sessionIds: [15301, 15302, 404, 404]
+        sessionIds: [15301, 404, 404, 404]
     }
 - 
   date: "2017-09-22"
   dateReadable: "22 Septembre - APRES-MIDI"
   tracks: 
-    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
-    - {title: "Estia 2 - Salles des assos", color: "#AA00FF"}
-    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
-    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#AA00FF"}
+    - {title: "Salle 3", color: "#D50000"}
+    - {title: "Salle 4", color: "#FF6D00"}
   timeslots:
     - {
         startTime: "16:30",
@@ -83,11 +75,11 @@
     }
     - {
         startTime: "16:45",
-        sessionIds: [16451, 16452, 16453, 16454]
+        sessionIds: [16451, 16452, 16453, 404]
     }
     - {
         startTime: "17:45",
-        sessionIds: [17451, 404, 404, 17454]
+        sessionIds: [17451, 17452, 17453, 404]
     }
     - {
         startTime: "18:45",
@@ -96,30 +88,4 @@
     - {
         startTime: "19:00",
         sessionIds: [19001]
-    }
-- 
-  date: "2017-09-23"
-  dateReadable: "23 Septembre"
-  tracks: 
-    - {title: "Athlantal", color: "#00C853"}
-  timeslots:
-    - {
-        startTime: "9:00",
-        sessionIds: [140]
-    }
-    - {
-        startTime: "10:00",
-        sessionIds: [141]
-    }
-    - {
-        startTime: "12:00",
-        sessionIds: [144]
-    }
-    - {
-        startTime: "14:00",
-        sessionIds: [142]
-    }
-    - {
-        startTime: "16:00",
-        sessionIds: [143]
     }
