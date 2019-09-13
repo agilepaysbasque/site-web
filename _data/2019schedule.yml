@@ -21,7 +21,7 @@
   tracks: 
     - {title: "ESTIA 2 - Amphi 1", color: "#00C853"}
     - {title: "ESTIA 2 - Amphi 2", color: "#D50000"}
-    - {title: "ESTIA 2 - Réunion 1", color: "#FFD600"}
+    - {title: "ESTIA 2 - Salle Incubateur", color: "#FFD600"}
   timeslots:
     - {
         startTime: "10:00",
@@ -46,7 +46,7 @@
   tracks: 
     - {title: "ESTIA 2 - Amphi 1", color: "#00C853"}
     - {title: "ESTIA 2 - Amphi 2", color: "#0091EA"}
-    - {title: "ESTIA 2 - Réunion 1", color: "#D50000"}
+    - {title: "ESTIA 2 - Salle Incubateur", color: "#D50000"}
   timeslots:
     - {
         startTime: "14:00",

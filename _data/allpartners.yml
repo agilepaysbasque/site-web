@@ -104,33 +104,34 @@ Edition:
   partners:
   - group: "Sponsors"
     elements: 
-    - {name: "A venir", description: "A venir", link: "#Todo", imageUrl: "tbd.png", width: "120px"}
+    #- {name: "A venir", description: "A venir", link: "#Todo", imageUrl: "tbd.png", width: "120px"}
     #- {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     #- {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
-    #- {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
+    - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "190px"}
+    - {name: "ANEO", description: "ANEO", link: "https://www.aneo.eu/", imageUrl: "ANEO_LOGO_Qualité max.png", width: "150px"}
     #- {name: "CAFPI", description: "CAFPI, N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
-    #- {name: "EXAKIS", description: "Exakis, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis.com", imageUrl: "exakis.png", width: "125px"}
+    - {name: "EXAKIS NELITE", description: "Exakis Nelite, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis-nelite.com", imageUrl: "exakis-nelite.png", width: "170px"}
     #- {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
     #- {name: "Neotech", description: "Neotech", link: "https://www.neotech-solutions.fr/", imageUrl: "Neotech.png", width: "215px"}
-    #- {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
-    #- {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
-    #- {name: "SOPHiA GENETICS", description: "SOPHiA GENETICS is a health tech company which has developed SOPHiA Artificial Intelligence, the universal and innovative technology for genomic data analysis.", link: "https://www.sophiagenetics.com", imageUrl: "Sophia.svg", width: "215px"}
+    - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
+    - {name: "SOPHiA GENETICS", description: "SOPHiA GENETICS is a health tech company which has developed SOPHiA Artificial Intelligence, the universal and innovative technology for genomic data analysis.", link: "https://www.sophiagenetics.com", imageUrl: "logo_sophiagenetics.svg", width: "150px"}
     #- {name: "Wemanity", description: "Wemanity", link: "https://www.wemanity.com", imageUrl: "https://www.wemanity.com/wp-content/uploads/2017/08/wemanity-mobile.png", width: "215px"}
-    #- {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
+    - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
     elements: 
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
-    #- {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
+    - {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
     # - {name: "IAE Pau", description: "IAE Pau", link: "http://iae.univ-pau.fr", imageUrl: "iae-pau.png", width: "170px"}
     #- {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "250px"}
     #- {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
     elements: 
-    #- {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
+    - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
     - {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
-    #- {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
+    - {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
     #- {name: "La fournée de Louis", description: "La fournée de Louis", link: "https://www.facebook.com/La-fourn%C3%A9e-de-louis-893515194022085/", imageUrl: "louis.jpg", width: "140px"}
-    #- {name: "L'Eau Vive", description: "L'Eau Vive", link: "http://www.eau-vive.com/", imageUrl: "eau-vive.png", width: "140px"}
-    #- {name: "La Ferme Elizaldia", description: "La Ferme Elizaldia", link: "https://www.ferme-elizaldia.com/", imageUrl: "ferme-elizaldia.jpg", width: "120px"}
+    - {name: "L'Eau Vive", description: "L'Eau Vive", link: "http://www.eau-vive.com/", imageUrl: "eau-vive.png", width: "140px"}
+    - {name: "La Ferme Elizaldia", description: "La Ferme Elizaldia", link: "https://www.ferme-elizaldia.com/", imageUrl: "ferme-elizaldia.jpg", width: "120px"}
     #- {name: "Agence Gravuplac Publicité", description: "Agence Gravuplac Publicité", link: "https://www.gravuplac.fr/", imageUrl: "gravuplac.png", width: "150px"}
     #- {name: "L'école de la Glisse'", description: "L'école de la Glisse", link: "http://lecoledelaglisse.com/", imageUrl: "LecoleDeLaGlisse.png", width: "150px"}
