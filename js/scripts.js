@@ -1,4 +1,23 @@
 (function($) {
+    var headerConfig= {
+        logo:{
+            dark :'logo-dark',
+            light:'logo-dark'    
+        },
+        scroll:{
+            before:'after-scroll',
+            after: 'after-scroll'
+        },
+        init: function(){
+            $('#top-header').removeClass(headerConfig.scroll.after).addClass(headerConfig.scroll.before);
+            $('#logo-header .logo').removeClass(headerConfig.logo.dark).addClass(headerConfig.logo.light);    
+        },
+        onScroll:function(){
+            $('#top-header').removeClass(headerConfig.scroll.before).addClass(headerConfig.scroll.after);
+            $('#logo-header .logo').removeClass(headerConfig.logo.light).addClass(headerConfig.logo.dark);    
+        }
+    };    
+
     $(document).ready(function() {
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
@@ -6,6 +25,7 @@
             $('#preloader').delay(350).fadeOut(800);
             initGooglePlus();
             equalheight('.same-height');
+            headerConfig.init();
         });
 
         if ($(window).width() > 1500) {
@@ -20,8 +40,7 @@
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
         }
         if ($(window).scrollTop() >= 100) {
-            $('#top-header').addClass('after-scroll');
-            $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
+            headerConfig.onScroll();
         }
 
         $(window).scroll(function() {
@@ -32,11 +51,9 @@
             var topOffset = header.height() + $('.track-header').height();
 
             if (scroll >= 100) {
-                header.addClass('after-scroll');
-                logo.removeClass('logo-light').addClass('logo-dark');
+                headerConfig.onScroll();
             } else {
-                header.removeClass('after-scroll');
-                logo.removeClass('logo-dark').addClass('logo-light');
+                headerConfig.init();
             }
 
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
