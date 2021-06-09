@@ -112,15 +112,15 @@ heroFirst: 1
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "5", specialCharacter: "", info: "ème Edition", detail: "toujours avec la meme ADN : partages et convivialité"}
+ - {count: "5", specialCharacter: "", info: "Ème Edition", detail: "Toujours avec la meme ADN : partages et convivialité"}
  - {count: "3", specialCharacter: "", info: "Formats", detail: "Talks, Ateliers, Forum Ouvert"}
  - {count: "100", specialCharacter: "", info: "Participants attendus", detail: "Développeurs, POs, Métiers, Managers, Fonctions Transverses, Enseignants, Etudiants"}
 
 # Format Block
 formatBlock:
- - {title: "Des Talks", image: "conference.jpg", text: "répartis sur 3 thématiques \"Culture Agile\", \"Artisanat du Logiciel\" et \"Découverte et Conception de Produits\"." }
- - {title: "Des Ateliers", image: "workshop.jpg", text: "pour découvrir ou approfondir les sujets des talks" }
- - {title: 'Un "Forum ouvert"', image: "forum.jpg", text: "pour finir la journée, programme co-construit le jour même entre les speakers et les participants en fonctions de leurs envies" }
+ - {title: "Des Talks", image: "conference.jpg", text: "Répartis sur 3 thématiques \"Culture Agile\", \"Artisanat du Logiciel\" et \"Découverte et Conception de Produits\"." }
+ - {title: "Des Ateliers", image: "workshop.jpg", text: "Pour découvrir ou approfondir les sujets des talks" }
+ - {title: 'Un "Forum ouvert"', image: "forum.jpg", text: "Pour finir la journée, programme co-construit le jour même entre les speakers et les participants en fonctions de leurs envies" }
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
