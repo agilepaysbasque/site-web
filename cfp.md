@@ -1,43 +1,56 @@
 ---
 layout: post
-title: Appel à Orateur/Oratrice 2019
+title: Appel à Orateur/Oratrice 2021
 permalink: /cfp/
 image: schedule.jpg
 isStaticPost: true
 ---
 **<a href="{{ site.baseurl }}/cfp-en/" class="btn-link">--&gt; en-FR</a>**
 
-#### Edition 2019
-Après 3 années hautes en couleurs, nous préparons cette nouvelle édition et ses 2 jours de « festivités » qui se dérouleront sur 2 jours 
-les vendredi 20 et samedi 21 Septembre 2019 à L’ESTIA à Bidart.
-Cette année, nous avons souhaité adapter un peu la formule en mixant les formats des éditions précedentes 
-- Conférences et atelier repartis sur 1 jours et demi (vendredi et samedi matin)
-- Open-space le samedi après-midi.
+#### Edition 2021 vs Mesures Sanitaires
+Pour cette première édition depuis le début de la pandémie de COVID-19, nous préparons un dispositif spécial pour que cette **cinquième** édition puisse se dérouler de façon optimale, entre sécurité et convivialité.
+Plusieurs options sont encore à l'étude, afin de pouvoir s'adapter en fonction des règles sanitaires qui seront en place et des différentes contraintes du moment.
+Et nous nous adapterons au contraintes qui peuvent survenir, se reservant le droit de modification des conditions de l'évenement jusqu'à la dernière minute.
+
+#### Format Hybride
+Nous souhaitons **garder un format présentiel pour le public** mais 
+- **Sur une journée uniquement**, le samedi (pour laisser la place au demi jauge des étudiants en semaine)
+- Avec un **nombre de participant restreint** (pour tenir compte des protocoles de distanciation dans les salles)
+- nous allons étudier les possibilités de diffusion en "live" + captation vidéo des sessions
+- et en conséquence, nous allons limiter les "tracks" en parallèles (car nous aurons surement des contraintes logistiques pour la captation et la diffusion.)
+- Pour les orateurs, 2 possibilités : sur place ou à distance (sous reserve de bon fonctionnement technique à l'ESTIA)
+
+#### Quand ?
+Rendez-vous est pris pour le samedi 25 Septembre 2021 à L’ESTIA 2 à Bidart.
+Comme cette édition se fera sur une journée nous allons adapter le programme en mixant au mieux les bonnes formules qui ont fait le succès des éditions précedentes : 
+- Conférences et atelier condensé sur une journée
+- Open-space pour clôre la partie "formelle" de l'évenement.
+- Puis picnic et activités libre le soir à la plage (si le temps le permets).
+
 
 #### Soumissions
-**<a href="https://tinyurl.com/agilepb-cfp19" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp19</a>**
+**<a href="https://tinyurl.com/agilepb-cfp2021" target="_blank" class="btn-link">https://tinyurl.com/agilepb-cfp2021</a>**
 
-**Date limite : 31 mai 2019 à minuit.**
+**Date limite : 15 juillet 2021 à minuit.**
 
 Soumettez-nous vos propositions de sessions/ateliers, leurs contenus n’ont pas besoin d'être définitifs, .
 Vos soumissions nous serviront à constituer le programme du vendredi et du samedi matin.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-eMx4b4NRZV5eq-iVyfFUsRzSUR6W22Kcp9Y4ph2AB4iT4Q/viewform?embedded=true" width="760" height="3294" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetGICvuKTKSB64-S57M3BHP9IWCHrksbOQljeKKDkl_rDyYQ/viewform?embedded=true" width="760" height="3294" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
 <!--**Le CPF est clôturé, merci pour vos proposition.**-->
 
 #### Revue et Sélection
 Une revue de chaque proposition sera effectuée et une sélection sera opérée afin d’offrir la meilleure expérience possible à nos participant.e.s.
-Nous vous informerons par email courant mai/juin si votre session a été retenue.
-Une liste d'attente est succeptible d'être mise en place jusqu'a mi-juin, le temps d'avoir les confirmations de tout le monde.
+Nous vous informerons le plus tot possible par email (idéalement courant juillet) si votre session a été retenue.
+Une liste d'attente est succeptible d'être mise en place jusqu'a fin-aout, le temps d'avoir les confirmations de tout le monde.
 
 #### Quand le programme sera-t-il disponible ?
-La liste des orateurs/oratrices sera communiqué à partir de juin, au fur et à mesure des confirmations. Le programme sera publié un fois que tous les intervenant.e.s auront confirmés.
-Nous nous réserverons la possibilité de l’aménager en cas d'imprevus.
+La liste des orateurs/oratrices sera communiqué à partir de fin juillet debut aout, au fur et à mesure des confirmations. Le programme sera publié un fois que tous les intervenant.e.s auront confirmés et que nous aurons réussi à resoudres toutes nos contraintes.
+Nous nous réserverons la possibilité de l’aménager legèrement au dernier moment en cas d'imprevus.
 Vous serez, bien entendu, consulté.e si nous envisageons un changement d'horaire vous concernant.
 
 #### Conditions pour tous nos orateurs
 - Accès gratuit à la conference
-- Repas du midi offert vendredi et samedi
-- Apéro/Repas des orateurs le vendredi soir offert
+- Repas du midi offert samedi
 - Coffret cadeau suprise
 
 #### Defraiements
