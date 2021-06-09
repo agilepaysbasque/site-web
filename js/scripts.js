@@ -903,4 +903,23 @@
         google.maps.event.addDomListener(window, 'load', initialize2);
     }
 
+    $(function(){
+        var ul$ = $('ul.sommaire-auto');
+        if(ul$.length){
+            $('h4').each(function(){
+                var elt$ = $(this);
+                var link$ = $('<a>');
+                link$.attr('href', "javascript:goto$('#"+elt$.attr('id')+"')");
+                link$.html(elt$.html());
+                var li$ = $('<li>');
+                li$.append(link$).appendTo('ul.sommaire-auto');
+            });         
+        }
+    });
 })(jQuery);
+function goto$(target) {
+    var offset = $(target).offset().top;
+    $('html, body').animate({
+        scrollTop: (offset - 65)    
+    }, 200);  
+}
