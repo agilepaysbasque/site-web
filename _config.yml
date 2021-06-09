@@ -14,8 +14,10 @@ email: "agilepb@gmail.com"
 
 description: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
 # For prod: set baseurl empty and url to https://agile-paysbasque.fr
-baseurl: ""
-url: "https://agile-paysbasque.fr"
+#PROD baseurl: ""
+#PROD url: "https://agile-paysbasque.fr"
+baseurl: "/site-web"
+url: "https://agilepaysbasquedev.github.io"
 
 permalink: "/blog/:title"
 
@@ -49,75 +51,76 @@ c4sponsorsUrl: "/be-sponsor"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/schedule2019/", text: "Programme 2019"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
+ - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
- - {permalink: "/community/", text: "Communauté"}
+ - {permalink: "/community/", text: "Communautés"}
+ - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", icon: "youtube"}
+ - {link: "https://fr.linkedin.com/company/agile-paysbasque", icon: "linkedin"}
+ - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
+ - {link: "https://www.facebook.com/AgilePaysBasque", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/be-sponsor/", text: "Devenir Sponsor"}
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
-- {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
+#  - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", icon: "youtube"}
+#  - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
+#  - {link: "https://www.facebook.com/AgilePaysBasque", icon: "facebook"}
+#  - {link: "https://fr.linkedin.com/company/agile-paysbasque", icon: "linkedin"}
+#  - {permalink: "/feed.xml", icon: "rss"}
+
 rightNavigationButtons:
-- {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
+#  - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", icon: "youtube"}
+#  - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
+#  - {link: "https://www.facebook.com/AgilePaysBasque", icon: "facebook"}
+#  - {link: "https://fr.linkedin.com/company/agile-paysbasque", icon: "linkedin"}
+#  - {permalink: "/feed.xml", icon: "rss"}
 
 # Hero Block
 heroImage: "hero"
 heroTitle: "Agile Pays Basque <typeout>"
-eventDate: "20 / 21 Septembre 2019"
-eventDateExtra: "En cours de preparation"
-typeoutTextValues: '"4ème édition"'
-typeoutFallback: "4ème édition"
+eventDate: "Samedi 25 Septembre 2021"
+eventDateExtra: "En preparation"
+typeoutTextValues: '"2021"'
+typeoutFallback: "2021"
 heroButtons:
 #- {permalink: "/cfp/", text: "Devenir Orateur"}
 #- {permalink: "/be-sponsor/", text: "Sponsoring"}
 #- {permalink: "/intro/", text: "Conference"}
 #- {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
-- {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
-heroCount: 1
+heroCount: 5
 heroFirst: 1
 
 # About Block
-aboutTitle: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
-aboutLines:
-# - {text: "Ici c'est la tempête mais dès l'arrivée des beaux jours,"}
-# - {text: "L'équipage va se réunir pour étudier les itineraires,"}
-# - {text: "Fixer le cap, et hisser les voiles pour démarrer l'aventure 2019."}
-# - {text: "A noter vos agenda : l'édition 2019 se tiendra les 20 / 21 Septembre 2019"}
-- {text: "La quatrième édition de l'Agile Pays Basque aura lieu sur 2 jours  :"}
-- {text: "- le vendredi 20 Septembre 2019 à l'ESTIA à Bidart"}
-- {text: "- le samedi 21 Septembre 2019 à l'ESTIA à Bidart"}
-
-
-# - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
-# - {text: "A venir : Sponsoring, Appels à orateurs, Programme, et Billeterie"}
- 
-# - {text: "Agile Pays Basque c'est le rendez-vous pour découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances des valeurs et pratiques Agile"}
-# - {text: "Débutants ou experts, venez partager, vous enrichir sur des thématiques telles que le Développement Logiciel et les Tests, la Découverte et la Conception de Produits, la Culture Agile (y compris hors IT) et le Management"}
+# KISS : le contenu du bloc est a saisir directement dans le html \_includes\about.html
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "", info: "Participants attendus", detail: "Développeurs, POs, Métiers, Managers, Fonctions Transverses, Enseignants, Etudiants"}
- - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "autour des valeurs et pratiques Agile"}
-# - {count: "16", specialCharacter: "+", info: "Conférences", detail: "de 50 minutes"}
-# - {count: "3", specialCharacter: "", info: "Formats", detail: "Talks, Ateliers, Forum Ouvert"}
+ - {count: "5", specialCharacter: "", info: "Ème Edition", detail: "Toujours avec la meme ADN : partages et convivialité"}
+ - {count: "3", specialCharacter: "", info: "Formats", detail: "Talks, Ateliers, Forum Ouvert"}
+ - {count: "100", specialCharacter: "", info: "Participants attendus", detail: "Développeurs, POs, Métiers, Managers, Fonctions Transverses, Enseignants, Etudiants"}
 
 # Format Block
 formatBlock:
- - {title: "16 Talks", image: "conference.jpg", text: "répartis sur 3 thématiques \"Développement Logiciel et Tests\", \"Découverte et Conception de Produits\" et \"Culture Agile et Management\". Débutants bienvenus!" }
- - {title: "3 Ateliers", image: "workshop.jpg", text: "pour découvrir ou approfondir les sujets des talks" }
- - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1/2 journée avec un programme co-construit le jour même entre les speakers et les participants" }
+ - {title: "Des Talks", image: "conference.jpg", text: "Répartis sur 3 thématiques \"Culture Agile\", \"Artisanat du Logiciel\" et \"Découverte et Conception de Produits\"." }
+ - {title: "Des Ateliers", image: "workshop.jpg", text: "Pour découvrir ou approfondir les sujets des talks" }
+ - {title: 'Un "Forum ouvert"', image: "forum.jpg", text: "Pour finir la journée, programme co-construit le jour même entre les speakers et les participants en fonctions de leurs envies" }
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
@@ -138,9 +141,9 @@ eventAddressLocality: "Bidart"
 eventAddressLocalityRegion: "64"
 eventPostalCode: "64210"
 eventAddressCountry: "France"
-eventStartTime: "2019-09-20T09:00"
+eventStartTime: "2021-09-25T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-09-20T18:00"
+eventEndTime: "2021-09-25T18:00"
 eventPlaceCoordinates: "43.446321, -1.553914"
 
 event2LocationName: "ESTIA 2"
@@ -150,9 +153,9 @@ event2AddressLocality: ""
 event2AddressLocalityRegion: "64"
 event2PostalCode: ""
 event2AddressCountry: "France"
-event2StartTime: "2019-09-21T09:00"
+event2StartTime: "2021-09-25T09:00"
 event2DoorTime: "09:00"
-event2EndTime: "2019-09-21T18:00"
+event2EndTime: "2021-09-25T18:00"
 event2PlaceCoordinates: "43.521377, -1.523359"
 
 mapCenterCoordinates: "43.445995, -1.553750"
@@ -260,6 +263,8 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
  - {link: "https://www.facebook.com/AgilePaysBasque", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", icon: "youtube"}
+ - {link: "https://fr.linkedin.com/company/agile-paysbasque", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -267,6 +272,7 @@ footerBlocks:
   links:
    - {link: "https://www.meetup.com/fr-FR/Agile-Pays-Basque/", text: "Meetups"}
    - {link: "https://agile-paysbasque.slack.com/", text: "Slack"}
+   - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", text: "Youtube"}
  -
   title: "Contacts"
   links:
@@ -287,6 +293,9 @@ showSessions: true
 # Team Block
 teamBlockTitle: "Envie de participer ?"
 aboutUs: ""
+
+# Vidéos Block
+videoBlockTitle: "Vidéos"
 
 # CFP Block
 cfpBlockTitle: "Appel à orateurs 2019"
