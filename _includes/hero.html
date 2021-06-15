@@ -6,10 +6,18 @@
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
-            {% if button.eventDateExtra != null %}<p>{{ site.eventDateExtra }}</p>{% endif %}
+            <p><b>{{ site.eventDate }}</b></p>
+            {% if site.eventDateExtra != null %}<p>{{ site.eventDateExtra }}</p>{% endif %}
             {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>
+                {% if button.icon != null %}
+                    <svg class="icon icon-{{ button.icon }}" viewBox="0 0 30 32">
+                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ button.icon }}"></use>
+                    </svg>
+                {% else %}
+                    {{ button.text }}
+                {% endif %}
+            </a>
             {% endfor %}
         </div>
     </div>
@@ -24,7 +32,15 @@
     var heroSection = document.getElementById("top-section-hero");
     var heroCount = {{ site.heroCount }};
     var heroFirst = {{ site.heroFirst }};
-    var randomHeroImage = Math.floor((Math.random() * heroCount) + heroFirst);
-    heroSection.style.backgroundImage = "url('{{ site.baseurl }}/assets/img/{{ site.heroImage }}"+ randomHeroImage +".jpg')";
+    var baseUrl = '{{ site.baseurl }}';
+    var heroImage = '{{ site.heroImage }}';
+    function loadHero(){
+        var randomHeroImage = Math.floor((Math.random() * heroCount) + heroFirst);
+        heroSection.style.backgroundImage = "url('"+ baseUrl + "/assets/img/"+ heroImage + randomHeroImage +".jpg')";
+    }
+    loadHero();
+    setInterval(function(){
+        loadHero();
+    }, 24000)
 </script>
 <!-- End Hero Section -->
