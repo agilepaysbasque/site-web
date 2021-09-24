@@ -12,7 +12,7 @@ exclude: [ '/vendor/', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 
-description: "2 jours de conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
+description: "Conférences et ateliers Agile, sur le développement logiciel, la culture produit et les transformations organisationnelles."
 # For prod: set baseurl empty and url to https://agile-paysbasque.fr
 baseurl: ""
 url: "https://agile-paysbasque.fr"
@@ -53,7 +53,7 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
- - {permalink: "/cfp/", text: "Devenir Orateur"}
+# - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
@@ -91,15 +91,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero"
 heroTitle: "Agile Pays Basque <typeout>"
-eventDate: "Samedi 25 Septembre 2021"
-eventDateExtra: "En preparation"
-typeoutTextValues: '"2021"'
-typeoutFallback: "2021"
+eventDate: "Edition 2021 annulée"
+eventDateExtra: "Désolé pour le faux départ, et rendez-vous en 2022"
+typeoutTextValues: '"<del>2021</del>", '
+typeoutFallback: '"2022"
 heroButtons:
-- {permalink: "/cfp/", text: "Devenir Orateur"}
-#- {permalink: "/be-sponsor/", text: "Sponsoring"}
-#- {permalink: "/intro/", text: "Conference"}
-#- {permalink: "/community/", text: "Rejoindre la Communauté"}
+# - {permalink: "/cfp/", text: "Devenir Orateur"}
+# - {permalink: "/be-sponsor/", text: "Sponsoring"}
+# - {permalink: "/intro/", text: "Conference"}
+# - {permalink: "/community/", text: "Rejoindre la Communauté"}
 # - {permalink: "/logistics/", text: "S'y Rendre"}
 # - {permalink: "/#tickets", text: "Acheter un billet"}
 # - {permalink: "/assets/agilepb-programme-2019.pdf", text: "Programme (PDF)"}
