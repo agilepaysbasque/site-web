@@ -1,11 +1,10 @@
 # Plugins
-plugins: 
+plugins:
  - jekyll-sitemap
 safe: false
 
 # Build Settings
 markdown: kramdown
-permalink: pretty
 exclude: [ '/vendor/', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
@@ -90,11 +89,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero"
-heroTitle: "Agile Pays Basque <typeout>"
-eventDate: "Edition 2021 annulée"
-eventDateExtra: "Désolé pour le faux départ, et rendez-vous en 2022"
-typeoutTextValues: '"<del>2021</del>", '
-typeoutFallback: '"2022"
+heroTitle: "Agile Pays Basque est de retour en 2024"
+eventDate: ""
+eventDateExtra: ""
+typeoutTextValues: ""
+typeoutFallback: ""
 heroButtons:
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
@@ -208,7 +207,7 @@ ticketsOffers:
   ticketContentList: ["Conférences et ateliers à l'ESTIA, vendredi", "Repas au Spot' vendredi midi", "Forum ouvert à l'ATLANTHAL, samedi", "Repas à l'ATLANTHAL, samedi midi"]
   validFrom: "2017-06-14T00:00"
   validThrough: "2017-07-14T23:59"
-  disabled: false  
+  disabled: false
  -
   name: "Vendredi<br/>(Billet)"
   price: "35"
