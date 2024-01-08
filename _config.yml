@@ -89,11 +89,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero"
-heroTitle: "Agile Pays Basque <typeout>"
-eventDate: "Edition 2021 annulée"
-eventDateExtra: "Désolé pour le faux départ, et rendez-vous en 2022"
-typeoutTextValues: '"<del>2021</del>", '
-typeoutFallback: '"2022"'
+heroTitle: "Agile Pays Basque est de retour en 2024"
+eventDate: ""
+eventDateExtra: ""
+typeoutTextValues: ""
+typeoutFallback: ""
 heroButtons:
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
