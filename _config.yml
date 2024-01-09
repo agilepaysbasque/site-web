@@ -92,8 +92,6 @@ heroImage: "hero"
 heroTitle: "Agile Pays Basque est de retour en 2024"
 eventDate: ""
 eventDateExtra: ""
-typeoutTextValues: ""
-typeoutFallback: ""
 heroButtons:
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}

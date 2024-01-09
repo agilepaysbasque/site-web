@@ -25,12 +25,6 @@
         }
     }
 }
-.typeout-fallback {
-    display: none;
-    @media (max-width: 767px) {
-        display: inline-block;
-    }
-}
 .explore {
     margin-left: -16px;
     position: absolute;
