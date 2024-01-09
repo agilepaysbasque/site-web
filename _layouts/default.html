@@ -16,7 +16,7 @@ layout: compress
         <div class="st-pusher">
             <div class="st-content">
 
-                {{ content }} 
+                {{ content }}
 
                 {% include footer.html %}
 
@@ -24,29 +24,29 @@ layout: compress
         </div>
     </div>
 
-    {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
-    {% endif %} 
+    {% if page.modal != null %}
+    	{% include speakers-modals.html %}
+    {% endif %}
 
     {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %} 
-    {% endif %} 
+        {% include sessions-modals.html %}
+    {% endif %}
 
     {% if page.permalink == '/schedule2016/' %}
-        {% include sessions-modals2016.html %} 
-    {% endif %} 
+        {% include sessions-modals2016.html %}
+    {% endif %}
     {% if page.permalink == '/schedule2017/' %}
-        {% include sessions-modals2017.html %} 
-    {% endif %} 
+        {% include sessions-modals2017.html %}
+    {% endif %}
     {% if page.permalink == '/schedule2018/' %}
-        {% include sessions-modals2018.html %} 
-    {% endif %} 
+        {% include sessions-modals2018.html %}
+    {% endif %}
     {% if page.permalink == '/schedule2019/' %}
-        {% include sessions-modals2019.html %} 
-    {% endif %} 
-    
+        {% include sessions-modals2019.html %}
+    {% endif %}
+
     {% include analytics.html %}
-    
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
@@ -63,22 +63,12 @@ layout: compress
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
-    {% endif %} 
+    {% endif %}
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
-                $(function () {
-                    if ($(window).width() > 767) {
-                        $("#typeout-text").typed({
-                            strings: [{{site.typeoutTextValues}}],
-                            typeSpeed: 150,
-                            backDelay: 900,
-                            loop: true
-                        });
-                    }
-                });
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
@@ -122,8 +112,8 @@ layout: compress
                 mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
-            
-        {% endif %} 
+
+        {% endif %}
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}

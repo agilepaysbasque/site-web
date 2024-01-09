@@ -92,8 +92,6 @@ heroImage: "hero"
 heroTitle: "Agile Pays Basque est de retour en 2024"
 eventDate: ""
 eventDateExtra: ""
-typeoutTextValues: ""
-typeoutFallback: ""
 heroButtons:
 # - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
@@ -186,10 +184,10 @@ partnersTitle: "Partenaires"
 partnersC4sponsorsButton: "Devenir Sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "S'abonner aux infos"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "L'inscription est ouvert à partir de Juin. Le nombre de place est limité. Restez à l'écoute!"
+subscribeImage: ""
+subscribeTitle: "Recevez les dernières infos sur l'événement"
+subscribeAction: "https://gmail.us11.list-manage.com/subscribe/post?u=5d45ce6a37e73f92ffd2bac03&amp;id=9247520840&amp;f_id=00afa6e0f0"
+subscribeInfo: ""
 
 # Tickets Block
 ticketsTitle: "Billetterie"
