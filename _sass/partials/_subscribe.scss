@@ -1,4 +1,14 @@
 .subscribe {
+    h3 {
+        font-size: 32px;
+        font-weight: $regular;
+        margin-bottom: 16px;
+    }
+    .form-container {
+        @media (min-width: $screen-sm-min) {
+            padding: 0 100px 0 100px;
+        }
+    }
     .email {
         width: 100%;
         height: 53px;
@@ -11,10 +21,16 @@
             font-size: 16px;
         }
     }
+    input {
+        background-color: $base-background-color;
+        color: $main-color;
+        font-weight: $regular;
+    }
     .button {
         @extend .email;
         input {
             text-transform: uppercase;
+            font-weight: $bold;
         }
     }
 }
