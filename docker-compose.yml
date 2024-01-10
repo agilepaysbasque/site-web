@@ -1,13 +1,13 @@
 version: "3.7"
 services:
-  jekyll: 
+  jekyll:
     image: jekyll/jekyll
     container_name: jekyll-local
     environment:
         - JEKYLL_ENV=docker
     # force_polling makes the linux box watch for any changes to files, then it will regenerate
     # livereload gets the browser to automatically refresh when changes happen to files
-    command: jekyll serve
+    command: jekyll serve --livereload
     ports:
         - 4000:4000
         - 35729:35729
