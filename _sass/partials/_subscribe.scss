@@ -20,12 +20,14 @@
         background-color: $base-background-color;
         color: $main-color;
         font-weight: $regular;
+        border: 1px solid $icon-fill-color;
     }
     .button {
         @extend .email;
         input {
             text-transform: uppercase;
             font-weight: $bold;
+            text-align: center;
         }
     }
 }
