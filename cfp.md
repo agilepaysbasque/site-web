@@ -12,9 +12,13 @@ isStaticPost: true
 
 #### Edition 2024
 
-Agile Pays-Basque, c'est là où le surf rencontre l'agilité sur la magnifique côte basque. Notre programme s'articule autour de trois piliers essentiels : la tech, le product management et le people management.
+Agile Pays-Basque, c'est là où le surf rencontre l'agilité sur la magnifique côte basque. Notre programme s'articule autour de trois piliers essentiels : la tech, le product et le people management.
 
-CTA : Soumettre un talk
+
+<p class="text-center">
+  <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc" class="btn btn-primary" taget="_blank">Soumettre un talk</a>
+</p>
+
 
 #### Quand ?
 
@@ -86,10 +90,14 @@ Si vous souhaitez soutenir l’événement financièrement en devenant sponsor, 
 
 Nous vous proposons quelques Persona auxquels vous référer pour cibler vos propositions :
 
-- Le Manager : Directeur des Systèmes d'Information (DSI), il a eu vent de l'agilité, parcouru quelques articles à ce sujet, et pense saisir les grandes lignes. Toutefois, son équipe n'est pas toujours convaincue qu'il maîtrise le sujet.
-- Le Product Manager : Loin de lui l'idée que le code soit son domaine de prédilection. Cependant, il excelle dans la compréhension des processus métier et partage ses connaissances avec les équipes de réalisation, agissant comme un véritable pont entre les besoins métier et la technologie.
-- Le développeur : Artisan du logiciel à la recherche de meilleures ou de nouvelles pratiques pour produire des applications pérennes et désireux d'échanger afin d'affiner sa compréhension du métier.
-- Le Padawan : Étudiant brillant en deuxième année, il trouve encore ces concepts un peu flous mais aimerait entrer dans le monde professionnel avec une vision concrète et opérationnelle de son futur métier.
+- **Le Manager :** Directeur des Systèmes d'Information (DSI), il a eu vent de l'agilité, parcouru quelques articles à ce sujet, et pense saisir les grandes lignes. Toutefois, son équipe n'est pas toujours convaincue qu'il maîtrise le sujet.
+
+- **Le Product Manager :** Loin de lui l'idée que le code soit son domaine de prédilection. Cependant, il excelle dans la compréhension des processus métier et partage ses connaissances avec les équipes de réalisation, agissant comme un véritable pont entre les besoins métier et la technologie.
+
+- **Le développeur :** Artisan du logiciel à la recherche de meilleures ou de nouvelles pratiques pour produire des applications pérennes et désireux d'échanger afin d'affiner sa compréhension du métier.
+
+- **Le Padawan :** Étudiant brillant en deuxième année, il trouve encore ces concepts un peu flous mais aimerait entrer dans le monde professionnel avec une vision concrète et opérationnelle de son futur métier.
+
 
 #### FeedBack / Aide
 
