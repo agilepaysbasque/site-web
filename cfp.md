@@ -7,8 +7,6 @@ isStaticPost: true
 ---
 
 <!-- TODO : **<a href="{{ site.baseurl }}/cfp-en/" class="btn-link">--&gt; en-FR</a>**-->
-<div class="sommaire">Sommaire</div>
-<ul class="sommaire-auto"></ul>
 
 #### Edition 2024
 
@@ -62,19 +60,14 @@ Coffret cadeau suprise
 
 #### Défraiements
 
-Nous proposons un remboursement de frais réels (avion/train/péage/essence) sur justificatif ou facture uniquement à hauteur d’un certain plafond en fonction de la destination de départ. Il faudra nous contacter au préalable pour accord et plafonnement éventuel.
+Nous proposons un remboursement de frais réels : 
+- Pour le déplacement (avion/train/péage/essence) sur justificatif uniquement
+- Pour une nuit d'hébergement (sur facture, 1 nuité uniquement)
+- Il faudra nous contacter au préalable pour accord et plafonnement (on tient compte de la distance et des options disponibles)
 
-Quelques exemples :
-
-- Depuis Paris *~300 euros*
-  - 1 A/R en train (de preférence 🌱)
-  - 1 nuit en chambre d’hôtel + petit déjeuner
-- Depuis Bordeaux *~150 euros*
-  - 1 A/R en voiture ou en train depuis Bordeaux
-  - 1 nuits en chambre d’hôtel + petit déjeuner
-- Depuis Toulouse *~200 euros*
-  - 1 A/R en voiture ou en train depuis Toulouse
-  - 1 nuits en chambre d’hôtel + petit déjeuner
+Nous mettrons également quelques chambres à disposition pour le vendredi soir
+- Sous reserve de disponibilité
+- Sur demande tôt uniquement
 
 #### Autorisation de Diffusion
 
