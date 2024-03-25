@@ -267,16 +267,15 @@ footerBlocks:
  -
   title: "Liens"
   links:
-   - {link: "https://www.meetup.com/fr-FR/Agile-Pays-Basque/", text: "Meetups"}
+   - { link: "https://www.linkedin.com/company/agile-paysbasque/", text: "LinkedIn" }
+   - { link: "https://www.facebook.com/AgilePaysBasque", text: "Facebook" }
+   - { link: "https://twitter.com/agilepb", text: "X (ex Twitter)" }
    - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", text: "Youtube"}
  -
   title: "Contacts"
   links:
    - {link: "mailto:agilepb@gmail.com", text: "agilepb@gmail.com"}
    - {link: "/community/", text: "Newsletter"}
-   - { link: "https://www.linkedin.com/company/agile-paysbasque/", text: "LinkedIn" }
-   - { link: "https://www.facebook.com/AgilePaysBasque", text: "Facebook" }
-   - { link: "https://twitter.com/agilepb", text: "X (ex Twitter)" }
 
  -
   title: "FAQ"
