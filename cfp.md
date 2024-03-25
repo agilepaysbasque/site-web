@@ -58,17 +58,6 @@ Soirée speaker
 Déjeuners offerts
 Coffret cadeau suprise
 
-#### Défraiements
-
-Nous proposons un remboursement de frais réels : 
-- Pour le déplacement (avion/train/péage/essence) sur justificatif uniquement
-- Pour une nuit d'hébergement (sur facture, 1 nuité uniquement)
-- Il faudra nous contacter au préalable pour accord et plafonnement (on tient compte de la distance et des options disponibles)
-
-Nous mettrons également quelques chambres à disposition pour le vendredi soir
-- Sous reserve de disponibilité
-- Sur demande tôt uniquement
-
 #### Autorisation de Diffusion
 
 L’orateur/oratrice s’engage à fournir un support de la présentation ou un lien vers le support partagé à l’issue de la conférence afin qu’il soit publié.
