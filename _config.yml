@@ -52,7 +52,7 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
-# - {permalink: "/cfp/", text: "Devenir Orateur"}
+ - {permalink: "/cfp/", text: "Devenir Orateur"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
