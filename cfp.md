@@ -14,7 +14,7 @@ Agile Pays-Basque, c'est là où le surf rencontre l'agilité sur la magnifique 
 
 
 <p class="text-center">
-  <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc" class="btn btn-primary" taget="_blank">Soumettre un talk</a>
+  <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc" class="btn btn-primary" target="_blank">Soumettre un talk</a>
 </p>
 
 
