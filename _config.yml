@@ -117,7 +117,7 @@ statisticBlock:
 formatBlock:
  - {title: "Des Talks", image: "conference.jpg", text: "Répartis sur 3 thématiques \"Culture Agile\", \"Artisanat du Logiciel\" et \"Découverte et Conception de Produits\"." }
  - {title: "Des Ateliers", image: "workshop.jpg", text: "Pour découvrir ou approfondir les sujets des talks" }
- - {title: 'Un "Forum ouvert"', image: "forum.jpg", text: "Pour finir la journée, programme co-construit le jour même entre les orateur·rice et les participants en fonctions de leurs envies" }
+ - {title: 'Un "Forum ouvert"', image: "forum.jpg", text: "Pour finir la journée, programme co-construit le jour même entre les orateur·rice et les participant.e.s en fonctions de leurs envies" }
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
