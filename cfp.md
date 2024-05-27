@@ -26,7 +26,7 @@ Pour le renouveau de l'événement, nous avons fait le choix de rester sur un fo
 
 - Vendredi :
   - La journée : Conférences et Ateliers
-  - Le soir :  Repas/apéro des orateurs sur la plage
+  - Le soir :  Repas/apéro des orateur·rice.s sur la plage
 - Samedi :
   - Forum ouvert (aka OpenSpace, Unconférence, Conf non organisée …)
   - Fin d'après-midi :  picnic/activités libres en fin d’après-midi à la plage (si le temps le permet).
@@ -39,7 +39,7 @@ Nous vous informerons le plus tôt possible par email (**idéalement fin juin**)
 
 #### Quand le programme sera-t-il disponible ?
 
-La liste des orateurs/oratrices sera communiquée **courant juillet** au fur et à mesure des confirmations.
+La liste des orateur·rice.s sera communiquée **courant juillet** au fur et à mesure des confirmations.
 
 Le programme définitif sera publié une fois que tous les intervenant.e.s auront confirmé et que nous aurons réussi à résoudres toutes nos contraintes.
 
@@ -51,18 +51,18 @@ Une fois le programme connu de tous, nous nous réservons la possibilité de l�
 
 Vous serez, bien entendu au préalable, consulté.e.s si nous envisageons un changement d’horaire vous concernant.
 
-##### Conditions pour tous nos orateurs
+##### Conditions pour tous nos orateur·rice.s
 
 Accès gratuit aux 2 jours de la conférence
-Soirée speaker
+Soirée conférencier·ère·s
 Déjeuners offerts
 Coffret cadeau suprise
 
 #### Autorisation de Diffusion
 
-L’orateur/oratrice s’engage à fournir un support de la présentation ou un lien vers le support partagé à l’issue de la conférence afin qu’il soit publié.
+L’orateur·rice s’engage à fournir un support de la présentation ou un lien vers le support partagé à l’issue de la conférence afin qu’il soit publié.
 
-L’orateur/oratrice accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'événement.
+L’orateur·rice accepte que les photos et vidéos filmées pendant les sessions soient diffusées dans le cadre de l'événement.
 
 #### Sponsoring
 
@@ -72,13 +72,13 @@ Si vous souhaitez soutenir l’événement financièrement en devenant sponsor, 
 
 Nous vous proposons quelques Persona auxquels vous référer pour cibler vos propositions :
 
-- **Le Manager :** Directeur des Systèmes d'Information (DSI), il a eu vent de l'agilité, parcouru quelques articles à ce sujet, et pense saisir les grandes lignes. Toutefois, son équipe n'est pas toujours convaincue qu'il maîtrise le sujet.
+- **Manager :** Directeur·rice des Systèmes d'Information (DSI) qui a eu vent de l'agilité, parcouru quelques articles à ce sujet, et pense saisir les grandes lignes. Toutefois, son équipe n'est pas toujours convaincue de sa maîtrise du sujet.
 
-- **Le Product Manager :** Loin de lui l'idée que le code soit son domaine de prédilection. Cependant, il excelle dans la compréhension des processus métier et partage ses connaissances avec les équipes de réalisation, agissant comme un véritable pont entre les besoins métier et la technologie.
+- **Product Manager :** Loin de lui l'idée que le code soit son domaine de prédilection mais excelle dans la compréhension des processus métier et partage ses connaissances avec les équipes de réalisation, agissant comme un véritable pont entre les besoins métier et la technologie.
 
-- **Le développeur :** Artisan du logiciel à la recherche de meilleures ou de nouvelles pratiques pour produire des applications pérennes et désireux d'échanger afin d'affiner sa compréhension du métier.
+- **Développeur·euse :** Artisan.e du logiciel à la recherche de meilleures ou de nouvelles pratiques pour produire des applications pérennes et désireux·se d'échanger afin d'affiner sa compréhension du métier.
 
-- **Le Padawan :** Étudiant brillant en deuxième année, il trouve encore ces concepts un peu flous mais aimerait entrer dans le monde professionnel avec une vision concrète et opérationnelle de son futur métier.
+- **Padawan :** Étudiant.e brillant.e en deuxième année qui trouve encore ces concepts un peu flous mais aimerait entrer dans le monde professionnel avec une vision concrète et opérationnelle de son futur métier.
 
 
 #### FeedBack / Aide
