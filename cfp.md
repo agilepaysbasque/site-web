@@ -12,11 +12,7 @@ isStaticPost: true
 
 Agile Pays-Basque, c'est là où le surf rencontre l'agilité sur la magnifique côte basque. Notre programme s'articule autour de trois piliers essentiels : la tech, le product et le people management.
 
-
-<p class="text-center">
-  <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc" class="btn btn-primary" target="_blank">Soumettre un talk</a>
-</p>
-
+**Le CFP est clos pour cette année. Nous allons annoncer les premiers orateur·rice.s dans les prochains jours.**
 
 #### Quand ?
 
