@@ -1,9 +1,36 @@
 <!-- Begin Partners Section -->
+<section  class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h1>Devenez sponsor</h1>
+
+            <p>Nous sommes ravis de vous annoncer le retour d'Agile Pays Basque les 6 et 7 septembre 2024. Après une pause, nous sommes plus motivés que jamais pour offrir une expérience unique et enrichissante à tous nos participants.
+
+            <p>Nous avons besoin de votre soutien pour réaliser cet événement. En devenant sponsor, vous pouvez aider à faire de cette conférence une expérience enrichissante pour tous les participants. Votre contribution est importante.
+
+            <p>
+                <strong>Comment vous impliquer ?</strong>
+                <ul>
+                <li><strong>Sponsorship financier :</strong> Aidez-nous à couvrir les coûts essentiels et à garantir le succès de la conférence. Votre soutien financier nous permettra d'offrir une expérience enrichissante à tous les participants.</li>
+                <li><strong>Dons en nature :</strong> Soutenez-nous avec des produits ou services qui peuvent bénéficier aux participants de la conférence.</li>
+            </ul>
+
+            <p>Envie de soutenir Agile Pays Basque ? Rejoignez-nous pour créer un événement inoubliable ! </p>
+            <p>
+            <p class="text-center">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHOE3eC4hjPXEdfN1G_OYN_f8aRjjKX-vmkiGCibJYdGrJtw/viewform?usp=sf_link" class="btn btn-primary" target="_blank">Devenez sponsor</a>
+            </p>
+            </p>
+
+        </div>
+    </div>
+</section>
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% for edition in site.data.allpartners.Edition %}
-                <hr/>       
+            {% assign sorted_editions = site.data.allpartners.Edition | sort: 'date' | reverse %}
+            {% for edition in sorted_editions %}
+                <hr/>
                 <div class="edition">
                 <h3>{{ edition.year }}</h3>
                 {% for partner in edition.partners %}
@@ -25,6 +52,6 @@
                 </div>
             {% endfor %}
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Partners Section -->

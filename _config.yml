@@ -52,7 +52,8 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
- - {permalink: "/cfp/", text: "Proposer un sujet (CFP)"}
+ - {permalink: "/sponsors/", text: "Devenez sponsor"}
+ - {permalink: "/cfp/", text: "Proposez un sujet (CFP)"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
