@@ -84,7 +84,7 @@
 	"surname": "CRANFORD",
 	"company": "Upwiser",
 	"title": "Developpeur, Formateur",
-	"bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
+	"bio": "An American Polyglot Artisanal Retro-Futurist ⊗ Team-Scale Anarcho-Syndicalismi\u00ADst in France. Agile Catalyst, eXtreme Programmer, Trainer, Coach & Manager Ardent AntiFa",
 	"thumbnailUrl": "SamCranford.jpg"
 }, {
 	"id": 19,
@@ -149,10 +149,11 @@
 }, {
 	"id": 30,
 	"name": "Anne",
-	"surname": "GABRILLAGUES",
-	"company": "Ippon Technologies",
-	"bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes de développement en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'an dernier l'équipe Lean Kanban France. Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
-	"thumbnailUrl": "AnneGabrillagues.jpg"
+	"surname": "Gabrillagues",
+	"company": "essensei",
+	"bio": "J'ai à mon actif un peu plus de 15 ans d'expérience en contexte agile,sur des rôles de Scrum Master et Product Owner (produits IT) puis de coach agile. Virage pris en 2008, faisant suite à 10 ans de carrière en contexte cycle en V dans le développement logiciel et la gestion de projet.\n\nJ'accompagne équipes et organisations de la façon la plus pragmatique possible, afin de les aider à adopter de façon durable une meilleure façon de travailler ensemble au service de la satisfaction de leurs clients. Dans ma boîte à outils vous trouverez des choses aussi variées que des OKR, du Kanban, des outils Lean, de la gestion de produit, des pratiques de facilitation et de conception d'ateliers / serious games, des techniques d'ingénierie logicielle, des pratiques de gestion de portefeuille, ainsi que des choses issues d'autres domaines et dont je suis en train d'expérimenter l'utlisation en contexte agile.\n\nLa communauté agile est un élément important dans ma vie professionnelle, notamment en tant qu'oratrice ayant la chance d'être régulièrement retenue. Je fais aussi partie d'équipes organisatrices de conférences depuis 2012, je me concentre actuellement sur la conférence FlowCon France, dédiée à la création de valeur en flux.",
+	"thumbnailUrl": "AnneGabrillagues.jpg",
+	"tweeter": "https://x.com/agabrillagues"
 }, {
 	"id": 31,
 	"name": "Mathilde",
@@ -187,10 +188,10 @@
 }, {
 	"id": 37,
 	"name": "Rachel",
-	"surname": "JOLIN DUBOIS",
-	"company": "DSI de Pôle emploi ",
-	"title": "Coach de PO",
-	"bio": "Houlaaaaa !!  Ancienne \"Marketing Product Manager\" devenue \"Product Owner agile\" suite à une rencontre avec SCRUM et Claude Aubry en 2006, je continue à tracer mon chemin en enrichissant mes pratiques à la faveur des nouvelles rencontres et des lectures. Aujourd'hui je forme et j'accompagne les équipes, et plus particulièrement les PO. ",
+	"surname": "DUBOIS",
+	"company": "Spotify",
+	"title": "",
+	"bio": "Some call me an \"agile rockstar\", others a “product powerhouse” ⚡, I prefer \"passionate leader\" with a knack for getting things done (and having fun while doing it !). As a Senior Agile Coach and Product Manager at Spotify with 20+ years of experience, I'm here to turn \"what ifs\" into \"Ah Ah\" !\n\nI've navigated the software industry trenches from the very first Dotcom startups to today key players, as a product champion, a team manager and an agile evangelist. From mastering frameworks like Scrum, Kanban or Lean StartUp to scaling agile, fostering collaborative cultures, I've seen it in all places (and done quite a lot!!!). So, when I say I can create environments where teamwork hums, transparency shines, and efficiency breaks records, you can bet on me. But don't let the process fool you - I'm all about empowering individuals. Think continuous learning, fearless experimentation, and a contagious \"can-do\" spirit. Witnessing teams unlock their agile lightbulb moments and propel products, teams, and businesses to success? That's my fuel!\n\nSpeaking of sharing the love, I'm a regular speaker at lean agile and product conferences. Think captivating stories, practical examples, and a healthy dose of \"been there, failed that and learned this\" wisdom.",
 	"thumbnailUrl": "RachelJolinDubois.jpg"
 }, {
 	"id": 38,
@@ -262,4 +263,94 @@
 	"title": "UX Designer",
 	"bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
 	"thumbnailUrl": "RaphaëlYharrassarry.jpg"
-}]
+}, {
+	"id": 57,
+	"name": "Emmanuelle",
+	"surname": "ABOAF",
+	"company": "Dcube",
+	"title": "",
+	"bio": "Sourde de naissance, bionique (deux implants cochléaires) et surtout développeuse Fullstack Angular .NET chez Shodo, je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit être accessible aussi bien dans la vraie vie que dans le Web.",
+	"thumbnailUrl": "",
+	"tweeter": "https://x.com/eaboaf_"
+}, {
+	"id": 58,
+	"name": "iana ",
+	"surname": "iatsun",
+	"company": "IA parle",
+	"title": "",
+	"bio": "Iana a obtenu son doctorat en traitement d’images et du signal en 2014. Son premier réseau de neurone a été entrainé en 2013. Après sa thèse, elle a travaillé comme data-scientist dans le domaine de la biométrie pour la reconnaissance d’empreintes digitales et des visages. Depuis 4 ans, Iana gère avec son équipe les activités autour de la mise en production des modèles d’apprentissage automatique (MLOps) à La Banque de France. Elle s’investit sur les sujets concernant une IA éthique, explicable et responsable.",
+	"thumbnailUrl": ""
+}, {
+	"id": 59,
+	"name": "Ane ",
+	"surname": "Diaz De Tuesta",
+	"company": "Datadog",
+	"title": "",
+	"bio": "Ane est Software Engineer chez Datadog. Elle est aussi oratrice de conférences et facilitatrice graphique.\n\nDepuis + de 12 ans dans le monde du développement web, principalement du Frontend, elle est passionnée par son travail, où elle est en constant apprentissage.\n\nElle est très impliquée dans les conférences techniques, que ce soit en tant que participante ou oratrice. Enthousiaste de la Facilitation Graphique et du Sketchnoting, qu'elle essaie de mettre en place dans son quotidien (professionnel et personnel), elle est une vraie convaincue des bénéfices que ces techniques apportent.\n\nAne est une personne ouverte, dynamique et qui aime bien les interactions sociales.",
+	"thumbnailUrl": ""
+}, {
+	"id": 61,
+	"name": "Coach Agile",
+	"surname": "",
+	"company": "",
+	"title": "",
+	"bio": "",
+	"thumbnailUrl": ""
+}, {
+	"id": 62,
+	"name": "Arnaud ",
+	"surname": "Thiefaine",
+	"company": "",
+	"title": "",
+	"bio": "Arnaud est développeur, coach craft et formateur chez Arolla. Passionné par la transmission des bonnes pratiques, il est également co-auteur du livre \"Software Craft : TDD, Clean Code et autres pratiques essentielles\" aux éditions Dunod et anime régulièrement des meetups et BBL autour du Craft.",
+	"thumbnailUrl": ""
+}, {
+	"id": 63,
+	"name": "Noémie ",
+	"surname": "M. Rivière",
+	"company": "Onepoint",
+	"title": "",
+	"bio": "",
+	"thumbnailUrl": ""
+}, {
+	"id": 64,
+	"name": "Sara ",
+	"surname": "Dufour",
+	"company": "",
+	"title": "",
+	"bio": "Sara accompagne les entreprises ou autres collectifs dans leur cheminement Agile et leurs pratiques Produit, en tant que coach ou manager de transition freelance. Elle a co-fondé La Place des Grenouilles, une association anti-sexiste fin 2021. C'est une passionnée d'arts et de mots, de diversité et d'inclusion, de gastronomie et de CNV.",
+	"thumbnailUrl": ""
+}, {
+	"id": 65,
+	"name": "Guillaume",
+	"surname": "Saint Etienne",
+	"company": "",
+	"title": "",
+	"bio": "J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81.\n\nJ'ai développé des écrans Videotex Je suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pens",
+	"thumbnailUrl": ""
+}, {
+	"id": 66,
+	"name": "pauline ",
+	"surname": "garric",
+	"company": "",
+	"title": "",
+	"bio": "",
+	"thumbnailUrl": ""
+}, {
+	"id": 67,
+	"name": "Nicolas  ",
+	"surname": "Petitjean",
+	"company": "",
+	"title": "",
+	"bio": "",
+	"thumbnailUrl": ""
+}, {
+	"id": 68,
+	"name": "Bruno",
+	"surname": "Boucard",
+	"company": "OCTO Technology",
+	"title": "",
+	"bio": "Ma longue expérience en informatique m'a permis de concevoir de meilleures approches collaboratives pour créer des produits à fort impact.\n\nComme le colibri, chacun fait sa part pour créer un logiciel qui aura un meilleur impact sur ses utilisateurs. En tirant parti d'une approche de conception axée sur le domaine, je facilite une communication plus transparente entre les parties prenantes et les créateurs de logiciels grâce à une modélisation collaborative et une démocratie profonde, décodant les complexités, résolvant les conflits et garantissant que les logiciels restent agiles face aux demandes de l'entreprise.\n\nDans mes rôles de consultant pour OCTO Technology, responsable technique et architecte logiciel, et coach agile et technique, je catalyse les organisations et les équipes vers la conception et la construction d'architectures logicielles durables et résilientes.\n\nBruno intervient en tant que speaker dans nombreuses conférences : DDD EUROPE, Explore DDD, DDD eXchange, XP Conference, NewCraft, Devoxx France, SchoolOfPo, Agile Tour, BDXIO …",
+	"thumbnailUrl": ""
+}
+]

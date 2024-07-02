@@ -9,209 +9,81 @@
  "service": "true"
 }, {
    "id": 9001,
-   "title": "Cessons les estimations !",
+   "title": "Spotify, de l'intérieur :)",
    "subtitle": "",
-   "description": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.\n\nAprès un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.\n\nConférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.\n\nOuvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
-   "complexity": "Tout public",
-   "speakers": [81]
-}, {
-   "id": 10151,
-   "title": "Entre industrialisation et artisanat : le métier de développeur",
-   "subtitle": "",
-   "description": "",
-   "complexity": "Tout public",
-   "speakers": [39]
-}, {
-   "id": 10152,
-   "title": "Leucosélophobie ou la peur de la page blanche pour le PO",
-   "subtitle": "",
-   "description": "Comme l'auteur de romans, la peur de la page blanche peut frapper certains \"Product Owner\". \n\nVous avez été nommé pour ce rôle pour la première fois dans votre entreprise, et vous aviez une casquette de chef de projet ou MOA auparavant. Vous êtes consultant externe et on a besoin de vos services pour un projet où vous tiendrez le rôle stratégique de la gestion du backlog, et ce, sans complètement connaître le sujet métier et son contexte. \n\nLe backlog est vide... comment le remplir ? Comment s'assurer que les premières user stories auront de la valeur ?\n\nUne course contre le temps démarre, celle pour obtenir de la reconnaissance, de la confiance et de la crédibilité de la part de votre équipe et de vos responsables. \n\nOn commence par poser des questions, écrire quelques \"user stories\" en marquant le qui, le quoi et le pourquoi. On passe beaucoup de temps à prioriser les récits dans le backlog, cette longue liste de choses à faire... et c'est la paralysie, le doute, plus rien ! \n\nVenez débloquer la situation avec Bastien et Alexandre !",
-   "complexity": "Débutant",
-   "speakers": [82, 83]
-}, {
-   "id": 10153,
-   "title": "Développez l’intelligence collective de vos équipes avec les “Liberating Structures”",
-   "subtitle": "",
-   "description": "Avez-vous déjà vécu :\n - des réunions épouvantablement ennuyeuses ?\n - l’application aveugle des Best Practices des autres ?\n - les interrogations des managers sur le mutisme des collaborateurs ou leur manque d’implication ?\n - l’application de procédures ingrates ?\n - la sempiternelle séparation entre décideurs et opérationnels ?\n - la mise à l’écart de certains collaborateurs parce qu’ils ralentissent le groupe ?\n - la déception engendrée par le fait que les idées d’amélioration ne sont jamais mises en place ?\n\nVous souhaitez développer l’intelligence collective de vos équipes de façon efficace, ludique et rapide ? Les “Liberating Structures” peuvent vous aider !\n\nLes “Liberating Structures” sont des stratégies de facilitation extrêmement efficaces;  qui peuvent être utilisées pour animer des réunions, des séances de planification, des formations, des ateliers, des présentations  ou encore lors de changements organisationnels complexes.\n\nLes “Liberating Structures” permettent de libérer la parole et d'inclure tout le monde dans les échanges et la prise de décision qui façonnent les prochaines étapes.. Les “Liberating Structures” nous invitent à envisager des alternatives aux «structures conventionnelles» (par exemple, des réunions de suivi, des conférences, des discussions non structurées) et favorisent une participation active dans des groupes de toute taille.",
-   "complexity": "Tout public",
-   "speakers": [30]
-}, {
-   "id": 10154,
-   "title": "Coaching Dojo",
-   "subtitle": "",
-   "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui\ndésirent découvrir, apprendre, développer, … des techniques de coaching qui les\naideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching\nDojo sur Bordeaux.",
-   "complexity": "Débutant",
-   "speakers": [2, 23]
-}, {
-   "id": 11151,
-   "title": "Clean Design, Clean Code",
-   "subtitle": "",
-   "description": "During this session, we will talk about a glimpse of best practices I've learned in my career at Microsoft, AWS and Oracle regarding coding and designing Software.\n\nHow to do code review? What is a clean code? How to design? How to do a design review? How to build things at scale? What does it mean to be a good 'developer'?\n",
-   "complexity": "Expert",
-   "speakers": [84]
-}, {
-   "id": 11152,
-   "title": "Le point de vélocité vide",
-   "subtitle": "",
-   "description": "A la poursuite d'un rendement industriel élevé, des entreprises mettent en place plusieurs processus de vérifications et de contrôles multi niveaux, des découpages de projets en trop petites tailles ou avec trop d'adhérences ou encore des gestions de \"ressources\" interchangeables à volonté. Ceci a pour effet d'éroder la valeur produite par point de vélocité.\nSans adresser l'équipe de développement et les pratiques de craftmanship, je ferais un tour des mauvaises pratiques en bordure (entendez actionnable au niveau management) qui perturbent, ralentissent ou ne pas permettent pas de tirer le meilleur d'une équipe de réalisation. \n",
-   "complexity": "Tout public",
-   "speakers": [85]
-}, {
-   "id": 11153,
-   "title": "Cadrage agile ux d'un produit : du concept aux US\"",
-   "subtitle": "",
-   "description": "\" En tant que Product Owner je veux découvrir les différents outils agile ux de cadrage du besoin afin de piloter efficacement la conception de mon produit \" : en reprenant le processus de conception d'un produit depuis les premières étapes d'idéation, nous  aborderons successivement les différents outils pouvant être mobilisés pour assurer un cadrage itératif centré sur les besoins de l'utilisateur final et permettre la conception d'une solution Produit vraiment adaptée.  Cette session sera prolongée le deuxième jour d'un atelier de mise en pratique de  2 outils présentés : Design Studio et Value Proposition Canvas\"",
-   "complexity": "Intermédiaire",
+   "description": "En 2002, des entrepreneurs suédois, loin d'être des experts de la musique, se lancent dans un pari fou : révolutionner l'industrie en pleine crise du piratage. Leur arme ? Un service de streaming musical illimité par abonnement. Trouvant rapidement un public, Spotify connait pourtant des revers : mauvaises décisions stratégiques et croissance négative. Mais l'entreprise s'adapte, apprend de ses erreurs et repart de l'avant pour devenir le géant mondial du streaming que l'on connaît aujourd'hui. Comment expliquer cette saga suédoise ? Quels sont les ingrédients qui font son succès depuis plus de 10 ans ? Qu'est-ce qui les différencie des autres géants de la technologie ? Est-ce le fameux \"Spotify model\" ou bien autre chose ? Comment cette alchimie mèle OKR , les Bets, le darwinisme des projets, l'agilité a l'échelle, la DATA , la découverte continue, le Design Thinking, l'UX Lean, le Service Design avec une organisation sociale évolutive basée sur la vitesse. Le tout saupoudré d'un peu d'ABBA pour mettre l'ambiance, alors préparez-vous à être surpris !\n\nUn REX de première fraicheur de la part du seul coach agile français à avoir travaillé au sein du mythique eldorado agile qu'est Spotify !",
    "speakers": [37]
 }, {
-   "id": 12151,
-   "title": "The Art of Product Management",
+   "id": 9002,
+   "title": "Le Continuous Discovery est-il l’avenir du Continuous Delivery ?",
    "subtitle": "",
-   "description": "Complete overview of what product management is and lessons I learned from  being a Product Manager at Microsoft ",
-   "complexity": "Débutant",
-   "speakers": [86]
-},
-{
-    "id": 12153,
-    "title": "PAUSE / REPAS",
-    "description": " 1er service",
-    "service": "true"
- },
- {
-   "id": 12451,
-   "title": "Commment le recrutement peut s'inspirer des méthodes agiles ?",
+   "description": "Depuis une vingtaine d'années, le Continuous Delivery a terriblement évolué. Consciente de cette accélération, la communauté Product Management propose de s’aligner sur les principes du Continuous Delivery avec une nouvelle approche, le Continuous Discovery.\n\nNous plongerons dans cette nouvelle approche orientée Produit, qui repose à la fois sur une organisation spécifique, un rythme soutenu et un atelier autour d’un arbre visuel permettant de passer de l’espace du problème à l’espace de la solution.\n\nLe Continuous Dicovery n’est pas décorrélé de l’équipe de développement, mais en fait partie. L’objectif est limpide : permettre aux équipes de développement de délivrer encore plus vite des besoins du métier calibrés avec soin pour un impact maximum auprès des utilisateurs.",
+   "speakers": [68]
+}, {
+   "id": 9003,
+   "title": "De l'exclusion à l'inclusion : l'accessibilité numérique pour tous et toutes.",
    "subtitle": "",
-   "description": "Avec l'évolution du marché et de la technologie les méthodes traditionnelles de recrutement ne fonctionnent plus. De nombreuses entreprises se heurtent à la problématique de recrutement de profils techniques. Et si les méthodes agiles nous aidaient à améliorer la qualité et la performance des recrutements et à offrir une meilleure expérience candidat ?",
-   "complexity": "Débutant",
-   "speakers": [87]
+   "description": "Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.\n\nAprès un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.\n\nConférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.\n\nOuvert à tout public ayant une première approche des projets de développement logiciel. Durée : 45 min.",
+   "speakers": [57]
 }, {
-   "id": 13151,
-   "title": "De Bruce Lee à Darwin : Découvrez ces agilistes insoupçonnés",
+   "id": 9005,
+   "title": "Démystifier l'IA : Un guide pratique pour les développeurs",
    "subtitle": "",
-   "description": "\"Soyez Agile ! \"... vous avez déjà entendu cette phrase en entreprise ? Mettons des mots précis sur ce que signifie \"être Agile\" en balayant la vie de plusieurs Agilistes insoupçonnés comme Bruce Lee, Schumacher ou Darwin",
-   "complexity": "Débutant",
-   "speakers": [88]
-}, 
-{
-    "id": 13153,
-    "title": "PAUSE / REPAS",
-    "description": " 2er service",
-    "service": "true"
- },
- {
-    "id": 13451,
-    "title": "PAUSE",
-    "description": "",
-    "service": "true"
- },
-{
-   "id": 14151,
-   "title": "Alice in Agile-Land",
+   "description": "L'intelligence artificielle est en train de transformer en profondeur le paysage professionnel. Si son impact est déjà considérable dans le domaine du traitement des données, les progrès fulgurants réalisés ces dernières années laissent entrevoir une transformation de tous les secteurs d'activité.\n\nDans cette présentation, j'ai pour objectif de démystifier l'IA. Je vous guiderai à travers les concepts fondamentaux de cette technologie, en explorant ses capacités et ses limites dans le contexte du développement de logiciel. Mon ambition est de fournir aux développeurs les connaissances et les outils nécessaires pour se familiariser avec l'IA et l'intégrer efficacement dans leurs projets.",
+   "speakers": [58]
+}, {
+   "id": 9006,
+   "title": "Découvrez le Basque, l’OVNI linguistique européen",
    "subtitle": "",
-   "description": "Alice re-visite l'agilité à Agile-Land à travers son histoire.  \"Voudriez-vous me dire, s’il vous plaît, quel chemin je dois prendre pour [faire de l'agilité] ? – Cela dépend beaucoup de l’endroit où tu veux aller, répondit le chat. – Peu m’importe l’endroit...dit Alice. – En ce cas, peu importe la route que tu prendras, répliqua-t-il.\"\nRencontre théâtralisée avec Alice et le Chapelier fou qui vivent au Pays des Merveilles ou les valeurs humaines et le respect des individus passent avant les képis-aïe ! Ou les managers, comme le chat du cheschire s'éclipsent pour faire place aux principaux protagonistes qui \"font\" l'histoire.\nNous passeront ensuite \"de l'autre côté du miroir\" pour voir ce qu'il en est vraiment de Pays de l'Agilité, dans le monde de l'entreprise.\n\nNous vous proposons un parallèle entre l'aventure d'Alice racontée par Lewis Caroll et notre aventure au Pays de l'Agilité. Cette présentation théatrale permet de revisiter les fondamentaux de l'agilité en s'amusant.\n\nA l'issue de cette présentation, les participants seront amenés à s'interroger sur la voie qu'ils ont chois pour aller vers leur chemin de l'agilité.\n\nNous trouvons le livre de Lewis Caroll très philosophique et nous aimerions faire des parallèles avec notre histoire et l'apprentissage que nous avons de l'agilité.",
-   "complexity": "Intermédiaire",
-   "speakers": [48, 8]
+   "description": "Kaixo!\n\nJe m'appelle Ane, et j'ai l'immense plaisir de vous faire découvrir ma langue, le basque.\n\nAprès une brève introduction sur la culture basque et son histoire nous nous concentrerons plus spécifiquement sur la langue basque.\n\nAujourd'hui, je me sens en mesure d'expliquer les éléments essentiels de cette langue singulière, tout en établissant des parallèles avec d'autres langues que je maîtrise, telles que le français ou l'anglais. En utilisant la technique de la pensée visuelle, j'essaierai de rendre cette partie la plus claire et pédagogique possible.\n\nVenez explorer cette culture européenne unique et méconnue.",
+   "speakers": [59]
 }, {
-   "id": 14152,
-   "title": "Agile Rocket - Module Coopérer",
+   "id": 9007,
+   "title": "La gestion des risques vue par une Agiliste",
    "subtitle": "",
-   "description": "Lorsque l’on se lance sur le chemin de l’agilité arrive souvent cette fameuse question : Scrum ou Kanban ? Mais est-ce véritablement la bonne question ? Quels sont les objectifs que l’on souhaite atteindre ?\n\nManager l’auto-organisation, énergiser sans contraindre, structurer une démarche d’amélioration sans imposer de méthode ou encore satisfaire ses clients en anticipant leurs besoins sont des sujets qui font également partie intégrante du processus de transformation.\n\nC’est suite à ce constat qu’a émergé l’Agile Rocket, une démarche alternative vers une agilité respectueuse, modulaire et progressive basée sur la métaphore de la fusée.\n\nDans cette session, vous découvrirez :\n\n- une métaphore pour parler d'Agilité, différemment\n- la mise en oeuvre concrète de son premier module “Coopérer” au sein d’une équipe hors IT",
-   "complexity": "Débutant",
-   "speakers": [90]
+   "description": "Je suis coach agile et j'ai un secret à vous avouer : j'ai une passion pour la gestion de projet, notamment la gestion des risques. J'ai même encore mon vieil exemplaire du PMBOK 3eme édition dans ma bibliothèque ...\n\nEt c'est notamment pour cela que j'aime l'Agilité !\n\nJe vous propose lors de cette session de vous partager en quoi l'Agilité est (entre autres) un fabuleux corpus de pratiques, postures, outils etc. de gestion de risques. C'est aussi par ce biais que j'ai pu initier des conversations impactantes dans des contextes où la culture est fondée sur la gestion de projet classique et où mes interlocuteurs ne voyaient pas forcément d'un bon oeil une coach agile débarquer sur leur périmètre ... Toute ressemblance avec un programme de transformation réel est bien évidement fortuite ;)\n\nCe sera aussi pour moi l'occasion de vous dévoiler une partie de ma boîte à outils sur le sujet, notamment des ateliers prêts à l'emploi.",
+   "speakers": [30]
 }, {
-   "id": 14153,
-   "title": "Introduction aux revues de code pour votre équipe",
+   "id": 9008,
+   "title": "From Evidence to Action: The Data Driven Transformations #NoFrameworks",
    "subtitle": "",
-   "description": "Les projets open-source font des code-reviews. Facebook fait des code-reviews. Pourquoi pas vous ? Venez découvrir comment les mettre en pratique dans votre équipe et échanger sur ce rituel permettant la propriété collective du code.",
-   "complexity": "Intermédiaire",
-   "speakers": [19]
+   "description": "\"Etre agile pour être agile ne sert à rien.\" J'entends cette phrase depuis une décennie et pourtant voit encore beaucoup cette agilité sans objectifs qui devient plus un exercice de style plutôt qu'un levier de transformation réelle.\n\nDans un monde où l’agilité est devenue un mantra, ce talk \"From Evidence to Action: The Data Driven Transformations #NoFrameworks\" défie l’orthodoxie. Être agile juste pour l’agilité ? Inefficace. Ce talk propose une approche moderne : piloter la transformation par les données, non par des dogmes. L’Evidence-Based Management (EBM), DORA et nos analyses démontrent comment aligner véritablement agilité et objectifs business. Exit les cadres rigides, bienvenue dans une ère où chaque décision, action et initiative est justifiée par des données tangibles, mesurables. Nous plongeons dans des stratégies concrètes où les métriques deviennent le phare guidant vers l’excellence opérationnelle, satisfaction client et innovation continue. Préparez-vous à redéfinir l’agilité, où la donnée n’est pas qu’un outil mais le fondement d’une transformation réelle et mesurable.",
+   "speakers": [61]
 }, {
-   "id": 14154,
-   "title": "Découvrir Event Storming et le quotidien des développeurs",
+   "id": 9009,
+   "title": "'Tidy First?' de Kent Beck, un guide pratique pour un code durable et rentable",
    "subtitle": "",
-   "description": "Cet atelier s'adresse aussi bien à un développeur, un PO qu'à un expert métier. \n\nEn alternant rapidement des phases d'échanges sur le métier et d'implémentation, nous allons :\n    -Découvrir EventStorming\n    -Sentir comment il permet d'aligner la compréhension des Product Owners, des Experts Métiers et des Programmeurs\n    -Voir comment écrire un code cohérent avec la vision partagée du métier \n    -Bien nous amuser\n    -...\n\nAucune connaissance en programmation n'est nécessaire. \n\nPrérequis : si possible amener un PC dans lequel vous aurez préchargé Scratch dans votre navigateur en ouvrant la page https://beta.scratch.mit.edu/",
-   "complexity": "Tout public",
-   "speakers": [89, 12]
+   "description": "\"Tidy First?\", le dernier ouvrage de Kent Beck, est le fruit de plusieurs années de réflexion sur le métier de développeur.\n\nÀ travers une quinzaine de patterns, il nous enseigne comment réaliser de petits nettoyages de code qui peuvent considérablement simplifier notre travail quotidien.\n\nEn illustrant ces patterns, nous montrerons comment les intégrer de manière efficace dans notre flux de travail. Nous aborderons également les aspects économiques souvent négligés du nettoyage de code : comment investir judicieusement dans la propreté du code pour garantir plus d'options et une valeur à long terme, même si cela signifie parfois sacrifier un peu de valeur immédiate. Que vous soyez un développeur débutant ou un expert chevronné, cette conférence vous fournira des stratégies pratiques pour maintenir un code propre et rentable tout au long de votre parcours de développement logiciel.\n\n",
+   "speakers": [62]
 }, {
-   "id": 15151,
-   "title": "Découvrez les forces de vos collaborateurs",
+   "id": 9010,
+   "title": "Où sont les speakeuses dans la tech ?",
    "subtitle": "",
-   "description": "Nous sommes généralement efficaces pour identifier les problèmes d’une situation ou ce que les autres, ou nous-mêmes, ne faisons pas correctement. Par contre, lorsqu’il s’agit de parler de nos points forts, ou de ceux des autres, nous sommes souvent mal à l’aise et parfois démunis.\n\nJe vous propose de découvrir un atelier à la fois concret (des cartes joliment imagées) et ludique (dynamique d’équipe) pour faire émerger vos points forts et générer des échanges bénéfiques.",
-   "complexity": "Débutant",
-   "speakers": [91]
+   "description": "Les femmes dans la tech il n'y en a pas assez, et des femmes oratrices encore moins ! Mais pourquoi enfaite ?!\n\nEnsemble nous aborderons les raisons, bonnes ou mauvaises, pour lesquelles elles ne se lancent pas. Mais aussi l'intérêt pour l'entreprise d'avoir plus de femmes qui parlent à des évènements tech. Et puis bien sûr comment les amener à se lancer et comment ça se passe quand elles sont sélectionnées ! Pour finir on verra les raisons qui les ont motivé à franchir le pas et comment concrètement on peut se lancer dans l'aventure de speakeuse !",
+   "speakers": [63]
 }, {
-   "id": 15152,
-   "title": "Il faut tuer les Super Héros! (pour leurs propres bien)",
+   "id": 9011,
+   "title": "Refacto ou re-ecriture ?",
    "subtitle": "",
-   "description": "Imaginez...\nJohn à Brigitte: \"J’ai un problème, mon Superman d'élite est au bord du burn out… je sens qu’il va se casser! Mais si il se barre toute ma prod part en vrille !\"\n\nPatrick à son écran : \"Purée !!!! J’en ai marre de sauver le monde! J’ai même pas encore pris mon café! J’ai pas le temps de descendre au fond des problèmes… et je reste à éteindre les incendies! je vais finir par me tirer de cette boîte de m...de\"\n\nKevin devant sa spec : \"Oula, la prod est pétée : Vite Patrick viens corriger!\" - \"Euh je sais pas comment faire : Je vais demander à Patrick!\" - \"Aïe! c’est compliqué, je suis sur que Patrick saura le faire!\" - \"Euh non, ça j’ai pas envie, baah Patrick le fera bien pour moi!\"\n\nSi vous êtes John, Brigitte, Patrick, Kevin, un écran, ou une spec… vous avez un problème de super héros !\nOn vous explique comment l’identifier, pourquoi il faut le résoudre et comment nous l’avons fait!\n",
-   "complexity": "Débutant",
-   "speakers": [51, 92]
+   "description": "On entend souvent le mot \"refacto\" dans le quotidien de développement produit. Parfois, on se demande si les gens comprennent ce qu'ils disent... Un regard sur le pratique de refactoring, des malentendus communs et des idées d'amélioration.",
+   "speakers": [18]
 }, {
-   "id": 15153,
-   "title": "Domain Driven Design, une étude de cas",
+   "id": 9012,
+   "title": "Dynamiques de pouvoir : comment vos biais sabotent l'intelligence collective",
    "subtitle": "",
-   "description": "Le Domain driven design semble enfin devenir un sujet tendance dans les conférences.\n\nL’approche DDD pourtant ne consiste pas à jeter des patterns à la mode dans son architecture, CQRS et Event Sourcing en tête, mais bien à remettre le métier, et ses problèmes, au coeur de nos préoccupations et de notre code, pour devenir finalement des Full spectrum developers, concept mis en avant par Michal Feather.\n\nTout ceci peut être très abstrait, d’autant plus qu’il est délicat de l’expliquer tant le DDD est somme toute un état d’esprit et une suite de micro-décisions du quotidien. C’est pourquoi, pour tenter de donner un peu de sens à tout ça,  je propose de vous faire une étude de cas sur ma dernière annéel : la refonte de l’application mobile de Sud-Ouest. Je tenterai d’expliquer la démarche stratégique, puis les choix au quotidien. Juste pour le plaisir des buzzwords, oui cette nouvelle application s’appuie sur Google Kubernetes Engine, Firebase, react-native, rx-java, mais ces technologies restent à notre service, pas l’inverse.",
-   "complexity": "Intermédiaire",
-   "speakers": [28]
+   "description": "L'Agilité, c'est en grande partie les individus et leurs interactions. Le dialogue entre les différentes expertises et métiers. Davantage d'horizontalité. Vous êtes certainement très au fait des meilleures techniques d'animation, de super formats pour des réunions et ateliers participatifs. Mais connaissez-vous le sentiment de sécurité psychologique de chacun des individus qui habitent la pièce ? Êtes-vous vraiment au max de la performance collective que vous pouvez espérer des groupes que vous accompagnez ?\n\nCe talk vous propose de porter un autre regard sur vos équipes et les dynamiques qui s'y jouent. Peut-être découvrirez-vous quelques angles morts et des expérimentations à mettre en place.",
+   "speakers": [64]
 }, {
-   "id": 15154,
-   "title": "Des outils pour mesurer l'UX",
+   "id": 9013,
+   "title": "Tester dans l'Hexagone: du Mob, du DDD, du TDD, des Doublures et les TestContainers !",
    "subtitle": "",
-   "description": "Comment mesurer efficacement l'UX (expérience utilisateur) avec des outils faciles à mettre en place et à exploiter ?",
-   "complexity": "Tout public",
-   "speakers": [93, 94]
+   "description": "Vous avez entendu parler de DDD, d'architecture hexagonale ? De la pyramide des tests? Vous en avez marre de ces conférences théoriques sur le sujet et vous aimeriez enfin coder avec ces paradigmes?\n\nVous auriez tant voulu appliquer le TDD, mais il vous fait peur; ou bien \"vous n'avez pas le temps\" pour le faire en prod? Vous aimeriez savoir comment écrire ET tester des entités métier ?\n\nVous avez entendu parler des ports/adapteurs, comment les utiliser ? Vous voudriez savoir si c'est vraiment incontournable d'utiliser les \"mocks\"? Et ces fameux TestContainers, sont ils vos amis ou vos ennemis ?\n\nEt si en plus, vous pouviez faire le 1er (ou pas) mob programming de votre vie??\n\nTout cela en quelques heures par la pratique ? Alors, cet atelier est complètement fait pour vous !\n\nBénéfices attendus\nComprendre les tests unitaires et le besoin de doublures dans un début d’architecture hexagonale; comprendre ce que l’on appelle doublure de tests.\nIntroduire pas à pas les bases du DDD et de l'architecture Hexagonale\nCet atelier se base sur un cas métier réel\nAppréhender quand ces doublures de tests sont légitimes dans leurs usages.\nDémystifier ce qu’est un dummy, un stub, un spy, un fake, un mock.\nJouer avec les TestContainers\nEn produisant (en TDD, toujours) un code empreint de contraintes techniques réelles : dialogue avec une base de données, un service web, une imprimante…\nApprendre en s’amusant, en collaborant afin de produire, tous ensemble, le code.\nC# ou Kotlin",
+   "speakers": [65]
 }, {
-   "id": 16301,
-   "title": "Charles Babbage et Ada Lovelace, une équipe de dev du XIXe siècle",
+   "id": 9014,
+   "title": "Parle à mon coeur, ma tête est malade !",
    "subtitle": "",
-   "description": "Une visite 200 ans en arrière pour découvrir une des premières et plus intéressantes collaborations dans toute l'aventure de l'informatique. Nous découvrons ensemble un peu d'histoire du \"pré-ordinateur\" et une investigation dans les annales du développement pour découvrir un couple pas-comme-les-autres, Charles Babbage et Ada Lovelace,  travaillant égal à égal dans une ère où ça ne devrait pas arriver. Même 2 siècles plus tard nous avons beaucoup de leçons à tirer des premiers pas autour de la \"Machine Analytique\". ",
-   "complexity": "Tout public",
-   "speakers": [95]
-},{
-   "id": 16302,
-   "title": "Une Transformation Agile Impossible",
-   "subtitle": "",
-   "description": "La R&D de la BU “Building System” de Legrand a engagé une transformation Agile courant 2016 suite à des échecs commerciaux et des difficultés à sortir des produits nouveaux depuis plusieurs années. La transformation a mal commencé, uniquement incantatoire et sans aucun accompagnement, les incompréhensions entre direction et collaborateurs, renforcées par des tensions sociales fortes et des craintes pour l’avenir, ont amené l’organisation à être très rapidement bloquée.\nC’est dans ce contexte que Claude, qui jusque là libérait les énergies d’une PME, a accepté de rejoindre Legrand en qualité de responsable R&D (mais avant tout en tant que jardinier holiste). Pourtant, tout lui indiquait qu’une transformation Agile était impossible : un grand groupe du CAC40, à l’organisation pyramidale et à la gestion financière serrée, qui a fait du “contrôle-commande” la norme indiscutable et qui envisagerait de sauver une de ces entités en passant par l’agilité ?!?... Une entreprise vouée à l’échec pour beaucoup d’observateurs...\nC’est aussi dans ce contexte que la tribu Culture Hacking d’OCTO a été retenu pour accompagner cette transformation, notamment grâce à sa proposition de travailler avant tout sur la culture et les relations entre les individus, plutôt que sur une ou des méthodes Agile.\nDepuis 1 an et demi, et ce n’est pas fini, le chemin se construit, des sourires sont revenus, des initiatives ont émergé, des projets de développement engrangent leurs premiers résultats et beaucoup de questions se posent encore.\nNous proposons de partager ce REX “une transformation Agile impossible”. Nous y traiterons de son lot de succès, de doutes, d’échecs, de hasards, au travers d’un jeu des 7 familles d’acteurs du changement et des anecdotes qui tissent ensemble un fil rouge délicat et congruent, à l’image des relations humaines.",
-   "complexity": "Débutant",
-   "speakers": [58, 96]
-}, {
-   "id": 16303,
-   "title": "Super-green ? Super-green !",
-   "subtitle": "",
-   "description": "L'agilité, ce sont essentiellement des principes énoncés dans un\nmanifeste. Pour que ces mots ne restent pas que des mots, nous devons\nnous essayer à les mettre en pratique.\nOn peut être agile dans bien des domaines, mais évidemment le champ\nprivilégié reste le développement informatique, parce qu'il est le\nberceau de ce mouvement.\n\nQuelles sont les pratiques ou les outils \"modernes\" de l'informatique\nqui aident à devenir ou rester agile ?\nConnaissez-vous le développement dirigé par les tests ? Le pair\nprogramming ? Les gestionnaires de révision ? La revue de code ? Le\ndéploiement continu ? Automatisez-vous tout ce que vous faites ?\nFaites-vous des POC ? Des Feature Flags ?\n\nEt surtout... pourquoi ne pratiquez-vous pas tout ça déjà ?\n\nSans tomber dans le \"solutionnisme\", nous essaierons de faire un tour\nd'horizon de ces avancées du métier et de leur application dans notre\ncontexte habituel : celui d'un monde changeant, complexe et\nrock'n'roll.",
-   "complexity": "",
-   "speakers": [97]
-}, {
-    "id": 140,
-    "title": "Forum Ouvert : Ordre du Jour",
-    "subtitle": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
-    "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
-    "complexity": "Tous",
-    "subtype": "workshop"
-}, {
-    "id": 141,
-    "title": "Forum Ouvert : Sessions",
-    "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
-    "description": "Lors des sessions de travail les participants vont débattre des sujets.",
-    "complexity": "Tous",
-    "subtype": "workshop"
-}, {
-    "id": 142,
-    "title": "Forum Ouvert : Sessions (suite)",
-    "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
-    "description": "Lors des sessions de travail les participants vont débattre des sujets.",
-    "complexity": "Tous",
-    "subtype": "workshop"
-}, {
-    "id": 143,
-    "title": "Forum Ouvert : Bilan",
-    "subtitle": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
-    "description": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
-    "complexity": "Tous",
-    "subtype": "workshop"
-}, {
-    "id": 144,
-    "title": "Repas",
-    "service": "true"
+   "description": "Dans un monde en perpétuelle mutation, où les avancées technologiques transforment nos modes de vie et de travail à une vitesse fulgurante, il devient impératif de repenser notre approche du travail.Nous parlons de transformation, de conduite de changement, d'Agilité, d'OKR... Et aussi de burn-out, de risques psycho-sociaux, de reconversion...\n\nAlors dans ce monde qui a basculé dans le cognitif, qui retente de mettre du corps et du temps (dès lors que l'on parle de régénératif ou de travail vivant ) comment faire pour remettre sens ? \n\nAvec nos casquettes de coachs RH et de designer, nous allons explorer la relation au travail à travers du triptyque de la tête, du corps et du cœur, et proposer divers scénarios futurs du travail en tenant compte de cette perspective.\n\n",
+   "speakers": [66, 67]
 }
 ]
