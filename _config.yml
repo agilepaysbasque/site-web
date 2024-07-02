@@ -54,7 +54,8 @@ navigationLinks:
 # - {permalink: "/intro/", text: "Presentation"}
  - {permalink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2024", text: "Billetterie"}
  - {permalink: "/sponsors/", text: "Devenez sponsor"}
- - {permalink: "/cfp/", text: "Proposez un sujet (CFP)"}
+# - {permalink: "/cfp/", text: "Proposez un sujet (CFP)"}
+ - {permalink: "/speakers/", text: "Orateur·rice.s"}
 # - {permalink: "/be-sponsor/", text: "Sponsoring"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
