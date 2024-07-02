@@ -85,5 +85,12 @@
    "subtitle": "",
    "description": "Dans un monde en perpétuelle mutation, où les avancées technologiques transforment nos modes de vie et de travail à une vitesse fulgurante, il devient impératif de repenser notre approche du travail.Nous parlons de transformation, de conduite de changement, d'Agilité, d'OKR... Et aussi de burn-out, de risques psycho-sociaux, de reconversion...\n\nAlors dans ce monde qui a basculé dans le cognitif, qui retente de mettre du corps et du temps (dès lors que l'on parle de régénératif ou de travail vivant ) comment faire pour remettre sens ? \n\nAvec nos casquettes de coachs RH et de designer, nous allons explorer la relation au travail à travers du triptyque de la tête, du corps et du cœur, et proposer divers scénarios futurs du travail en tenant compte de cette perspective.\n\n",
    "speakers": [66, 67]
+}, {
+   "id": 9015,
+   "title": "Comment passer d'un domaine métier à une architecture logicielle ?",
+   "subtitle": "",
+   "description": "Depuis des années, les architectes et les équipes de développement prônent le faible couplage. Nous avons toutes et tous souffert en travaillant sur des systèmes Big Balls Of Mud où les changements sont risqués et parfois coûteux.\nUne des clés pour apporter sereinement et rapidement des modifications dans nos systèmes est de réduire le couplage.\n\nQue vous construisiez des monolithes ou travailliez sur une architecture microservices, un des éléments essentiels est d'identifier quelles sont les choses qui changent ensemble et de les regrouper au niveau du code.\n\nPour identifier avec confiance les éléments qui changent ensemble, il est nécessaire de bien creuser le domaine métier et de découvrir quels concepts évoluent ensemble, notamment lors du développement de nouvelles fonctionnalités. Nous traçons ainsi les frontières du domaine métier, qui deviendront la base d'une architecture logicielle à faible couplage.\n\nCette conférence, axée sur des cas pratiques, montrera comment cartographier un domaine métier, l'organiser en sous-domaines et concevoir une architecture logicielle alignée sur cette subdivision. Nous couvrirons une gamme d'outils et de techniques issus du Domain Driven Design (DDD), comme l'Event Storming, la Modélisation de Flux de Messages, le Bounded Context Canvas et le Core Domain Chart.",
+   "speakers": [70, 69]
 }
+
 ]

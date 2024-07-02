@@ -1,5 +1,24 @@
 [
 	{
+		"id": 69,
+		"name": "Maxime",
+		"surname": "Sanglan-Charlier",
+		"company": "Aardling",
+		"title": "",
+		"bio": "",
+		"thumbnailUrl": "MaximeSanglanCharlier.jpeg",
+		"tweeter": "https://x.com/__MaxS__"
+	},
+	{
+		"id": 70,
+		"name": "Nick",
+		"surname": "Tune",
+		"company": "PayFit France",
+		"title": "",
+		"bio": "",
+		"thumbnailUrl": "NickTune.jpeg",
+	},
+	{
 		"id": 37,
 		"name": "Rachel",
 		"surname": "JOLIN DUBOIS",
@@ -75,24 +94,6 @@
 		"thumbnailUrl": "SamCranford.jpeg"
 	},
 	{
-		"id": 61,
-		"name": "Robin ",
-		"surname": "Béraud-sudreau",
-		"company": "",
-		"title": "",
-		"bio": "",
-		"thumbnailUrl": "RobinBeraudSudreau.jpeg"
-	},
-	{
-		"id": 63,
-		"name": "Noémie ",
-		"surname": "M. Rivière",
-		"company": "Onepoint",
-		"title": "",
-		"bio": "",
-		"thumbnailUrl": "NoemieRiviere.jpeg"
-	},
-	{
 		"id": 64,
 		"name": "Sara ",
 		"surname": "Dufour",
@@ -111,23 +112,5 @@
 		"bio": "J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81.\n\nJ'ai développé des écrans Videotex Je suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pens",
 		"thumbnailUrl": "GuillaumeSaintEtienne.jpeg",
 		"tweeter": "https://x.com/guillaume_agile"
-	},
-	{
-		"id": 66,
-		"name": "Pauline",
-		"surname": "Garric",
-		"company": "",
-		"title": "",
-		"bio": "",
-		"thumbnailUrl": "PaulineGarric.jpeg"
-	},
-	{
-		"id": 67,
-		"name": "Nicolas",
-		"surname": "Petitjean",
-		"company": "",
-		"title": "",
-		"bio": "",
-		"thumbnailUrl": ""
 	}
 ]
