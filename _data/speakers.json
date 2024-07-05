@@ -5,7 +5,7 @@
 		"surname": "Sanglan-Charlier",
 		"company": "Aardling",
 		"title": "",
-		"bio": "",
+		"bio": "Plus de 20 ans dans l'informatique et pas une ride (ou presque). Maxime est curieux de nature et toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation. Il accompagne ses clients dans l'adoption d'une approche centrée sur le domaine métier, alternant les rôles de consultant, facilitateur et formateur, selon les besoins de chaque mission.\n\nJe co-organise la conférence Newcrafts (https://ncrafts.io/), je suis membre de l'équipe de VirtualDDD (https://virtualddd.com/), contributeur sur [DDD-Crew](https://github.com/ddd-crew) et co-fondateur du groupe Software Crafters Nantes (https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/).",
 		"thumbnailUrl": "MaximeSanglanCharlier.jpeg",
 		"tweeter": "https://x.com/__MaxS__"
 	},
@@ -15,8 +15,8 @@
 		"surname": "Tune",
 		"company": "PayFit France",
 		"title": "",
-		"bio": "",
-		"thumbnailUrl": "NickTune.jpeg",
+		"bio": "Nick est un consultant dans le développement logiciel qui aide les organisations à moderniser leurs architectures et leurs méthodes de travail. Ses sujets préférés sont le Domain-Driven Design (DDD) et le Continuous Delivery (CD). Il est l'auteur de « Architecture Modernization » (Manning) et « Patterns, Principles, and Practices of Domain-Driven Design » (Wrox). Vous trouverez son blog et plus d'informations sur nick-tune.me",
+		"thumbnailUrl": "NickTune.jpeg"
 	},
 	{
 		"id": 37,
@@ -112,5 +112,59 @@
 		"bio": "J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81.\n\nJ'ai développé des écrans Videotex Je suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pens",
 		"thumbnailUrl": "GuillaumeSaintEtienne.jpeg",
 		"tweeter": "https://x.com/guillaume_agile"
+	},
+	{
+		"id": 61,
+		"name": "Robin",
+		"surname": "Béraud-sudreau",
+		"company": "",
+		"title": "",
+		"bio": "",
+		"thumbnailUrl": "RobinBeraudSudreau.jpeg"
+	},
+	{
+		"id": 63,
+		"name": "Noémie ",
+		"surname": "M. Rivière",
+		"company": "Onepoint",
+		"title": "",
+		"bio": "Product designer depuis 14 ans ; J’ai à cœur les sujets sur l’accessibilité et l’inclusivité !",
+		"thumbnailUrl": "NoemieRiviere.jpeg"
+	},
+	{
+		"id": 66,
+		"name": "Pauline",
+		"surname": "Garric",
+		"company": "",
+		"title": "",
+		"bio": "Mordue du terrain, j'ai toujours eu à coeur de mettre l'humain et les échanges au centre de mes activités.\n\nAprès une maîtrise de lettres modernes, cinq années en tant qu'assistante d'éducation en ZUS, un master Stratégie d'entreprise et une dizaine d'année dans les RH chez OCTO Technology et DRH chez feu-benext. En 2017, je développe ma posture de coach où j'accompagne les groupes à devenir des équipes avec un boîte à outils qui s'aagrandie au fur et à mesure : agilité, développement personnel, equicoaching...\n\nEn 2021 je rentre à nouveau chez OCTO Technology part of Accenture en temps que partner suite au rachat de benext et me lance à mon compte en janvier 2024.\n\nCette année, j'enrichi ma pratique avec un cursus de psychopraticienne pour accompagner les entreprises et les aider à appréhender les enjeux du futur du travail.",
+		"thumbnailUrl": "PaulineGarric.jpeg"
+	},
+	{
+		"id": 67,
+		"name": "Nicolas",
+		"surname": "Petitjean",
+		"company": "",
+		"title": "",
+		"bio": "Creative Innovation Leader that connects people, business and planet with over 20 years' experience in product/service design, strategy and innovation management within major groups, having worked with renowned brands such as Decathlon, Adidas , Sodexo, Pernod Ricard and Google in 20 countries. Founding CEO @ Afterstudio a partner to build futures ready companies and embrace radical adaptability, he leads transformation journeys with passion an dhumility. Teacher, speaker and lecturer specialising in innovation and radical adaptability.",
+		"thumbnailUrl": "NicolasPetitjean.jpeg"
+	},
+	{
+		"id": 71,
+		"name": "Christophe",
+		"surname": "Breheret-Girardin",
+		"company": "",
+		"title": "",
+		"bio": "Coach craft, formateur, auteur et conférencier, Christophe partage avec enthousiasme ses connaissances, afin d’inspirer et de guider chacun vers son plein potentiel",
+		"thumbnailUrl": "ChristopheBreheretGirardin.jpeg"
+	},
+	{
+		"id": 72,
+		"name": "Claude",
+		"surname": "Aubry",
+		"company": "",
+		"title": "",
+		"bio": "",
+		"thumbnailUrl": "ClaudeAubry.webp"
 	}
 ]
