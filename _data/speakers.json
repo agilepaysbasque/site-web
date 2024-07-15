@@ -117,9 +117,9 @@
 		"id": 61,
 		"name": "Robin",
 		"surname": "Béraud-sudreau",
-		"company": "",
+		"company": "Scrum Life",
 		"title": "",
-		"bio": "",
+		"bio": "« Réfléchir c’est commencer à désobéir« … Coach Lean & Agile, j’organise la désobéissance sérieuse chez mes clients ( Cdiscount, Bouygues, Axa,…) au niveau organisationnel mais aussi auprès des équipes techniques (TDD, CICD, …) et des équipes produit en les incitant à se poser de bonnes questions afin de trouver du sens et de la valeur dans leurs actions au quotidien. Cette approche m’a permis d’acquérir une vision 360°: Technologie, Produit/Vision & Méthode employée pour améliorer le bien-être des équipes et la valeur des produits sur lesquels j’interviens. Actif dans la communauté agile, je participe à de nombreuses initiatives comme agile.christmas, la chaine Scrum Life, le meetup agile playground, agile cook book, et d’autres sujets comme l’organisation et la participation à certains agile tours ou encore une collaboration avec d’Alistair Cockburn …",
 		"thumbnailUrl": "RobinBeraudSudreau.jpeg"
 	},
 	{
@@ -135,7 +135,7 @@
 		"id": 66,
 		"name": "Pauline",
 		"surname": "Garric",
-		"company": "",
+		"company": "Pauline Garric Coaching",
 		"title": "",
 		"bio": "Mordue du terrain, j'ai toujours eu à coeur de mettre l'humain et les échanges au centre de mes activités.\n\nAprès une maîtrise de lettres modernes, cinq années en tant qu'assistante d'éducation en ZUS, un master Stratégie d'entreprise et une dizaine d'année dans les RH chez OCTO Technology et DRH chez feu-benext. En 2017, je développe ma posture de coach où j'accompagne les groupes à devenir des équipes avec un boîte à outils qui s'aagrandie au fur et à mesure : agilité, développement personnel, equicoaching...\n\nEn 2021 je rentre à nouveau chez OCTO Technology part of Accenture en temps que partner suite au rachat de benext et me lance à mon compte en janvier 2024.\n\nCette année, j'enrichi ma pratique avec un cursus de psychopraticienne pour accompagner les entreprises et les aider à appréhender les enjeux du futur du travail.",
 		"thumbnailUrl": "PaulineGarric.jpeg"
@@ -144,16 +144,16 @@
 		"id": 67,
 		"name": "Nicolas",
 		"surname": "Petitjean",
-		"company": "",
+		"company": "afterstudio",
 		"title": "",
-		"bio": "Creative Innovation Leader that connects people, business and planet with over 20 years' experience in product/service design, strategy and innovation management within major groups, having worked with renowned brands such as Decathlon, Adidas , Sodexo, Pernod Ricard and Google in 20 countries. Founding CEO @ Afterstudio a partner to build futures ready companies and embrace radical adaptability, he leads transformation journeys with passion an dhumility. Teacher, speaker and lecturer specialising in innovation and radical adaptability.",
+		"bio": "Leader de l'innovation créative qui relie les personnes, les entreprises et la planète, avec plus de 20 ans d'expérience dans la conception de produits et de services, la stratégie et la gestion de l'innovation au sein de grands groupes, ayant travaillé avec des marques renommées telles que Decathlon, Adidas, Sodexo, Pernod Ricard et Google dans 20 pays. PDG fondateur d'Afterstudio, un partenaire pour construire des entreprises prêtes pour l'avenir et adopter une adaptabilité radicale, il mène des voyages de transformation avec passion et humilité. Enseignant, orateur et conférencier spécialisé dans l'innovation et l'adaptabilité radicale.",
 		"thumbnailUrl": "NicolasPetitjean.jpeg"
 	},
 	{
 		"id": 71,
 		"name": "Christophe",
 		"surname": "Breheret-Girardin",
-		"company": "",
+		"company": "Octo Technology",
 		"title": "",
 		"bio": "Coach craft, formateur, auteur et conférencier, Christophe partage avec enthousiasme ses connaissances, afin d’inspirer et de guider chacun vers son plein potentiel",
 		"thumbnailUrl": "ChristopheBreheretGirardin.jpeg"
@@ -164,7 +164,7 @@
 		"surname": "Aubry",
 		"company": "",
 		"title": "",
-		"bio": "",
+		"bio": "Papet agile radical, auteur de livres publiés chez Dunod :\n\n * Scrum, un outil radical pour une agilité conviviale (6 éditions depuis 2010),\n* L'art de devenir une équipe agile.\n#canaldumidi #vélo #écologie #postrock #rugby #permaculture #communs #philo #scrum #rando #gohugo #jeu5ans #lecture #metal #pyrénées",
 		"thumbnailUrl": "ClaudeAubry.webp"
 	}
 ]
