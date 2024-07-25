@@ -1,6 +1,6 @@
 -
   date: "2019-09-20"
-  dateReadable: "20 Septembre - MATIN"
+  dateReadable: "06 Septembre - MATIN"
   tracks:
     - {title: "ESTIA 1 - Amphi Mari", color: "#0F0000"}
   timeslots:
@@ -72,7 +72,7 @@
     }
 -
   date: "2024-09-07"
-  dateReadable: "07 Septembre"
+  dateReadable: "07 Septembre - MATIN"
   tracks:
     - {title: "ESTIA", color: "#FFD600"}
   timeslots:
@@ -87,7 +87,7 @@
   timeslots:
     - {
       startTime: "12:00",
-      sessionIds: [214001]
+      sessionIds: [12001]
     }
 -
   date: "2024-09-07"
