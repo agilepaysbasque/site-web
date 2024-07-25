@@ -3,7 +3,7 @@
  "title": "Accueil",
  "service": "true"
 }, {
- "id": 8201,
+ "id": 8451,
  "title": "Mot de l'orga - Présentation des sponsors",
  "description": "Pitch des sessions du matin",
  "service": "true"
@@ -103,5 +103,27 @@
    "subtitle": "",
    "description": "Timothée Parrique présente la décroissance comme une transition pour aller vers la post-croissance, phase de fluidité et stabilité.\n\nL’agilité est — déjà — un outil pour la transition avec comme fondamentaux des boucles orientées utilisateurs et des équipes auto-organisées.\n\nL’agilité de la décroissance, c’est la mise au premier plan des valeurs environnementales et sociales, tout en restant centrée sur la valeur pour les utilisateurs — rien n’est développé si cela ne correspond pas à un besoin — et sur la décision collective.",
    "speakers": [72]
+},{
+   "id": 214001,
+   "title": "Forum Ouvert : Sessions",
+   "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
+   "description": "Le Forum Ouvert est une méthode pour structurer des conversations et des conférences. Grâce à cette méthode, des groupes de 5 à 2 000 participants peuvent s'assembler et travailler ensemble. \n\nLa caractéristique de la méthode est l'ouverture mise à la fois sur le contenu mais aussi sur la forme. Les participants sont invités à travailler ensemble sur une thématique importante et complexe. \n\nL'ordre du jour est réalisé par les participants au démarrage du Forum Ouvert en un temps record. Les utilisateurs donnent ainsi leurs propres sujets en plénière et forment des groupes de travail pour chaque thème abordé dans lesquels les projets vont être élaborés. \n\nChaque groupe de travail rédige un compte-rendu qui est affiché immédiatement. L'ensemble des comptes-rendus apparait ainsi au fur et à mesure de l'avancement du Forum Ouvert. Le Forum Ouvert permet de traiter de sujets complexes et de produire une diversité de mesures concrètes en peu de temps. source: wikipedia",
+   "complexity": "Forum Ouvert",
+   "subtype": "workshop"
+}
+, {
+   "id": 666666,
+   "title": "Slot vide"
+}, {
+   "id": 12001,
+   "title": "Repas",
+   "description": "2 services (12h15-13h15)",
+   "service": "true"
+}, {
+   "id": 19001,
+   "title": "Repas orateurs",
+   "subtitle": "",
+   "description": "",
+   "service": "true"
 }
 ]
