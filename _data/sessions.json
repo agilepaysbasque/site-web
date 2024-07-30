@@ -8,6 +8,16 @@
  "description": "Pitch des sessions du matin",
  "service": "true"
 }, {
+ "id": 8452,
+ "title": "Pause café",
+ "description": "Reprenons des forces avant de continuer !",
+ "service": "true"
+}, {
+ "id": 8453,
+ "title": "Gouté",
+ "description": "Reprenons des forces avant de continuer !",
+ "service": "true"
+}, {
    "id": 9001,
    "title": "Spotify, de l'intérieur :)",
    "subtitle": "",
@@ -121,7 +131,7 @@
    "service": "true"
 }, {
    "id": 19001,
-   "title": "Repas orateurs",
+   "title": "Retrouvons-nous pour partager un verre et continuer à échanger !",
    "subtitle": "",
    "description": "",
    "service": "true"

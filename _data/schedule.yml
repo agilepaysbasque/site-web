@@ -1,6 +1,6 @@
 -
   date: "2019-09-20"
-  dateReadable: "06 Septembre - MATIN"
+  dateReadable: "06 Septembre"
   tracks:
     - {title: "ESTIA 1 - Amphi Mari", color: "#0F0000"}
   timeslots:
@@ -9,27 +9,41 @@
       sessionIds: [8001]
     }
     - {
-      startTime: "8:45",
+      startTime: "8:30",
       sessionIds: [8451]
-    }
-    - {
-      startTime: "9:00",
-      sessionIds: [666666]
     }
 -
   date: "2024-09-06"
   tracks:
     - {title: "Amphi", color: "#00C853"}
-    - {title: "Salle TD 1", color: "#D50000"}
-    - {title: "Salle TD 2", color: "#FFD600"}
+    - {title: "Salle 1", color: "#D50000"}
+    - {title: "Salle 2", color: "#FFD600"}
+  timeslots:
+    - {
+      startTime: "9:15",
+      sessionIds: [9001, 9010, 9011]
+    }
+-
+  date: "2024-09-06"
   timeslots:
     - {
       startTime: "10:00",
-      sessionIds: [666666, 666666, 666666]
+      sessionIds: [8452]
+    }
+-
+  date: "2024-09-06"
+  tracks:
+    - {title: "Amphi", color: "#00C853"}
+    - {title: "Salle 1", color: "#D50000"}
+    - {title: "Salle 2", color: "#FFD600"}
+  timeslots:
+    - {
+      startTime: "10:30",
+      sessionIds: [9002, 9007, 9014]
     }
     - {
-      startTime: "11:00",
-      sessionIds: [666666, 666666, 666666]
+      startTime: "11:30",
+      sessionIds: [9015, 9005, 9014]
     }
 -
   date: "2024-09-06"
@@ -42,43 +56,55 @@
     }
 -
   date: "2024-09-06"
-  dateReadable: "APRES-MIDI"
   tracks:
     - {title: "Amphi", color: "#00C853"}
-    - {title: "Salle TD 1", color: "#D50000"}
-    - {title: "Salle TD 2", color: "#FFD600"}
+    - {title: "Salle 1", color: "#D50000"}
+    - {title: "Salle 2", color: "#FFD600"}
   timeslots:
     - {
       startTime: "14:00",
-      sessionIds: [666666, 666666, 666666]
+      sessionIds: [9008, 9006, 9013]
     }
     - {
       startTime: "15:00",
-      sessionIds: [666666, 666666, 666666]
-    }
-    - {
-      startTime: "16:00",
-      sessionIds: [666666, 666666, 666666]
+      sessionIds: [9012, 9016, 9013]
     }
 -
   date: "2024-09-06"
-  dateReadable: "SOIR"
+  timeslots:
+    - {
+      startTime: "15:45",
+      sessionIds: [8453]
+    }
+-
+  date: "2024-09-06"
+  tracks:
+    - {title: "Amphi", color: "#00C853"}
+    - {title: "Salle 1", color: "#D50000"}
+    - {title: "Salle 2", color: "#FFD600"}
+  timeslots:
+    - {
+      startTime: "16:15",
+      sessionIds: [9017, 9009, 9003]
+    }
+-
+  date: "2024-09-06"
   tracks:
     - {title: "Soirée", color: "#00C853"}
   timeslots:
     - {
-      startTime: "19:00",
+      startTime: "18:00",
       sessionIds: [19001]
     }
 -
   date: "2024-09-07"
-  dateReadable: "07 Septembre - MATIN"
+  dateReadable: "07 Septembre"
   tracks:
-    - {title: "ESTIA", color: "#FFD600"}
+    - {title: "ESTIA", color: "#00C853"}
   timeslots:
     - {
       startTime: "9:00",
-      sessionIds: [666666, 666666, 666666]
+      sessionIds: [214001]
     }
 -
   date: "2024-09-07"
@@ -91,7 +117,6 @@
     }
 -
   date: "2024-09-07"
-  dateReadable: "APRES-MIDI"
   tracks:
     - {title: "ESTIA", color: "#00C853"}
   timeslots:
