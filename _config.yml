@@ -56,7 +56,7 @@ navigationLinks:
  - {permalink: "/sponsors/", text: "Devenez sponsor"}
 # - {permalink: "/cfp/", text: "Proposez un sujet (CFP)"}
  - {permalink: "/speakers/", text: "Orateur·rice.s"}
-# - {permalink: "/be-sponsor/", text: "Sponsoring"}
+ - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
