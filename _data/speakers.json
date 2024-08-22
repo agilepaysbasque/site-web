@@ -107,7 +107,7 @@
 		"id": 65,
 		"name": "Guillaume",
 		"surname": "Saint Etienne",
-		"company": "",
+		"company": "Music Action",
 		"title": "",
 		"bio": "J'ai écrit mes premières lignes de code à l'age de 11 ans sur un ZX81.\n\nJ'ai développé des écrans Videotex Je suis artisan développeur depuis 30 ans déjà, élève de Laurent Bossavit, Jonathan Peret et Olivier Azeau.\n\nJ'ai été aussi architecte logiciel, chef de projet, responsable d'équipe , j'ai travaillé pour diverses ESN et éditeurs logiciels, dont Varian Medical Systems pendant 10 ans, Primobox plus récemment.\n\nCodeur C# + JS depuis le début, j'ai dernièrement plongé dans Kotlin avec délectation. Je pens",
 		"thumbnailUrl": "GuillaumeSaintEtienne.jpeg",
@@ -166,5 +166,13 @@
 		"title": "",
 		"bio": "Papet agile radical, auteur de livres publiés chez Dunod :\n\n * Scrum, un outil radical pour une agilité conviviale (6 éditions depuis 2010),\n* L'art de devenir une équipe agile.\n#canaldumidi #vélo #écologie #postrock #rugby #permaculture #communs #philo #scrum #rando #gohugo #jeu5ans #lecture #metal #pyrénées",
 		"thumbnailUrl": "ClaudeAubry.webp"
-	}
+	}, {
+	"id": 73,
+	"name": "Anthony",
+	"surname": "Cassaigne",
+	"company": "Adeo",
+	"title": "",
+	"bio": "Anthony Cassaigne, développeur passionné d’Ensemble Programming (alias Mob Programming ou encore connu sous le nom de Software Teaming).\n\nJ’ai commencé à m’intéresser à Extreme Programming (XP) dans les années 2000, lors de la sortie du livre Extreme Programming Explained: Embrace Change de Kent Beck et Cynthia Andres. En 2011, je me forme à Scrum, de là est née la rencontre avec Claude Aubry et le collectif Agile Toulouse.\n\nDe 2011 à 2014, je fais de l’agilité mon terrain de jeu et j’accompagne quelques équipes sur ce chemin. Je prends rapidement conscience que toute approche ayant vocation à produire de façon itérative et incrémentale un produit I.T. ne peut le faire de façon pérenne qu’en appliquant un ensemble de pratiques d’ingénieur proche d’Extreme Programming.\n\nDepuis ces années, je ne cesse d’explorer cet indissociable couple agilité - Software Craftsmanship.\n\nEn 2019, je rejoins le collectif Agile Radical lors de sa création.",
+	"thumbnailUrl": "AnthonyCassaigne.jpeg"
+}
 ]

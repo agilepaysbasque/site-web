@@ -88,7 +88,7 @@
    "title": "Tester dans l'Hexagone: du Mob, du DDD, du TDD, des Doublures et les TestContainers !",
    "subtitle": "",
    "description": "Vous avez entendu parler de DDD, d'architecture hexagonale ? De la pyramide des tests? Vous en avez marre de ces conférences théoriques sur le sujet et vous aimeriez enfin coder avec ces paradigmes?\n\nVous auriez tant voulu appliquer le TDD, mais il vous fait peur; ou bien \"vous n'avez pas le temps\" pour le faire en prod? Vous aimeriez savoir comment écrire ET tester des entités métier ?\n\nVous avez entendu parler des ports/adapteurs, comment les utiliser ? Vous voudriez savoir si c'est vraiment incontournable d'utiliser les \"mocks\"? Et ces fameux TestContainers, sont ils vos amis ou vos ennemis ?\n\nEt si en plus, vous pouviez faire le 1er (ou pas) mob programming de votre vie??\n\nTout cela en quelques heures par la pratique ? Alors, cet atelier est complètement fait pour vous !\n\nBénéfices attendus\nComprendre les tests unitaires et le besoin de doublures dans un début d’architecture hexagonale; comprendre ce que l’on appelle doublure de tests.\nIntroduire pas à pas les bases du DDD et de l'architecture Hexagonale\nCet atelier se base sur un cas métier réel\nAppréhender quand ces doublures de tests sont légitimes dans leurs usages.\nDémystifier ce qu’est un dummy, un stub, un spy, un fake, un mock.\nJouer avec les TestContainers\nEn produisant (en TDD, toujours) un code empreint de contraintes techniques réelles : dialogue avec une base de données, un service web, une imprimante…\nApprendre en s’amusant, en collaborant afin de produire, tous ensemble, le code.\nC# ou Kotlin",
-   "speakers": [65]
+   "speakers": [65, 73]
 }, {
    "id": 9014,
    "title": "Parle à mon coeur, ma tête est malade !",
