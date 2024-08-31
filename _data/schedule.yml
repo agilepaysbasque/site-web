@@ -93,7 +93,7 @@
     - {title: "Soirée", color: "#0F0000"}
   timeslots:
     - {
-      startTime: "19:00",
+      startTime: "18:00",
       sessionIds: [19001]
     }
 -
