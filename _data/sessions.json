@@ -14,7 +14,7 @@
  "service": "true"
 }, {
  "id": 8453,
- "title": "Gouté",
+ "title": "Gouter",
  "description": "Reprenons des forces avant de continuer !",
  "service": "true"
 }, {
@@ -127,7 +127,12 @@
 }, {
    "id": 12001,
    "title": "Repas",
-   "description": "2 services (12h15-13h15)",
+   "description": "2 services (12h30-13h30)",
+   "service": "true"
+}, {
+   "id": 12002,
+   "title": "Repas",
+   "description": "1 services (12h15)",
    "service": "true"
 }, {
    "id": 19001,

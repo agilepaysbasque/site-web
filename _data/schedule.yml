@@ -51,7 +51,7 @@
     - {title: "Restaurant le Spot'", color: "BROWN"}
   timeslots:
     - {
-      startTime: "12:00",
+      startTime: "12:30",
       sessionIds: [12001]
     }
 -
@@ -62,18 +62,18 @@
     - {title: "Salle 2", color: "#FFD600"}
   timeslots:
     - {
-      startTime: "14:00",
+      startTime: "14:30",
       sessionIds: [9008, 9006, 9013]
     }
     - {
-      startTime: "15:00",
+      startTime: "15:30",
       sessionIds: [9012, 9016, 9013]
     }
 -
   date: "2024-09-06"
   timeslots:
     - {
-      startTime: "15:45",
+      startTime: "16:15",
       sessionIds: [8453]
     }
 -
@@ -84,7 +84,7 @@
     - {title: "Salle 2", color: "#FFD600"}
   timeslots:
     - {
-      startTime: "16:15",
+      startTime: "16:45",
       sessionIds: [9017, 9009, 9003]
     }
 -
@@ -93,7 +93,7 @@
     - {title: "Soirée", color: "#0F0000"}
   timeslots:
     - {
-      startTime: "18:00",
+      startTime: "19:00",
       sessionIds: [19001]
     }
 -
@@ -113,7 +113,7 @@
   timeslots:
     - {
       startTime: "12:00",
-      sessionIds: [12001]
+      sessionIds: [12002]
     }
 -
   date: "2024-09-07"
