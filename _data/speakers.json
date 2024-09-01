@@ -174,5 +174,21 @@
 	"title": "",
 	"bio": "Anthony Cassaigne, développeur passionné d’Ensemble Programming (alias Mob Programming ou encore connu sous le nom de Software Teaming).\n\nJ’ai commencé à m’intéresser à Extreme Programming (XP) dans les années 2000, lors de la sortie du livre Extreme Programming Explained: Embrace Change de Kent Beck et Cynthia Andres. En 2011, je me forme à Scrum, de là est née la rencontre avec Claude Aubry et le collectif Agile Toulouse.\n\nDe 2011 à 2014, je fais de l’agilité mon terrain de jeu et j’accompagne quelques équipes sur ce chemin. Je prends rapidement conscience que toute approche ayant vocation à produire de façon itérative et incrémentale un produit I.T. ne peut le faire de façon pérenne qu’en appliquant un ensemble de pratiques d’ingénieur proche d’Extreme Programming.\n\nDepuis ces années, je ne cesse d’explorer cet indissociable couple agilité - Software Craftsmanship.\n\nEn 2019, je rejoins le collectif Agile Radical lors de sa création.",
 	"thumbnailUrl": "AnthonyCassaigne.jpeg"
+}, {
+	"id": 80,
+	"name": "Alice",
+	"surname": "Barralon",
+	"company": "ORIIONS",
+	"title": "",
+	"bio": "Artisan agiliste, et céramiste sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). Pour que l’impossible devienne possible!",
+	"thumbnailUrl": "AliceBarralon.jpeg"
+}, {
+	"id": 81,
+	"name": "Emeline",
+	"surname": "Boulet Ronteix",
+	"company": "OCTO Technology",
+	"title": "",
+	"bio": "Après des années comme Product Owner et Scrum Master, j'ai élargi ma posture pour inclure le coaching, grâce à laquelle  j'aide les équipes et organisations à mieux communiquer et s'organiser, avec une approche à la fois pragmatique et positive",
+	"thumbnailUrl": "EmelineBoulet.jpeg"
 }
 ]

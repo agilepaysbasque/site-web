@@ -55,10 +55,10 @@
    "speakers": [30]
 }, {
    "id": 9008,
-   "title": "From Evidence to Action: The Data Driven Transformations #NoFrameworks",
+   "title": "Résilience et agilité",
    "subtitle": "",
-   "description": "\"Etre agile pour être agile ne sert à rien.\" J'entends cette phrase depuis une décennie et pourtant voit encore beaucoup cette agilité sans objectifs qui devient plus un exercice de style plutôt qu'un levier de transformation réelle.\n\nDans un monde où l’agilité est devenue un mantra, ce talk \"From Evidence to Action: The Data Driven Transformations #NoFrameworks\" défie l’orthodoxie. Être agile juste pour l’agilité ? Inefficace. Ce talk propose une approche moderne : piloter la transformation par les données, non par des dogmes. L’Evidence-Based Management (EBM), DORA et nos analyses démontrent comment aligner véritablement agilité et objectifs business. Exit les cadres rigides, bienvenue dans une ère où chaque décision, action et initiative est justifiée par des données tangibles, mesurables. Nous plongeons dans des stratégies concrètes où les métriques deviennent le phare guidant vers l’excellence opérationnelle, satisfaction client et innovation continue. Préparez-vous à redéfinir l’agilité, où la donnée n’est pas qu’un outil mais le fondement d’une transformation réelle et mesurable.",
-   "speakers": [61]
+   "description": "Oyé oyé petits colibris, tu n'as jamais pris le temps de lire le rapport du GIEC(IPCC — Intergovernmental Panel on Climate Change)?\nTu te demandes comment tu peux faire ta part pour transmettre une planète vivable aux générations futures?\nTu es convaincu que l'agilité a un rôle à jouer?\nTu es anxieux car l’année 2023 a été si chaude que les couleurs des “warming stripes” ne permettent plus de représenter la hausse des températures moyennes au niveau mondial*?\n\nCette session est faite pour toi ! On y parle d'enjeux d'adaptation et de vulnérabilité. On réfléchit à des moyens d'action.\nOn se questionne sur comment ce rapport du GIEC, au même titre que le guide Scrum, peut guider le quotidien et les décisions de chaque dirigeant/manager/membre d'une équipe agile ? Comment chacun peut collaborer et s'engager au sein de l'organisation pour réduire ses impacts et rembourser sa dette écologique.",
+   "speakers": [80, 81]
 }, {
    "id": 9009,
    "title": "'Tidy First?' de Kent Beck, un guide pratique pour un code durable et rentable",
@@ -136,7 +136,7 @@
    "service": "true"
 }, {
    "id": 19001,
-   "title": "Retrouvons-nous pour partager un verre et continuer à échanger !",
+   "title": "Retrouvons-nous pour partager un verre et continuer à échanger au <a href='https://www.google.com/maps/place/Kaliko/@43.4342384,-1.5970021,17z/data=!4m9!3m8!1s0xd51154b86349e09:0x3a5169c909d54259!5m2!4m1!1i2!8m2!3d43.4338561!4d-1.5935913!16s%2Fg%2F11trftkjfh?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D' target='blank'>Kaliko</a> ! <br><br> Adresse : 112 Rue de la Chapelle, 64210 Bidart",
    "subtitle": "",
    "description": "",
    "service": "true"
