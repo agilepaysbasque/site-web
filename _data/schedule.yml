@@ -90,7 +90,7 @@
 -
   date: "2024-09-06"
   tracks:
-    - {title: "Soirée", color: "#0F0000"}
+    - {title: "Apéro", color: "#0F0000"}
   timeslots:
     - {
       startTime: "18:00",
