@@ -2,7 +2,7 @@
   date: "2019-09-20"
   dateReadable: "06 Septembre"
   tracks:
-    - {title: "ESTIA 1 - Amphi Mari", color: "#0F0000"}
+    - {title: "ESTIA", color: "#0F0000"}
   timeslots:
     - {
       startTime: "8:00",
