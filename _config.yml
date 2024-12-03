@@ -52,11 +52,12 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
 # - {permalink: "/logistics/", text: "Accès"}
 # - {permalink: "/intro/", text: "Presentation"}
- - {permalink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2024", text: "Billetterie"}
+# - {permalink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2024", text: "Billetterie"}
  - {permalink: "/sponsors/", text: "Devenez sponsor"}
 # - {permalink: "/cfp/", text: "Proposez un sujet (CFP)"}
- - {permalink: "/speakers/", text: "Orateur·rice.s"}
- - {permalink: "/schedule/", text: "Programme"}
+# - {permalink: "/speakers/", text: "Orateur·rice.s"}
+# - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/schedule2024/", text: "2024"}
  - {permalink: "/schedule2019/", text: "2019"}
  - {permalink: "/schedule2018/", text: "2018"}
  - {permalink: "/schedule2017/", text: "2017"}
@@ -92,7 +93,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero"
-heroTitle: "Agile Pays Basque est de retour le 6 et 7 septembre 2024"
+heroTitle: "Agile Pays Basque est de retour en 2025"
 eventDate: ""
 eventDateExtra: ""
 heroButtons:
@@ -273,6 +274,7 @@ footerBlocks:
    - { link: "https://www.linkedin.com/company/agile-paysbasque/", text: "LinkedIn" }
    - { link: "https://www.facebook.com/AgilePaysBasque", text: "Facebook" }
    - { link: "https://twitter.com/agilepb", text: "X (ex Twitter)" }
+   - { link: "https://bsky.app/profile/agile-paysbasque.bsky.social", text: "Bluesky" }
    - {link: "https://www.youtube.com/channel/UCMvs0KliF5msZ7dQmMkXMLA", text: "Youtube"}
  -
   title: "Contacts"

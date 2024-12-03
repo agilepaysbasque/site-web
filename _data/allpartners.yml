@@ -8,7 +8,7 @@ Edition:
 -
   year: "2016"
   partners:
-  - group: "Sponsors GOLD" 
+  - group: "Sponsors GOLD"
     elements:
     - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
@@ -20,16 +20,16 @@ Edition:
     - {name: "Waavy", description: "", link: "http://waavy.fr/", imageUrl: "waavy.png", width: "204px"}
     - {name: "Duffau Consulting", description: "", link: "http://www.duffau.consulting/", imageUrl: "duffau.png", width: "204px"}
   - group: "Partenaires privilégiés"
-    elements: 
+    elements:
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
     - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
   - group: "Partenaires"
-    elements: 
+    elements:
     - {name: "Duchess", description: "Association Duchess France", link: "http://www.duchess-france.org/", imageUrl: "duchess.png", width: "204px"}
     - {name: "ANTIC", description: "Agence de Développement des Usages Numériques", link: "http://www.antic-paysbasque.com/", imageUrl: "antic.png", width: "204px"}
     - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
-    elements: 
+    elements:
     - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
     - {name: "Restaurant du Trinquet d’Arcangues", description: "Restaurant du Trinquet d’Arcangues", link: "http://www.trinquetdarcangues.com", imageUrl: "trinquet-logo.png", width: "120px"}
     - {name: "Bleu Blanc Jaune", description: "Restaurant Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
@@ -49,12 +49,12 @@ Edition:
     - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
-    elements: 
+    elements:
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
     - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
     - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
-    elements: 
+    elements:
     - {name: "Atlanthal", description: "Centre de Thalassothérapie", link: "http://www.atlanthal.com", imageUrl: "atlanthal.jpg", width: "120px"}
     - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
     - {name: "Bleu Blanc Jaune", description: "Restaurant Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
@@ -69,7 +69,7 @@ Edition:
   year: "2018"
   partners:
   - group: "Sponsors"
-    elements: 
+    elements:
     - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     # - {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
     - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
@@ -83,14 +83,14 @@ Edition:
     # - {name: "Wemanity", description: "Wemanity", link: "https://www.wemanity.com", imageUrl: "https://www.wemanity.com/wp-content/uploads/2017/08/wemanity-mobile.png", width: "215px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
-    elements: 
+    elements:
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
     - {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
     # - {name: "IAE Pau", description: "IAE Pau", link: "http://iae.univ-pau.fr", imageUrl: "iae-pau.png", width: "170px"}
     - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "250px"}
     - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
-    elements: 
+    elements:
     - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
     - {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
     - {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
@@ -103,7 +103,7 @@ Edition:
   year: "2019"
   partners:
   - group: "Sponsors"
-    elements: 
+    elements:
     #- {name: "A venir", description: "A venir", link: "#Todo", imageUrl: "tbd.png", width: "120px"}
     #- {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     #- {name: "Actinuum", description: "Actinuum, Cabinet de conseil et de formation en management de projet", link: "http://www.actinuum.com/", imageUrl: "actinuum.png", width: "204px"}
@@ -119,14 +119,14 @@ Edition:
     #- {name: "Wemanity", description: "Wemanity", link: "https://www.wemanity.com", imageUrl: "https://www.wemanity.com/wp-content/uploads/2017/08/wemanity-mobile.png", width: "215px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
   - group: "Partenaires privilégiés"
-    elements: 
+    elements:
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
     - {name: "IUT Bayonne Pays Basque", description: "IUT Bayonne Pays Basque", link: "https://www.iutbayonne.univ-pau.fr/", imageUrl: "https://www.iutbayonne.univ-pau.fr/sites/all/themes/iutbay/logo-black.png", width: "150px"}
     # - {name: "IAE Pau", description: "IAE Pau", link: "http://iae.univ-pau.fr", imageUrl: "iae-pau.png", width: "170px"}
     #- {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "250px"}
     #- {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
   - group: "Avec la participation de"
-    elements: 
+    elements:
     - {name: "Le Spot", description: "Bar-Brasserie-Snack Le Spot", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
     - {name: "Bleu Blanc Jaune", description: "Bleu Blanc Jaune", link: "https://www.facebook.com/Bleu-Blanc-Jaune-1545775982383554/", imageUrl: "bbj.jpg", width: "120px"}
     - {name: "Moulin de Bassilour", description: "Moulin de Bassilour", link: "https://www.facebook.com/moulinde.bassilour", imageUrl: "moulindebassilour.jpg", width: "120px"}
@@ -135,3 +135,9 @@ Edition:
     - {name: "La Ferme Elizaldia", description: "La Ferme Elizaldia", link: "https://www.ferme-elizaldia.com/", imageUrl: "ferme-elizaldia.jpg", width: "120px"}
     #- {name: "Agence Gravuplac Publicité", description: "Agence Gravuplac Publicité", link: "https://www.gravuplac.fr/", imageUrl: "gravuplac.png", width: "150px"}
     #- {name: "L'école de la Glisse'", description: "L'école de la Glisse", link: "http://lecoledelaglisse.com/", imageUrl: "LecoleDeLaGlisse.png", width: "150px"}
+-
+  year: "2024"
+  partners:
+    - group: "Partenaires privilégiés"
+      elements:
+        - { name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px" }
