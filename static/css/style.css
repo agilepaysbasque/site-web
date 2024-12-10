@@ -304,12 +304,8 @@ ol {
 -----------------------*/
 
 .hero-section {
-	padding-top: 25px;
-	min-height: 550px;
-}
-
-.hero-section .hero-text {
 	padding-top: 130px;
+	padding-bottom: 130px;
 }
 
 .hero-section .hero-text span {
@@ -2228,6 +2224,13 @@ ol {
 	.navbar-nav li.nav-item a.nav-link:after {
 		bottom: 10px;
 	}
+	.hero-section {
+		padding: 30px 10px;
+	}
+	.hero-text .hero-text {
+		padding-top: 30px;
+		text-align: center;
+	}
 	.navbar .primary-btn {
 		margin-top: 25px;
 		margin-bottom: 15px;
@@ -2261,6 +2264,13 @@ ol {
 	.navbar .primary-btn {
 		margin-top: 25px;
 		margin-bottom: 15px;
+	}
+	.hero-section {
+		padding: 30px 10px;
+	}
+	.hero-section .hero-text {
+		padding-top: 30px;
+		text-align: center;
 	}
 	.counter-section .cd-timer .cd-item {
 		margin-bottom: 10px;

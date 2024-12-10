@@ -15,7 +15,7 @@
                     <h2>{{ . | safeHTML }}</h2>
                     {{ end }}
                     {{ with .Site.Params.homepage.link }}
-                    <a href="{{ .url }}" class="primary-btn" target="_blank">{{ .label }}</a>
+                    <a href="{{ .url }}" class="primary-btn">{{ .label }}</a>
                     {{ end }}
                 </div>
             </div>
