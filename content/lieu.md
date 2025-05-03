@@ -18,7 +18,7 @@ La conférence se passe dans les bâtiments de l'ESTIA 3, situés au 90 Allée F
 ## Venir en bus
 
 Depuis Bayonne ou Anglet, vous pouvez prendre la **ligne 3** du réseau Txik Txak et descendre à l'arrêt **Barbarenia**, vous aurez ensuite **15mn de marche** pour vous rendre à ESTIA 3. 
-La ligne 3 passe toutes les 20mn, mais l'arrêt est en bord de route nationale.
+La ligne 3 passe toutes les 15mn, mais l'arrêt est en bord de route nationale.
 
 Si le temps est capricieux, ou si vous souhaitez limiter la marche à pied, **combinez ligne 3 et 8**: prendre la **ligne 3** et descendre à l'arrêt **Aéroport de Biarritz**, prendre ensuite la ligne **8** et descendre à l'arrêt **Izarbel**. Vous aurez 5mn de marche pour rejoindre le site de la conférence. 
 La ligne 8 passe toutes les 15mn le matin et l'après-midi.
