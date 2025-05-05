@@ -6,8 +6,8 @@ enableRobotsTXT: true
 
 menu:
   main:
-    - name: "CFP"
-      url: "https://conference-hall.io/agile-pays-basque-2025"
+    - name: "Billetterie"
+      url: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2025"
       weight: 4
 
 params:
@@ -28,8 +28,8 @@ params:
     topTitle: "La conférence les pieds dans l'eau"
     subTitle: "L'édition 2025 est en préparation"
     link:
-      url: https://conference-hall.io/agile-pays-basque-2025
-      label: "CFP : Proposez un sujet"
+      url: https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2025
+      label: "La billetterie est ouverte !"
     countdown:
       display: true
       date: 2025-09-12
