@@ -30,13 +30,15 @@
                                 </div>
                                 <div class="si-social">
                                 {{ partial "social-media/speaker" . }}
+                                    {{ with .bio }}
                                 <p class="bio">
-                                    {{ .bio }}
+                                    {{ . }}
                                 </p>
-                                {{ if gt (len .bio) 520 }}
+                                {{ if gt (len .) 520 }}
                                 <button class="btn btn-link toggle-bio-btn p-0">
                                     Voir plus
                                 </button>
+                                {{ end }}
                                 {{ end }}
                             </div>
                         </div>

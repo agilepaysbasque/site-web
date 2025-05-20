@@ -1,0 +1,818 @@
+{
+  "name": "Agile Pays Basque 2025",
+  "startDate": "2025-09-11T22:00:00.000Z",
+  "endDate": "2025-09-12T21:59:59.999Z",
+  "proposals": [
+    {
+      "id": "cma7b37hk00gupo3mgydhybui",
+      "title": "Des irritants à l’action collective : une démarche complète pour faire bouger les lignes",
+      "abstract": "Comment passer d’une culture où \"on constate\" les problèmes qui perdurent malgré les rétrospectives à une dynamique où \"on agit\" concrètement, collectivement et durablement au bon niveau dans l'organisation ?\n\nDans cette session, je vous propose de découvrir une démarche d’amélioration continue intégrée, combinant entre autres Popcorn Flow, du management visuel, ldes principes issus de la résolution de problème A3 et l’expérimentation de solutions, applicable aussi bien au niveau équipe qu’à l’échelle de l'organisation.\n\nPensée pour rendre l'amélioration visible, rythmée et engageante, cette approche permet :\n - de rendre explicites les irritants du quotidien et de les collecter facilement,\n - d’identifier les vrais problèmes sous-jacents,\n - de prioriser les efforts sans s’épuiser,\n - tester des solutions concrètes avec des boucles de feedback courtes et apprenantes.\n\nQue vous soyez coach, scrum/agile master, manager ou facilitateur, cette session vous porpose une démarche concrète, adaptable à votre contexte, pour passer à l’action de façon efficace à tout niveau dans l'organisation.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Conférence reprenant les principes de la démarche d'amélioration continue \"scalable\" sur laquelle je travaille dans le cadre de la mise en  place d'une gestion des irritants au niveau d'une DSI chez mon client actuel (déploiement des pilotes en cours).\nJ'ai déjà présenté des conférences sur Popcorn Flow ou encore la résolution de problème, c'est un sujet récurrent dans mes trvaux.",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🤝 Facilitation",
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "\"VRAIMENT\" TRANSVERSE",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Anne Gabrillagues",
+          "bio": "J'ai à mon actif un peu plus de 15 ans d'expérience en contexte agile,sur des rôles de Scrum Master et Product Owner (produits IT) puis de coach agile. Virage pris en 2008,  faisant suite à 10 ans de carrière en contexte cycle en V dans le développement logiciel et la gestion de projet.\n\nJ'accompagne équipes et organisations de la façon la plus pragmatique possible, afin de les aider à adopter de façon durable une meilleure façon de travailler ensemble au service de la satisfaction de leurs clients. Dans ma boîte à outils vous trouverez des OKR, du Kanban, des outils Lean, de la gestion de produit,  des pratiques de facilitation et de conception d'ateliers / serious games, des techniques d'ingénierie logicielle, des pratiques de gestion de portefeuille, ainsi que des choses issues d'autres domaines et dont je suis en train d'expérimenter l'utlisation en contexte agile.\n\nLa communauté agile est un élément important dans ma vie professionnelle,  notamment en tant qu'oratrice ayant la chance d'être régulièrement retenue. Je fais aussi partie d'équipes organisatrices de conférences depuis 2012, je me concentre actuellement sur la conférence FlowCon France, dédiée à la création de valeur en flux.",
+          "company": "essensei",
+          "references": "Je suis oratrice depuis 2012 , et j'ai la chance d'être régulièrement retenue en conférence :  Agile Pays Basque, Agile Tour Toulouse, Agile Tour Bordeaux, Agile Grenoble, Agile Tour Rennes, Agil'Lille, Agile en Seine, etc.\nJ'ai notamment eu l'immense honneur de donner une keynote à Agile Tour Bordeaux et Agile Tour Toulouse en 2022, ainsi qu'à Agile Niort en 2025.\n\nUne partie de mes supports de conférence est disponible ici : https://speakerdeck.com/agabrillagues \nJ'ai aussi eu la chance de voir certaines de mes interventions filmées : https://www.youtube.com/playlist?list=PLGVBrGY5VVS_lpnx0YPv0lf_iiVcRyuC3",
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocLrM8gITt1V0pFIjDOQHDLbgMDocFr7g7en6HPY2g68zqgG040=s96-c",
+          "location": "Paris, France",
+          "socialLinks": [
+            "https://x.com/agabrillagues"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.5,
+        "positives": 2,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma6wq9dq00blpo3m4dyg8h6n",
+      "title": "Votre produit est brillant — mais personne n’en veut : les vérités douloureuses du 0 to 1",
+      "abstract": "Une techno de pointe, une idée révolutionnaire, une équipe ultra compétente… et un échec cuisant. Pourquoi ? Parce qu’un bon produit, ce n’est pas juste de la tech : c’est de la tech + du business. Et sans product-market fit, même la meilleure solution ne vaut rien.\n\nRachel et Montaine l’ont vécu de l’intérieur. Elles ont construit des produits “trop tôt” pour leur marché, codé sans avoir validé, et appris — parfois très cher — que vendre après, c’est souvent vendre jamais.\n\nDans ce talk vif et sans langue de bois, elles démontent le mythe du PM héros et partagent des erreurs concrètes à éviter. Vous repartirez avec des convictions fortes : que chaque dev devrait penser business, que l’échec n’est jamais bien loin — et que c’est justement là que commence la vraie aventure produit.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "\"Daily Open Space\"\n--- 🎤 Agile Tour Toulouse 2019 - https://urls.fr/fTAgJl\n\n\"Story Mapping in practice\"\n--- 🎤 Agile Tour Toulouse 2021 - https://urls.fr/bKDzxt\n\n\"How to build a product organization ? Rex from a MedTech\"\n--- 🎤 Agile Tour Toulouse 2023\n--- 🎤 Meetup FrenchProduct 2023 - https://www.youtube.com/watch?v=pdlJ4FBhOJw\n\n\"MedTech: Transforming Healthcare Through Data\"\n--- 🎤 Tech.Rocks Paris December 2024 - https://urls.fr/5E4vQQ (Only the video of the springboard is available. The video of the event is not free.)\n--- 🎤 MiXit Lyon April 2025 (2025 videos are not yet published https://www.youtube.com/user/MixIT2012)\n\n\"Is Healthcare Afraid of the Cloud?\"\n--- 🎤 Cloud Toulouse May 2025\n--- 🎤 DevLille June 2025\n\nInnovation and Leadership: Reinventing MedTech\n— 🎙️ Tech.Rocks Podcast – Voices of Tech Leaders, #S07EP02, February 2025",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🎨 Produit & UX"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "PRODUCT",
+        "Pas de défraiement"
+      ],
+      "languages": [],
+      "speakers": [
+        {
+          "name": "Montaine Marteau",
+          "bio": "20+ ans d'expérience produit dans la MedTech\nEx-CPTO et membre du comité exécutif de Medexprim\nCo-founder Bttrways - Fractional CPO/CTPO\nDocteure en traitement du signal et de l'image\nProfesseure en Product Management à l'université",
+          "company": null,
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocK0F0GJ7HTZpuxJULXIq2CqH3L6S19YcqvxVO0rQKh8lA4O5oU=s96-c",
+          "location": null,
+          "socialLinks": [
+            "https://www.linkedin.com/in/montaine-marteau-5438692/"
+          ]
+        },
+        {
+          "name": "Rachel Dubois",
+          "bio": "I believe that we can create products and services that make the world a better place. And that we can learn and grow in the process of doing so. Our challenge is that we waste time and money and human energy on untested ideas that, too often, turn out to be something that the customer does not want. Or, if we have an idea that is really good, we get in our own way by not executing it well, by not being able to communicate, inspire, and empower our collaborators and stakeholders as we must in order to do the impossible: launch and grow good ideas that the world needs, fostering sustainable and ethical growth.\n\nI work to solve that.\n---\n25 years + experience in Tech as Product Lead\nNamed TOP 50 Product Leader to follow in 2024 (worldwide)\nAgile @scale expert\nInternational speaker & keynoter since 2008\nWorked for : Spotify, Airbus, Orange, Natixis, Legrand, ...",
+          "company": "bttrways",
+          "references": "Upcoming ! \n* Agile Niort 2025 - March 2025 - Niort, France\n*  PIAF 2025 - March 2025 - Online \n*  FlowCon Fr - April 2025 - Paris, France\n*  Devvox - April 2025  - Paris, France\n*  Agil'Lille - June 2025 - Lille, France\n*  Agile On The Beach 2025 July 2025 Falmouth, United Kingdom\n\nSweet memories 🥹\n*  9ième Journée Agile au Mans / France / Europe February 2025 Le Mans, France\n* Agile Grenoble 2024 - November 2024 Grenoble, France\n* Agile Tour Rennes 2024- November 2024 Rennes, France\n* Agile Tour Bordeaux 2024 - October 2024 Bordeaux, France\n* Agile Tour Nantais 2024 - October 2024 Nantes, France\n* Project to Product Summit -  October 2024\n*  Agile En Seine 2024 - September 2024 Paris, France\n* Agile Pays Basque 2024 - September 2024 Bidard, France \n* Agile On The Beach 2024 -  July 2024 Falmouth, United Kingdom\n* Agile Tour Genève 2024 - June 2024 Genève, Switzerland\n* Agile en Med, June 2024 - Casablanca, Marocco\n* Agile NIORT 2024 - March 2024 Niort, France\n*  Tech.Rocks 2023 - Decembre 2023 Paris, France\n*  Agile Tour Bordeaux 2023 - October 2023 Bordeaux, France\n*  ProductWorld 2023 -  February 2023 Oakland, California, United States\n*  Agile Lean Europe Unconference (Host) - Toulouse, France \n*  FlowCon 2022 - Paris, France \n*  Agile en Med 2022 - Tunis\n*  Agile Grenoble 2020 - November 2020, France\n*  Agile tour Bordeaux 2020 - October 2020 , France\n*  Agile Pays Basque 2019, Bidard France \n*  Agile Tour Toulouse 2019, France \n*  Agile Pays Basque 2018 - Bidard - France\n*  Agile Pays Basque 2017, Bidard - France \n*  Agile Tour Toulouse 2017, France\n*  ACE Conference - June 2017  Cracow, Poland \n*  Agile Tour Bordeaux 2010 France\n*  Agile Tour Bordeaux 2009, France \n*  Agile tour Toulouse 2008, France",
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocJ0TIPrg0O6TmfIWwDaM8GsoDEknwMjVyuW0UAaGNIA-EWbcz9Vsw=s96-c",
+          "location": "Toulouse, France",
+          "socialLinks": [
+            "https://www.linkedin.com/in/duboisrachel/"
+          ]
+        }
+      ],
+      "review": {
+        "average": 5,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma6voj3v00arpo3mg9nyc3h7",
+      "title": "Quand la documentation va, tout va",
+      "abstract": "La documentation dans un context agile est un vrai défi.\nLes évolutions constantes rendent les mises à jour chronophage sans garantie d'adéquation avec le code.\n\nLe Behavior Driven Development a fait un premier pas pour adresser ce problème et pour donner de la visibilité sur les comportements à l'extérieur de l'équipe de développement.\n\nEst ce suffisant pour autant ?\nNe peut on pas aller plus loin en repensant le problème autrement ?\n\nEt si on validait la cohérence de le documentation avec le logiciel plutôt que de chercher à rendre lisible des scénarios de tests.\nEn se libérant des contraintes techniques sur la document final, on peut choisir les représentations les plus adaptées pour décrire les comportements et permettre de comprendre rapidement le fonctionnement de l'application.\n\nVous allez découvrir comment la combinaison des approches Living Documentation et Approval Testing ouvre une nouvelle voie.\nEn pensant la documentation, les spécifications et les tests comme un seul et même élément, on va assurer une parfaite synchronisation avec le code tout en mutualisant l'effort de maintenance.\n\nVous repartirez de cette session avec de nouvelles perspectives pour vos tests et votre documentation ainsi que les bases pour commencer à expérimenter.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMEDIATE",
+      "references": "* [Vidéo Human talk - 10mn](https://www.youtube.com/watch?v=1slYI-dBMcc*)\n* [Vidéo BDX/IO - 45mn](https://www.youtube.com/watch?v=AQDILnknTJ0)\n* [Slides](https://fr.slideshare.net/SbastienFauvel/sil-suffisait-de-documenter-pour-tester-agile-niort-2022)\n* [Site décrivant l'approche](https://sfauvel.github.io/documentationtesting/)\n* [Instruction du workshop](https://docastest.github.io/doc_as_test_workshop/fr/)\n",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "Pas de défraiement"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Sébastien Fauvel",
+          "bio": "Passioné d'informatique fortement influencé par l'eXtreme Programming pour construire du logiciel de manière efficace.\nA l'origine des groupes Agile Nantes et Software crafters Nantes\nCréateur des serious game Lego4Devops et CaTesTdrale",
+          "company": "Palo IT",
+          "references": "J'ai donnée plusieurs talk lors des Agile Tour ou sur quelques meetup mais aucuns n'ont été enregistrés.\nJ'ai également animé de nombreux ateliers / serious game dans le cadre professionnel ou sur des conférences (Agile Tour Nantes, Agile Games Night, Agile Grenoble, NCrafts, Agile France)",
+          "picture": "https://lh4.googleusercontent.com/-K1C_a7OHivU/AAAAAAAAAAI/AAAAAAAAAi4/aOIzz7nGl-k/photo.jpg",
+          "location": "Nantes, France",
+          "socialLinks": [
+            "https://github.com/sfauvel",
+            "https://x.com/sfauvel"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.25,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma6lu6yt007vpo3mon2zbho3",
+      "title": "Se planter 9 fois expérimenter 10...",
+      "abstract": "L’Agilité, ce n’est pas une posture figée, c’est une dynamique, un état d’esprit. Et comme toute aventure, elle est jalonnée d’essais, de découvertes… et parfois d’échecs. Mais si l’on y regarde de plus près, chaque échec est une brique de plus dans notre apprentissage et pas que un caillou dans notre chaussure...\n\nC’est précisément ce que nous explorerons .Il s'agit de comprendre comment l'empirisme alimente l'innovation, comment chaque tentative – brillante ou bancale – contribue à bâtir des approches plus robustes et moins absurdes ( et inversement...)\n\nAttendez-vous à des récits de terrain, des expériences audacieuses, des retours sans filtre sur ce qui fonctionne (ou pas).\n\nAlors, prêt à monter dans le musée des horreurs de nos expérimentations et découvrir comment on a parfois sauvé des Agile Squad ?",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "https://slides.com/anthonypraud/deck-a8da3b/kiosk?autoSlide=2000&started=true",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "📊 Organisation & leadership",
+        "🌶️ Autres propositions pimentées"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "AGILISTES",
+        "Liste d'attente",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Anthony Praud",
+          "bio": "Avant, j’étais chef de Projet . Mais  les planning et les budgets à 2 ans me laissaient dubitatif.\nNon, mon truc, c'est plutôt la qualité, la valeur produit et les relations humaines. Du coup, maintenant, j’aide les équipes en tant que Facilitateur.\nJe suis toujours curieux de nouvelles façons de travailler et ainsi de découvrir les bonnes pratiques  de mes collègues et d'échanger avec eux sur la façon d'être un meilleur professionnel.",
+          "company": null,
+          "references": "Agil'Lille 2022<br>\nAgile Grenoble 2022<br>\nPIAF 2023<br>\nAquilité 2023<br>\nAgile niort 2023<br>\nDemain l'entreprise\nAgile Bordeaux 2023<br>\nAgile niort 2024<br>",
+          "picture": "https://lh3.googleusercontent.com/a-/AOh14GilEmjNfLPFHnKqNNnyiX9E-rLfmm2EpSGse2xJuZg=s96-c",
+          "location": "Niort, France",
+          "socialLinks": [
+            "https://x.com/apraud"
+          ]
+        },
+        {
+          "name": "Alain Delachaux",
+          "bio": null,
+          "company": "Capgemini",
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocIX0Bvic8SLB-YaTMFVV4C1K42OTVg4cAbdgjLZadmIaoU=s96-c",
+          "location": "Mérignac, France",
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 2.5,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma42c1a405n7o63myeeqti9k",
+      "title": "L'enjeu majeur d'une transformation agile, c'est la transformation pas l'agilité.",
+      "abstract": "Aujourd’hui, nous vous proposons de réfléchir à un enjeu majeur pour les entreprises : comment passer d’un déploiement de l’agilité à une véritable transformation d’entreprise ?\n\nL’agilité, vous la connaissez probablement : elle permet aux équipes de s’adapter rapidement aux changements et de répondre plus efficacement aux besoins du marché. Mais l’agilité, bien qu’essentielle, n’est qu’une étape dans un processus plus large. Le déploiement de l’agilité permet certes d’être plus réactif, mais pour qu’une organisation se pérennise et se distingue véritablement dans un environnement en constante évolution, il lui faut repenser ses fondations, sa culture, ses objectifs et son modèle économique.\n\nC’est là qu’intervient la transformation d’entreprise. Au-delà des méthodes agiles, il s’agit d’engager une refonte complète, de transformer le leadership, de repenser l’interaction avec les parties prenantes et d’aligner tous les collaborateurs autour d’une vision commune et ambitieuse.\nL’objectif ? Créer une organisation véritablement résiliente, engagée et prête à anticiper l’avenir, et non plus simplement à y réagir.\n\nÀ partir de nos retours d’expérience concrets, nous aborderons :\n- Les fondamentaux d’une transformation réussie, de l’émergence d’une vision partagée à sa mise en œuvre opérationnelle.\n- Les leviers essentiels pour renforcer la cohésion et l’engagement des équipes, tout en alignant les objectifs individuels et collectifs.\n- Les outils pratiques et approches inspirées qui favorisent un impact significatif sur la qualité et la performance organisationnelle.\n\nVous repartirez avec des clés concrètes pour naviguer dans la complexité des transformations, tout en assurant un ancrage durable et fédérateur au sein de vos équipes.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": null,
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "AGILISTES",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Benjamin Cabanne",
+          "bio": "Coach pro, coach agile, facilitateur et superviseur. J'accompagne les humains, les équipes et les organisations à se poser leurs bonnes questions pour définir leur chemin et s'engager dessus. Je les accompagne ainsi à avoir plus de collectif, plus d'engagement et plus de plaisir.\nIssu du monde du développement logiciel, j’ai vécu et mis en pratique l’agilité de l’intérieur et compris la nécessité de s’adapter pour aller plus loin. Issu également du sport en compétition, j’ai une appétence particulière pour l’apprentissage par l'expérimentation.\n#Happy #CoachPro #CoachAgile",
+          "company": "Doushitè",
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a-/AOh14GjPUYnNoZuQRwGgK7V9gEy5znbUEBcRH76xR_Gxvg=s96-c",
+          "location": "Toulouse, France",
+          "socialLinks": [
+            "https://x.com/plopMaker"
+          ]
+        },
+        {
+          "name": "Laurent Cervilla",
+          "bio": null,
+          "company": null,
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a-/ALV-UjWYHk7wDqMy6qJkAZLM9ejr2I2y3pUZ-fySz7CvASTCLWXgV-wrLJExxS20RUeojoUtivhzv3FxwqvA5jmXt1ikbtCFcojLxwG9n8394R5tgYAyvZqJzNQKlsVLq6eSpEuaNR5qOeAAo8_uFxTzFzGTsl0BQVc4mUoeSHEc7vyTlSg3ydwlKurmj-y5o82Ruog9SJozTtTa-nDvarI27q3dIVdzQ8iGK62N3wxJI9JrLEaJQoUFza7b_oPojnvFpB-GkHHRao4x73fTmqADzkDya8JEPmzbeCEk_4BQ3LOh-2-wyHh-eoBJ0kVxwDQbczTLWybEcDgTsAfPPQZpdBf0UPG-URUWNWuPVE0e1EERUrtJDbTb5QMc2uqVNDBSn6Ea7Yd7s_IEH-norw5E4nXyvt0qQEGFqXr9P8gSnPJAQ1BScS-OTo1s4kxv8bGMOzGEzH-BagsKPnFDnl-A5e8w2CKWQ7w0tqSXOhHOP64L4OTfYIHEULnerE80t50IUKpcHwEugWJ13xcqImi6ZcQ7E1PI826iW7-3zyF1LnN883jQHMRHl6C222LjcAYhJwSnKneV5eoPSqDDEMBiTSyNfGlW5WBj93EIRBsu_PiveMDpnsQCQC9m9sDDC0ZHkt_zMzXsqfVL8EQ-vutgW6ZDgtFn7thJpiipKD4RAzN9ZMipKUW7M0dmEIublj02h7NCvbFDxA5wDT6q5FafHBDntlCO1JUso5yjwi4ILH9d3aKZhM8l4G5V6iKE43vrJbSyHIcWykGxTvWvb2XvS--GPt-Phyn_Kloa4JRaAorKzeMdi2mEeCEKHYigKc1lZ2rd_9NRLlwaOn6dqmVWtWknKDfM48l8NIoeWHCgYgC6sC_qBxuIVw6xgMzUd7PcQz3XysEWIKFM--s52Ws29XkZyWyCLv4q1PUqN_-eA-lC-4FC7o6TifC7QhW6g8DVL9l6MlTnbVDI8FkSksIHxkkq=s96-c",
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 3,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma3vs24l05leo63m9cemxon8",
+      "title": "Définir le langage commun de votre domaine métier",
+      "abstract": "Avez-vous déjà eu l’impression que vos équipes parlait la même langue sans vraiment se comprendre ? Chez PayFit, nous nous sommes retrouvés face à ce paradoxe : des termes comme employee, collaborator, worker, person, individual, user circulaient partout mais chacun leur donnait un sens différent. Cette confusion freinait notre collaboration, et parfois même l'évolution de notre produit !   \n\nDans cette conférence, nous partagerons comment nous avons entrepris d’instaurer un langage commun au sein de nos équipes, un socle essentiel pour aligner la tech, le produit et le métier. Nous verrons ensemble les techniques qui nous ont permis d’y parvenir : des ateliers de découverte transverses aux RFCs (Request for Comments) pour formaliser nos décisions, en passant par une itération constante basée sur des cas d’usage réels.   \n\nMais surtout, nous aborderons l’un des défis majeurs : comment réussir ce travail de clarification et d’alignement lorsque de nombreuses équipes sont impliquées et impactées, chacune avec ses priorités et son vocabulaire ? Vous repartirez avec des méthodes concrètes pour instaurer ce langage commun dans votre organisation et en faire un levier de transformation produit.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Hello\nÇa sera un tout nouveau talk que nous ferons pour la 1e fois à Agile Pays Basque si nous sommes sélectionnés !\nLe langage est un des éléments centraux du Domain Driven Design. Ce talk sera un retour d'expérience de nos actions à PayFit qui nous ont permis d'identifier ce langage métier et d'aligner les équipes.",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🎨 Produit & UX",
+        "🛠️ Craft & Tech",
+        "🤝 Facilitation",
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "\"VRAIMENT\" TRANSVERSE",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Maxime Sanglan-Charlier",
+          "bio": "Maxime Sanglan-Charlier - Engineering Manager - PayFit\n\nPlus de 20 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation. Je co-organise la conférence [Newcrafts](https://ncrafts.io/), co-fondateur du groupe [Software Crafters Nantes](https://mobilizon.fr/@software_crafters_nantes) et contributeur sur [DDD-Crew](https://github.com/ddd-crew).",
+          "company": "One Hundred Acorns",
+          "references": "# 2025\n- [DDD Europe](https://2025.dddeurope.com/) - Interactively designing distributed systems integration with collaborative modelling (workshop with Krisztina Hirth, Kenny Baas-Schwegler & Henning Schwentner)\n- [Flowcon](https://flowcon2025.sched.com/event/1vxx0/collaborative-domain-discovery-workshop) - Collaborative Domain Discovery Workshop (workshop with Krisztina Hirth, Nick Tune & Pierrick Blons)\n\n# 2024\n- [Agile Pays-Basque](https://agile-paysbasque.fr/programme2024/) - Comment passer d'un domaine métier à une architecture logicielle ? (talk with Nick Tune) - [Copenhagen Developer Festival](https://ndccopenhagen.com/workshops/strategic-domain-driven-design-analysis-architecture-and-modelling/eaf110fd2d5c) - Strategic Domain-Driven Design: Analysis, Architecture, and Modelling (2 days workshop with Kenny Baas-Schwegler)\n- [DDD Europe](https://2024.dddeurope.com/schedule/) - You’ve done an Event Storming, great! Now what? (workshop)\n- [Flowcon](https://flowcon2024.sched.com/event/1Xmr6/youve-done-an-eventstorming-great-now-what) - You’ve done an Event Storming, great! Now what? (workshop)\n- [NDC London](https://ndclondon.com/) - Strategic Domain-Driven Design: Analysis, Architecture, and Modelling (2 days workshop with Nick Tune)\n\n# 2023\n- [Agile Meets Architecture Berlin](https://www.agile-meets-architecture.com/2023/schedule) - From Domain Boundaries to Software Architecture (talk with Nick Tune)\n- [Copenhagen Developer Festival](https://www.youtube.com/watch?v=rU-F8op6f-I&ab_channel=NDCConferences) - From Domain Boundaries to Software Architecture (talk with Nick Tune)\n- [NDC London](https://www.youtube.com/watch?v=Yo6N66lud50&ab_channel=NDCConferences) - From Domain Boundaries to Software Architecture (talk with Nick Tune) \n\n# 2022\n- [NDC Porto](https://ndcporto.com/agenda/advanced-bounded-context-design-with-the-bounded-context-canvas-0d71/0y4jf4db9zg) - Advanced Bounded Context Design With The Bounded Context Canvas (workshop with Nick Tune)\n- [DDD Europe](https://2022.dddeurope.com/program/the-ddd-starter-modelling-process1) - The Starter Modelling Process (talk)\n\n# 2021\n - [DDD Europe](https://2021.dddeurope.com/program/2021/program/1) - Advanced Bounded Context Design With The Bounded Context Canvas (workshop with Nick Tune)\n - [Agile Tour Bordeaux](agiletourbordeaux.fr/programme.html#) - Le Domain Driven Design, comment bien démarrer ? (talk)\n\n# 2020\n - [DDD Summit](https://microservices-summit.de/domain-driven-design/advanced-bounded-context-design-with-the-bounded-context-canvas/) - Advanced Bounded Context Design With The Bounded Context Canvas (workshop with Nick Tune)\n\n# 2019\n  - [Agile Tour Nantes](https://agilenantes.org/agile-tour-nantes-2019/) - Domain Driven Design  (talk).\n  - [Agile Tour Bordeaux](http://agiletourbordeaux.fr/programme.html) - Mob Programming (talk). \n\n# 2018\n  - [Agile Tour Nantes](http://agt2018.agilenantes.org/schedule) - Eventstorming (atelier).\n  - [Agile Tour Nantes](http://agt2018.agilenantes.org/schedule) - Mob Programming (talk). \n\n# 2017\n  - [Breizhcamp](http://2017.breizhcamp.org/conference/programme/) - Eventstorming (atelier).\n  - [Newcrafts Bordeaux](https://bordeaux.ncrafts.io/2017/#schedule3_day2_workshop)  - Eventstorming (atelier). \n\n# 2016\n  - [Agile Tour Rennes](http://agiletour.agilerennes.org/wp-content/uploads/2016/09/ATR-Salle-par-salle.pdf) - Eventstorming (atelier).\n  - [Agile Tour Rennes](http://agiletour.agilerennes.org/wp-content/uploads/2016/09/ATR-Salle-par-salle.pdf) - Software Craftsmanship (talk).\n  - [Web2Day](https://2016.web2day.co/evenements/craftsmanship-software-a-new-eldorado/) - Software Craftsmanship (talk).\n  - [Breizhcamp](http://2016.breizhcamp.org/#programme) - Mob Programming (talk).\n  - [Mix-it](https://mixitconf.org/2016) - C#6 (Atelier). \n\n# 2015\n  - [Agile Tour Nantes](http://www.agilenantes.org/agile-tour-nantes-2015/) - Mob Programming (talk). \n\n# Meetups (quelques exemples)\n  - [AFUP Nantes](https://www.meetup.com/fr-FR/afup-nantes-php/events/261223431/) - Domain Driven Design (talk)\n  - [Midis Erudits](https://www.meetup.com/fr-FR/Les-Midis-Erudits-de-Palo-IT/events/259502064/) - Domain Driven Design (talk)\n  - [#PODOJO Nantes](http://www.agilenantes.org/2016/10/20/podojo-venez-decouvrir-levent-storming/) - Eventstorming (atelier)\n  - [Piece of Make](https://www.meetup.com/fr-FR/piece-of-make/events/231173001/) - Eventstorming (atelier)\n  - [Software Crafters Nantes](https://www.meetup.com/fr-FR/nantes-software-crafts-wo-manship/) - Domain Driven Design (talk)\n  - [Human Taks Nantes](http://humantalks.com/cities/nantes/events/245) - Domain Driven Design (talk)\n  - [Software Crafters Paris](http://www.meetup.com/fr-FR/paris-software-craftsmanship/events/219239066/) - Domain Driven Design (talk)\n  - [Alt.Net France](http://www.meetup.com/fr-FR/altnetfr/events/121907882/) - Clean Architecture (talk)\n  - ...",
+          "picture": "http://www.brownbaglunch.fr/img/baggers/photo_maxime_s.jpg",
+          "location": "Nantes, France",
+          "socialLinks": [
+            "https://github.com/Max-Git",
+            "https://bsky.app/profile/maxsc.bsky.social",
+            "https://www.linkedin.com/in/maxime-sanglan-charlier-78a3922bb/"
+          ]
+        },
+        {
+          "name": "Nick Tune",
+          "bio": null,
+          "company": null,
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocIva1sz3e84mFvRzNEHzZduJudc6uRqhILnJPuYcEkUk2rOWpd8Mw=s96-c",
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cma2d2a4405beo63mfi3481xy",
+      "title": "Continuous experimentation quand les devs s’investissent dans le produit et le business",
+      "abstract": "Aux antipodes d’une vision d’exécutant, nous avons fait le choix au départ de notre product manager de prendre une part centrale dans le produit et le business. Mais est-ce vertueux pour une entreprise de laisser ses développeurs.ses s'investir sur ces champs ?  \n\nEmpiriquement, nous avons pioché dans les pratiques d’extreme programming, du DDD, ou encore du continuous discovery afin de progressivement casser les frontières de nos métiers, pour les repenser. Des rencontres sont venues accélérer notre réflexion, pour nous pousser vers une approche basée sur l’expérimentation à tous les niveaux : sur notre organisation, nos méthodes, notre code déployé. \n\nNos développements ont pris plus de sens, prioriser s’est simplifié, et cela a enrichi la valeur que nous apportions aux utilisateurs.rices et en prolongement à notre entreprise. \n\nJe vous invite à vous plonger dans notre retour d'expérience. Une occasion de vous partager ce que nous avons testé, ce que nous avons abandonné et ce que nous avons adoré, bref notre quotidien. Que votre entreprise soit centrée sur la tech ou non, oser une approche dans laquelle la diversité des profiles, des compétences s’entremêlent, devient une nouvelle richesse et une opportunité business.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Bonjour à toute l'équipe, \n\nPour ce talk, je ne l'ai encore jamais donné, mais cela fait un petit moment qu'il se construit je rencontre pas mal de développeurs.ses qui ont une casquette produit aussi donc il va encore évoluer d'ici Agile Pays Basque. \n\nBelle journée à toutes et à tous, bon CFP vous avez du recevoir plein de sujets passionnants sans nul doute.    ",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "\"VRAIMENT\" TRANSVERSE",
+        "A Défrayer"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Marjorie Aubert",
+          "bio": "Bonjour à toutes et à tous,\n\nJe m’appelle Marjorie, développeuse full-stack et lead produit chez Comet. Cela n’a pas toujours été mon métier. Après 6 années en tant que conseillère nationale en prévention des risques professionnels pour le monde agricole, je suis tombée dans le terminal avec joie il y a trois ans. Coder à plusieurs, mêler développement et produit au quotidien me passionne.  \n\nJe serai très heureuse de vous rencontrer, et d'échanger ensemble ☀️",
+          "company": "Comet",
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/AAcHTtdhqU165U2dhjXI9xJV3h8VsVSIELGR6CCzKRi1VZdZ=s96-c",
+          "location": "Paris, France",
+          "socialLinks": [
+            "https://github.com/Tagada26",
+            "https://x.com/Tagada2022"
+          ]
+        }
+      ],
+      "review": {
+        "average": 5,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm9zqiliq04k3o63mbuwcn0nj",
+      "title": "Comment je suis devenu testeur ! Briser les silos au sein des équipes chez Ericssson Allemagne",
+      "abstract": "Lorsque les méthodologies agiles sont introduites, les organisations existantes sont confrontées à un nouveau défi : comment être interfonctionnel ? Comment prendre en charge les tâches de test avec une formation de développeur, et inversement ? L'introduction des méthodologies agiles et la mise en place d'équipes Scrum/Kanban au sein de l'Ericsson Eurolab R&D Allemagne ont entraîné un changement considérable dans la manière dont le développement de logiciels traditionnels était réalisé. Transversalité, auto-organisation, haute performance, compétences T-Shape... Les membres de l'équipe Agile ont fait face à des situations difficiles !\nEn outre, même en reconnaissant les avantages avérés des méthodologies agiles, y avait-il vraiment une réelle adhésion générale de l'entreprise au partage de connaissances parmi les employés?\nCet exposé présente nos propres expériences en matière de transversalité au sein d'une multinationale des télécommunications !",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "J'ai présenté cet exposé en tant que Keynote au Hustef Budapest 2018 pour la première fois.\nhttps://www.youtube.com/watch?v=DA8VtkjrvVE&t=513s\n\nIl a également été présenté à l'agile tour London\nhttps://www.infoq.com/presentations/spreading-skills-scrum/\n\nCet exposé explique comment la diffusion des compétences parmi les membres de l'équipe Scrum, soutenue par une communauté de pratique T-Shape en tant que stratégie d'entreprise, a favorisé une culture de l'apprentissage au sein de l'organisation agile, a brisé les silos traditionnels d'expertise et a augmenté l'efficacité des équipes et des personnes qui y travaillaient. ",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech",
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "AGILISTES",
+        "Pas de défraiement"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Almudena Rodriguez Pardo",
+          "bio": "Almudena Rodriguez Pardo\n\nBussiness Agility Consultant at Rodriguez Pardo & Assocs.\nAlmudena est née à Bilbao (Espagne) et a étudié l'informatique à l'université RWTH d'Aix-la-Chapelle (Allemagne). Au cours des 22 années passées dans le secteur des télécommunications, elle a acquis une solide expérience technique en tant que développeuse, coordinatrice de la qualité et ingénieure en support technique dans différentes organisations au sein d'Ericsson. En outre, Almudena a été fortement impliquée dans la transformation Agile et le déploiement DevOps chez Ericsson.\nElle est une speaker réputée et jouit d'une réputation internationale lors des conférences Agile et DevOps, où elle a été invitée à de nombreuses conférences dans toute l'Europe. En tant qu'experte reconnue, Almudena participe aux conférences Hustef Budapest, UCAAT Paris et ExoQA Madrid en tant que Keynote invitée. En outre, elle contribue à la communauté Agile avec des publications telles que InfoQ.\nAlmudena est actuellement partenaire de la société internationale Rodriguez Pardo & Assocs, travaillant en tant que consultante en Agilité et expert Agile soutenant les organisations du monde entier dans leur chemin vers l'Agilité et le déploiement de DevOps.",
+          "company": null,
+          "references": null,
+          "picture": null,
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4.5,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm9ybj7vz04b3o63mgkecbf1x",
+      "title": "Parlons d'entretiens techniques",
+      "abstract": "Les entretiens techniques sont devenus une étape cruciale dans le process de recrutement des ingénieurs logiciel.\nPratique popularisée par les géants de la tech et généralisée aujourd'hui dans la plupart des entreprises tech, elle permet d'évaluer: les compétences techniques, les capacités de résolution de problèmes et de testing et la communication des candidats.\n\nDepuis un peu plus de 2 ans je fais passer des entretiens techniques dans mon entreprise actuelle, Datadog, mais j'en ai fait passer dans mes précédentes entreprises aussi. Je voudrais partager mon expérience et apprentissages avec le public.\n\nCe talk aborde le sujet des entretiens techniques, comment on est évalués et comment s'y préparer en amont.\nDes exemples des problèmes d'algorithme montrés à la suite, des questions que l'on pourrait avoir dans notre prochain entretien, aideront à expliquer comment s'y prendre pour leur résolution. En plus, des conseils des choses à respecter et éviter seront présentés.\n\nPour compléter, je donnerai ma conclusion sur le sujet.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "### Parlons d'entretiens techniques :\n- [DevFest Nantes 2024 ](https://www.youtube.com/watch?v=5tWDfGgevKg)\n- J'ai donné ce talk qu'une fois le mois de mai, chez Datadog en partenariat avec Ladies of Code Paris: voici [l'enregistrement](https://youtu.be/oAiq4eyFHDI?t=2763)\n\n\nJ'ai d'autres références, telles que:\n\n### Le job de mes rêves :\n\n- [DevFest Lille 2024 ](https://www.youtube.com/watch?v=AkemaIBNW88)\n- [50inTech 2022](https://m.youtube.com/watch?v=VoPvX9K_Gok)\n- [SunnyTech Montpellier 2022](https://m.youtube.com/watch?v=l1zl0ift9q0)\n- [Ladies of code 2022](https://m.youtube.com/watch?v=7ZLb6SQ9tTs)\n- [BDX.IO 2019](https://www.youtube.com/watch?v=Ig5_nm5fpEY)\n\n### Conférences sur le sketchnoting : \n- [Google Women Developer Academy Francophone 2023](https://www.youtube.com/watch?v=O4ch095al50)\n- [DevFest Toulouse 2018](https://www.youtube.com/watch?v=NInM_wndk2U)\n- [VoxxedDays Luxembourg 2018](https://www.youtube.com/watch?v=dYAGTPDRcD4)\n- Devoxx France 2018 :\n  - [Quickie](https://www.youtube.com/watch?v=sxyHF5pptgY)\n  - Hands on-lab\n  - [Keynote de fermeture](https://www.youtube.com/watch?v=lFkDUWcKPyU)\n- [BDX/IO 2018] (https://www.youtube.com/watch?time_continue=7&v=bsx8V0NZULA)\n- [Touraine Tech 2018](https://2018.touraine.tech/agenda.html#2499)\n- [Jug Summer Camp 2017](https://www.youtube.com/watch?v=EGSwp_bC3kA)",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Ane Diaz De Tuesta",
+          "bio": "Ane est Software Engineer chez Datadog. Elle est aussi oratrice de conférences et facilitatrice graphique. \n\nDepuis + de 12 ans dans le monde du développement web, principalement du Frontend, elle est passionnée par son travail, où elle est en constant apprentissage.\n\nElle est très impliquée dans les conférences techniques,  que ce soit en tant que participante ou oratrice. \nEnthousiaste de la Facilitation Graphique et du Sketchnoting, qu'elle essaie de mettre en place dans son quotidien (professionnel et personnel), elle est une vraie convaincue des bénéfices que ces techniques apportent.\n\nAne est une personne ouverte, dynamique et qui aime bien les interactions sociales.",
+          "company": "Datadog",
+          "references": "### Parlons d'entretiens techniques :\n\n- [Datadog en partenariat avec Ladies of Code Paris](https://youtu.be/oAiq4eyFHDI?t=2763)\n\n### Le job de mes rêves :\n\n- [50inTech 2022](https://m.youtube.com/watch?v=VoPvX9K_Gok)\n- [SunnyTech Montpellier 2022](https://m.youtube.com/watch?v=l1zl0ift9q0)\n- [Ladies of code 2022](https://m.youtube.com/watch?v=7ZLb6SQ9tTs)\n- [BDX.IO 2019](https://www.youtube.com/watch?v=Ig5_nm5fpEY)\n\n\n### Conférences sur le sketchnoting : \n- [Google Women Developer Academy Francophone 2023](https://www.youtube.com/watch?v=O4ch095al50)\n- [La Pensée visuelle a changé ma vie - BDX/IO keynote de fermeture 2022:](https://www.youtube.com/watch?v=ifXy9jRLWl8&ab_channel=bdxio)\n- [DevFest Toulouse 2018](https://www.youtube.com/watch?v=NInM_wndk2U)\n- [VoxxedDays Luxembourg 2018](https://www.youtube.com/watch?v=dYAGTPDRcD4)\n- Devoxx France 2018 :\n  - [Quickie](https://www.youtube.com/watch?v=sxyHF5pptgY)\n  - Hands on-lab\n  - [Keynote de fermeture](https://www.youtube.com/watch?v=lFkDUWcKPyU)\n- [BDX/IO 2018] (https://www.youtube.com/watch?time_continue=7&v=bsx8V0NZULA)\n- [Touraine Tech 2018](https://2018.touraine.tech/agenda.html#2499)\n- [Jug Summer Camp 2017](https://www.youtube.com/watch?v=EGSwp_bC3kA)",
+          "picture": "https://github.com/anediaz.png",
+          "location": "Bordeaux, France",
+          "socialLinks": [
+            "https://github.com/anediaz",
+            "https://bsky.app/profile/ane-naiz.bsky.social",
+            "https://www.linkedin.com/in/ane-diaz-de-tuesta-37785252/"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.333333333333333,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm9wzqbx1045qo63m0ki7lp04",
+      "title": "Faire une autorité de certification racine maison, suffisamment sécurisée, avec O.R.CA",
+      "abstract": "Sécuriser la communication avec des objets connectés est fréquemment… négligée.\nMettre en place une communication sécurisée est souvent synonyme de création de certificat unique par objet. Il faut alors aussi créer une infrastructure à clé publique (PKI) correspondante.\n\nOn rencontre alors une ou plusieurs des problématiques suivantes:\nUn coût prohibitif, particulièrement pour les PME.\nUne sécurité insuffisante, voire inexistante, de l'autorité racine.\nUne gestion complexe et fastidieuse de la PKI, incitant à des solutions de contournement.\nDes erreurs de manipulation fréquentes, entraînant une maintenance accrue.\ntout ça en même temps !\n\nDurant cette présentation, nous verrons comment nous avons résolus ces problèmes en utilisant :\n Nix(OS)\nHashicorp Vault\ndes scripts aux petits oignons\n\nCe projet, baptisé O.R.CA, a été rendu open source afin de permettre à chacun de sécuriser ses objets connectés.\n\nL’IoT sécurisé : on y croit !",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "ADVANCED",
+      "references": "Le projet O.R.CA est un projet que l'on va open-sourcer sous peu dans mon entreprise.\nUn repo sera donc dispo le jour du talk.",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "Pas de défraiement"
+      ],
+      "languages": [
+        "fr",
+        "en"
+      ],
+      "speakers": [
+        {
+          "name": "Xavier Detant",
+          "bio": "Ancien co-organisateur de la communauté software craftsmanship de Paris, de la non-conférence SoCraTes France et du coding dojo de Paris, j'aime échanger sur des sujets plus ou moins techniques.",
+          "company": null,
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocJqOOGN9AwasH9Z8h07d_pCz_bGzhV3_X_BtnY1mXy8X-warw=s96-c",
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm9pwzij301w7o63mimxmkyxt",
+      "title": "Embeddings : transformation de la recherche d'information",
+      "abstract": "Les moteurs de recherche, basés sur des index, ont longtemps été des outils essentiels pour trouver de l'information en ligne. Cependant, l'évolution rapide des grands modèles de langage a ouvert la voie à une nouvelle génération de systèmes de recherche : les moteurs de réponse, offrant une compréhension sémantique plus approfondie des requêtes.\nCette conférence explorera les différences fondamentales entre ces deux types de moteurs. Nous discuterons de leur fonctionnement respectif et des avantages qu'offrent les moteurs de réponse par rapport aux moteurs de recherche traditionnels. Nous nous pencherons également sur les architectures à mettre en place pour combiner le meilleur des deux mondes : la rapidité des index et la compréhension sémantique des grands modèles de langage",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Cette conférence sera donnée AFUP Day à Poitiers 2025.",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech",
+        "🌶️ Autres propositions pimentées"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr",
+        "en"
+      ],
+      "speakers": [
+        {
+          "name": "Iana IATSUN",
+          "bio": "Iana a obtenu son doctorat en traitement d’images et du signal en 2014. Son premier réseau de neurone a été entrainé en 2013, en même temps que AlexNet. Après sa thèse, elle a travaillé comme data-scientist dans le domaine de la biométrie pour la reconnaissance d’empreintes digitales et des visages. Depuis 5 ans, Iana gère avec son équipe les activités autour de la mise en production des modèles d’apprentissage automatique (MLOps) . Elle s’investit sur les sujets concernant une IA éthique, explicable et responsable.",
+          "company": null,
+          "references": null,
+          "picture": "https://lh3.googleusercontent.com/a/ACg8ocJNgFgMeWjDdJ9WD_QZ4mXSC6fFP4Fc5cYx1RpYCQmH-uaMWw=s96-c",
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4.5,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm9btfxvc033lk73mvezztsn2",
+      "title": "La méthode des petits pas, vers des cycles très courts dans les projets UX.",
+      "abstract": "\"En passant à la V2 du tableau de bord, nous n'avons pas eu de tickets.\" c'est ce que vient de dire l'équipe du support client après 6 mois de travail, tout en sachant que la V2 impliquait de gros changements en termes d'UX design. Personnellement, c'est là que je vois que j’ai fait mon boulot, quand il se passe \"rien\".\n\nLe design de l'expérience utilisateur se résume souvent à ce que tout se passe bien et si l'utilisateur ne s'en souvient pas, tant mieux ! Je vais donc expliquer quelle méthodologie basée sur des cycles courts, je mets en place pour arriver à ce résultat et comment ça peut s'adapter sur différents projets plus ou moins complexes. Pour ça, je prendrais deux exemples, un site grand public et une application métier dans des contextes bien différents.\n\nAu-delà de la méthodologie et des exemples, il est intéressant de prendre du recul vis-à-vis ces cycles et de voir comment on peut synchroniser, design et développement, tout en incluant les utilisateurs finaux. Si la qualité du travail est souvent difficile à montrer en UX design, c’est que très souvent elle se loge dans les absences : absence de complexité, absence de besoin de support, absence de procédures, absence d’apprentissage.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMEDIATE",
+      "references": null,
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🎨 Produit & UX"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "PRODUCT",
+        "Pas de défraiement",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Raphaël Yharrassarry",
+          "bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. Ma vision de l’expérience utilisateur repose sur deux démarches complémentaires, l’une pragmatique autour de la conception de services et l’autre stratégique autour de l’évolution des organisations et l’intégration du design au sein des équipes.\n\nJe travaille depuis 2020 pour beta.gouv.fr toujours en freelance afin d’essayer d’améliorer les services publics avec l’intention de changer le monde, de le rendre meilleur et de limiter la crise climatique qui arrive, mais avant ça il faut que je pense à faire du pain et bien d’autres choses plus ou moins futile comme un potager, du miel et du cidre.",
+          "company": "iErgo",
+          "references": "Déjà orateurs à ParisWeb, Mixit, Blendwebmix, Web à Quebec sur divers sujets autour de l'UX.",
+          "picture": "https://avatars.githubusercontent.com/u/5681540?v=4",
+          "location": "Pays Basque, France",
+          "socialLinks": [
+            "https://x.com/iergo"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm95j508e001vk73mxqa4z4y1",
+      "title": "Redécouvrir la coopération : Atelier de Mob Programming",
+      "abstract": "Vous est-il déjà arrivé de rester bloqué·e, dans le doute devant un problème complexe, surtout lorsqu'un·e de vos collègues est absent·e ? De constater que votre équipe gère trop de tickets en parallèle et prend trop de temps pour délivrer de la valeur ? De vous impatienter pendant que votre code est relu et validé ?\n\nImaginez une équipe de développement où l'onboarding se fait à une vitesse fulgurante, et où la sécurité psychologique est le socle permettant à chaque membre d'apporter de la valeur et des idées, d'apprendre des autres et d'être écouté·e. Une équipe éliminant les silos d'information et améliorant la qualité du code produit. Ce n'est pas une utopie, c'est le mob programming !\n\nVous vous demandez comment une équipe entière peut coder ensemble sur un seul ordinateur ? Le mob peut être redoutablement efficace, joyeux et épanouissant, avec les bonnes pratiques. Et le mieux est de venir l’expérimenter par vous-même.\n\nRejoignez-nous pour un atelier immersif autour d'un exercice (kata) de code simple, où vous découvrirez comment cette approche coopérative peut transformer votre manière de travailler. L'objectif principal de cet atelier n'est pas le code en lui-même, mais de vous faire vivre l'importance de la coopération et de la communication.\n\nQue vous soyez dev ou non, débutant·e ou confirmé·e, PC ou non, vous êtes toustes les bienvenu·e·s, même pour observer.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Organisatrice de sessions pour le meetup [Mob Programming Francophone](https://linktr.ee/mobprogfr) avec d'autres passionné-es de mob.\n\nProgramme de l'atelier :\n- Introduction au mob programming : Rôles et principes\n- Session de jeu vidéo en mob en direct (Baba is you)\n- Lecture de l'énoncé de l'exercice de code\n- Session de mob programming en direct : Vous serez aux commandes ! Vivez l'expérience en temps réel.\n- Débriefing et discussion : Partagez vos impressions, vos apprentissages\n\nAnimé à :\n\n* <img width=\"14px\" src=\"https://devfest2024.gdgnantes.com/images/logo-long.svg\" alt=\"DevFest Nantes logo\"/> [DevFest Nantes](https://devfest2024.gdgnantes.com/sessions/redecouvrir_la_cooperation___atelier_de_mob_programming/) 2024\n* <img width=\"14px\" src=\"http://whorunthetech.com/wp-content/uploads/2023/05/who-run-the-tech-icone-V1.png\" alt=\"\"/> [Who Run The Tech](https://whorunthetech.com/) 2024\n* <img width=\"14px\" src=\"https://touraine.tech/_nuxt/img/logo.97c6093.svg\" alt=\"\"/> [Touraine Tech](https://touraine.tech/) 2025\n* <img width=\"14px\" src=\"https://www.devoxx.fr/wp-content/uploads/2023/10/devoxxfrance.svg\" alt=\"\"/> [Devoxx France](https://www.devoxx.fr/) 2025\n* <img width=\"14px\" src=\"https://mixitconf.org/images/png/fbpreview.png\" alt=\"\"/> [MixiT](https://mixitconf.org/) 2025",
+      "formats": [
+        "Interactif"
+      ],
+      "categories": [
+        "🤝 Facilitation"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "A Défrayer"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Manon Carbonnel",
+          "bio": "Je suis développeuse web (PHP, Python, JS), experte en intégration web et facilitatrice Agile chez [Shodo](https://shodo.io/).\nJ'adore travailler en mob programming et je facilite des sessions de découverte pour [@mobprogfr](https://linktr.ee/mobprogfr).\nJe suis passionnée par le HTML/CSS et j'ai créé [@Csscade](https://csscade.fr/), une communauté française sur l'intégration web.\nJ'aime apprendre le software craft et les tests, et je crois énormément à l'Agilité.",
+          "company": "Shodo",
+          "references": "J'ai participé à plusieurs conférences tech (Alpes Craft, DevFest Nantes, Touraine Tech, Devoxx, MixiT, SoCraTes, Who Run The Tech, ...), sur des sujets de craft en frontend, coopération et mob programming, CSS, ...\n\n[Lyon JS](https://youtu.be/jZGWoGgeeJ0?si=g7jel7k4TzZlc6W-) 2025 - \"Crafter de meilleures UI, en pensant le DOM comme une API",
+          "picture": "https://avatars.githubusercontent.com/u/6471771?v=4",
+          "location": "Rennes, France",
+          "socialLinks": [
+            "https://github.com/manoncarbonnel",
+            "https://bento.me/manoncarbonnel",
+            "https://www.linkedin.com/in/manon-carbonnel/",
+            "https://bsky.app/profile/manoncarbonnel.bsky.social"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm93uqnnl00dhpq3mrhrpviun",
+      "title": "Booster la compréhension de vos user-stories avec l'atelier Example Mapping",
+      "abstract": "Le BDD est trop souvent réduit à de l'outillage alors que c'est surtout un super moyen pour rapprocher efficacement les gens du métier et celles et ceux qui font du software pour eux.\n\nDe manière assez surprenante, une des techniques les plus efficace du BDD - l'Example Mapping- n'est toujours pas beaucoup utilisée car assez peu connue.\n\nAprès avoir introduit les concepts de base de l'Example Mapping, nous vous feront pratiquer la technique sur un cas métier, avant de debriefer toutes et tous pour échanger sur cette pratique.\n\nIl s'agit d'un atelier que j'ai souvent réalisé dans le cadre du Meetup BDD Paris, ou de certaines conferences (NewCrafts, School of POs, Agile Tour Bordeaux etc.).\n\nQue vous aimiez le Given-When-Then, pas du tout, vous adorerez l'efficacité de l'Example Mapping pour ne pas être perturbés lors de nos discussions avec nos interlocutrices ou interlocuteurs métiers.\n\nJe suis d'ailleurs le principal importateur de la technique en France (2013), que j'ai pu expérimenter avec succès depuis des années avec la plupart de mes clients.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "Cet atelier a été joué de nombreuses fois au meetup BDD Paris, mais aussi à Agile Tour Bordeaux, School of PO ...",
+      "formats": [
+        "Interactif"
+      ],
+      "categories": [
+        "🎨 Produit & UX"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "PRODUCT",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "brunoboucard",
+          "bio": "Ma longue expérience en informatique m'a permis de concevoir de meilleures approches collaboratives pour créer des produits à fort impact.\n\nComme le colibri, chacun fait sa part pour créer un logiciel qui aura un meilleur impact sur ses utilisateurs. En tirant parti d'une approche de conception axée sur le domaine, je facilite une communication plus transparente entre les parties prenantes et les créateurs de logiciels grâce à une modélisation collaborative et une démocratie profonde, décodant les complexités, résolvant les conflits et garantissant que les logiciels restent agiles face aux demandes de l'entreprise.\n\nDans mes rôles de consultant pour OCTO Technology, responsable technique et architecte logiciel, et coach agile et technique, je catalyse les organisations et les équipes vers la conception et la construction d'architectures logicielles durables et résilientes.\n\n\nBruno intervient en tant que speaker dans nombreuses conférences : DDD EUROPE, Explore DDD, DDD eXchange, XP Conference, NewCraft, Devoxx France, SchoolOfPo, Agile Tour, BDXIO …",
+          "company": "OCTO Technology",
+          "references": "**Functional Core, l’alternative FP à l’architecture hexagonale** - Thomas Pierrain & Bruno Boucard Les RDV des Speakers\nhttps://www.youtube.com/watch?v=T_9mqhrY3QA\n\n**L'après-midi du DDD (épisode 2)**\nhttps://www.youtube.com/watch?v=PIo6jUl4VO8\n\nThomas Pierrain & Bruno Boucard - **How To Distill The Core Domain From Your Legacy App** (Live Coding) Explore DDD\nhttps://www.youtube.com/watch?v=mZzPwt9vhHM&t=2287s\n\n**L’après-midi du DDD (épisode 1)** 1/3 – Keynote & Test Harness\nhttps://www.youtube.com/watch?v=qzygjKpFSq4\n\n**Distill the Core Domain from Your Legacy App** - Thomas Pierrain and Bruno Boucard - DDD Europe 2018\nhttps://www.youtube.com/watch?v=F3DV9YDeA6Q\n\n**Du DDD dans mon legacy !** live coding Devoxx 2018  (T. Pierrain, B. Boucard, J. Grodziski)\nhttps://www.youtube.com/watch?v=dzKKqS5ewLg\n\n**BDX I/O 2018 - Pair ou impairs ?** (live-coding sanglant) - Thomas PIERRAIN et bruno boucard\nhttps://www.youtube.com/watch?v=RiVSIbkss6A&t=413s\n\n**Organisateur du Meetup BDD Paris**\nhttps://www.meetup.com/fr-FR/BDD-Paris/\n\n**Legacy Club** (Thomas Pierrain - Bruno Boucard) Devoxx FR https://www.youtube.com/watch?v=zeogtrxqc38&t=191s\n\n16/02/09 - **SOFTWARE CRAFTMANSHIP**  Bruno Boucard / Thomas Pierrain / Diego Lemos\nhttps://www.youtube.com/watch?v=Cov4MGzozSA&t=6216s\n\n**Que pouvons-nous faire face à la programmation parallèle ?** - Bruno Boucard à l'USI  2014 : https://www.youtube.com/watch?v=PjijxuV0v1I&t=11s\n\n0090 - Bruno Boucard - **Parallélisme et concurrence (PODCAST**\nhttps://www.youtube.com/watch?v=3cfaP79puIQ&t=101s",
+          "picture": "https://pbs.twimg.com/profile_images/1074819979520995328/9xpTMaok_normal.jpg",
+          "location": "Maisons-Laffitte, France",
+          "socialLinks": [
+            "https://github.com/boucardbruno",
+            "https://x.com/brunoboucard"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm918qcgj04xqqo3m4fps84u3",
+      "title": "Souffrance au travail : comment l’industrie agile y contribue",
+      "abstract": "Experts et praticiens du travail sont unanimes : le travail est devenu un lieu de souffrance. Pour preuve, un rapport de l’Assurance Maladie de 2018 indique que le nombre de demandes de reconnaissance de maladies psychiques a été multiplié par plus de 5 en 5 ans et que 50% des dossiers transmis sont d’origine professionnelle. Si durant l’essor industriel le travail abrutissait, il rend aujourd’hui fou. Nous verrons au sein de cette conférence les causes de cette situation et comment l’industrie agile, soit les personnes participant à l'implémentation de l'agilité en entreprise, malgré des intentions initiales contraires, contribue à cette triste réalité.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMEDIATE",
+      "references": "Pitch : Si l’approche agile se présente comme résolument centrée sur l’humain, la réalité de sa mise en place en entreprise peut être vectrice de souffrance tant elle nie souvent ce qui est essentiel au bien-être au travail.\n\nVidéo de la conférence donnée à Rennes : https://youtu.be/ekyS6nZdUqk?si=sEKGTeOBULOZ5iI4\n\nSlides : https://docs.google.com/presentation/d/1srH4yc4-V8t23KLkJVOlFeaDV_w4JQi1JDE6liKkr8Y/edit?usp=sharing\n\nArticle écrit sur le sujet : https://lesmondesdutravail.net/agile/",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "📊 Organisation & leadership"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "\"VRAIMENT\" TRANSVERSE",
+        "A Défrayer",
+        "Usual-Suspects"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Denis Migot",
+          "bio": "Chief of Staff au sein de la start-up Fabriq, mon expertise porte sur le management, la structure et l'organisation du travail. \nJ’ai pu donner plusieurs dizaines de conférences sur ces sujets en france et au Canada mais aussi écrire diverses tribunes pour Le Monde, Harvard Business Review ou encore Les Mondes du Travail. \nEnfin, je suis animateur du podcast Zéro Virgule, podcast donnant la parole à des chercheurs et chercheuses en sciences sociales.",
+          "company": "Fabriq",
+          "references": "Plus d'une cinquantaine de conférences données en France et au Canada.\n\nExemples :\n- https://youtu.be/ekyS6nZdUqk?si=ztE6gImesCgkpbjG\n- https://youtu.be/ADzgXD4MoQk?si=gK0LzcA9hzZyOe9l",
+          "picture": "https://i.ibb.co/mCRD2xVg/Capture-d-e-cran-2025-03-29-a-11-01-27.png",
+          "location": "Brive-la-Gaillarde, France",
+          "socialLinks": [
+            "https://www.linkedin.com/in/denis-migot/"
+          ]
+        }
+      ],
+      "review": {
+        "average": 5,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm8zfant804gfqo3mqp1mnh3h",
+      "title": "L'humaine au centre de la sécurité des développements",
+      "abstract": "Vous souhaitez savoir comment les évolutions des méthodes de développement et d’attaque du code impactent le travail des équipes de développement. Comment mieux intégrer la sécurité dans les développements. Et surtout comment sont exploités les failles de sécurité par des personnes malveillantes. Développeur expérimenté, ayant eu la chance de travailler dans des équipes pointues et sur des projets exigeants en qualité et sécurité des développements. Je travaille aujourd'hui dans les équipes de cybersécurité de la Banque de France. Dans cette présentation, je partage mes connaissances et fait une démonstration d’exploit d’une CVE. Mon objectif est de sensibiliser les jeunes développeurs et à leur partager mes connaissances et bonnes pratiques.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "- Sensibilisation que j’effectue dans le cadre du parcours d’intégration des Dev/CPI/DPI/Manageurs à l’informatique de la Banque de France,\n- Sensibilisation déjà partagée avec : la BCE (Banque centrale européenne ), la BRI (Banque des règlements internationaux),\n- Partages réalisé avec l’ESN Invevoo en février 2025, lors d'une soirée,\n- Intervention organisée pour d’une soirée dev. avec la société Honor Gaming en Avril 2025.",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "TECH",
+        "Pas de défraiement"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Antoine.Meheut",
+          "bio": "Membre de l’équipe de cybersécurité opérationnelle de la Banque de France, responsable de l'équipe qui réalisent les études d'architectures, les contrôles d'exploitabilité des solutions et surtout les analyses de risques de ces solutions informatiques.\nAu travers de projets complexes et d’envergure internationale, j’ai acquis une expertise en management, modernisation des systèmes d’information, sécurité applicative et DevSecOps. Je suis aussi expert Banque de France dans les domaines du développement informatique et de la sécurité applicative.\nJe suis habilité pour les OIV (opérateur d'importance vitale).\nJe travaille sur des sujets aussi variés que : les analyses de risques, l'architecture, la sécurité des développements, le cloud, l'IAC, le DevSecOps, les stacks de développement, les organisations et équipes de développement, les contrats de centres de services, le développement éco-responsable ou encore l'accessibilité des applications.\nJ'aime vulgariser les technologies et partager mes connaissances avec le plus grand nombre.",
+          "company": null,
+          "references": "- Sensibilisation que j’effectue dans le cadre du parcours d’intégration des Dev/CPI/DPI/Manageurs à l’informatique de la Banque de France,\n- Sensibilisation déjà partagée avec : la BCE (Banque centrale européenne ), la BRI (Banque des règlements internationaux),\n- Partages déjà prévus pour une soirée dev. de l’ESN Invevoo en février 2025 et lors d’une soirée dev. de la société Honor Gaming en Mars 2025.",
+          "picture": "https://avatars.githubusercontent.com/u/34522927?v=4",
+          "location": null,
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 1,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm8yjbh200482qo3mwpm1com5",
+      "title": "La recette secrète : lancez la création de votre produit !",
+      "abstract": "Bienvenue à Bikini Bottom ! Mr Krabbs fait appel à vous pour créer le nouveau produit incontournable qu'il compte mettre à la carte de son restaurant (et gagner beaucoup de nouveaux billets). De la vision produit à la création de votre backlog, en passant par la conception et l'élaboration du premier product goal, découvrez pas à pas la gestion orientée produit. A travers des exercices en équipe, faites parler votre créativité pour imaginer le plat dont tous les fastfoods sous-marins rêvent. \n\nAmateurs de Bob l'Eponge, vous avez une idée de produit que vous adoreriez créer ? Ou bien vous travaillez déjà, ou désirez orienter votre carrière vers le domaine métier ? Cet atelier est fait pour vous ! Apprenez à mettre vos idées en forme, essayez-vous au découpage, à la priorisation et à la rédaction de user stories, tout en définissant le contexte de votre futur projet.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "PENDING",
+      "publicationStatus": "PUBLISHED",
+      "level": "BEGINNER",
+      "references": "J'ai déjà eu l'occasion d'animer ce workshop plusieurs fois lors d'événements internes à Lunatech, pour un public allant de 6 à 15 personnes, en français et en anglais. Pas de limitation dans le nombre de participants néanmoins : plus il y a de monde plus on multiplie les équipes qui travaillent en parallèle. Mais ce type d'ateliers attire en priorité les profils métier, QA, organisationnels ou managériaux... \n\nLe contexte est ludique : en m'inspirant de l'univers de Bob l'Eponge, la créativité des participants durant les exercices est plus facilement libérée et les propositions sont d'autant plus décomplexées. Cela évite le biais de la référence au vécu, qui a tendance à faire tomber dans la reproduction de paradigmes rencontrés dans le cadre de vrais projets. \n\nVoici la base de présentation que j'utilise : https://docs.google.com/presentation/d/1j0owCULDO_tJBasV6YNWinZfBXE0yKd5mB_ujCbYWnw/edit?usp=sharing\n\nCet atelier est modulable de 2 à 4h. La présentation complète avec les exercices associés permet une activité jusqu'à 4h (avec temps de pause). Pour un atelier de 2h je réduis la granularité.\n\n",
+      "formats": [
+        "Interactif"
+      ],
+      "categories": [
+        "🎨 Produit & UX"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "PRODUCT",
+        "A Défrayer"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Laurie Coquillat",
+          "bio": "Dans le domaine professionnel on peut dire que j'ai eu deux vies. Après des études littéraires, passionnée par la transmission et le contact humain, j'ai passé plus de huit ans dans le domaine du tourisme, en tant que responsable animation, pédagogie et expérience client. Mon métier ? Créer des contenus à la fois ludiques et pédagogiques à destination de familles et d'enfants de tous âges, afin de faire découvrir la biodiversité marine et l'importance de sa préservation. J'avais aussi en charge de former et accompagner les équipes de conférenciers et d'animateurs, et améliorer chaque jour la qualité et l'offre de service en fonction des retours client.<br>\n\nSur mon temps libre, j'ai très tôt commencé à bidouiller des sites Internet, aller voir sous le capot comment fonctionnaient les forums... Si bien qu'un jour j'ai décidé de sauter le pas et de faire une reconversion de Concepteur Développeur Informatique. <br>\n\nAprès l'obtention de mon diplôme en 2018, je me suis définitivement lancée en tant que développeuse Java (puis Scala) et très vite je suis tombée dans l'Agilité. Mes expériences passées en terme d'organisation et d'accompagnement d'équipe ont très vite été mis à contribution dans les projets qui ont jalonnés depuis mon parcours de développeuse. Scrum master puis Product Owner certifiée, j'ai pu mettre en pratique la théorie pour des clients français et internationaux. Je suis depuis janvier 2021 \"Agile and Product Delivery Lead\" au sein de Lunatech France. Je me consacre aujourd'hui à gagner en expérience dans le domaine de l'Agilité et du Scrum plus particulièrement. Je suis actuellement product owner pour un constructeur automobile international.",
+          "company": "Lunatech",
+          "references": "Habituée à prendre la parole en public grâce à ma première vie professionnelle,  j'ai rapidement cherché à devenir speaker. Je présente régulièrement des sujets en interne à Lunatech, pour des journées de formation ou nos conférences annuelles, et j'ai eu la chance de présenter un atelier en 2022  et en 2023 au Camping des Speakers ainsi qu'un workshop à Sunnytech en 2022. J'ai également été invitée à la conférence interne de la société Pix pour animer un atelier sur l'agilité avec plus de 60 personnes en 2023. J'espère continuer à développer mon expérience dans ce domaine, passionnée par la transmission et le contact humain.\n\nDans ma précédente carrière professionnelle en revanche, je donnais régulièrement, pour ne pas dire quotidiennement, des conférences, des présentations ainsi que des ateliers de toute nature aux visiteurs de l'Aquarium Sea Life Paris Val d'Europe, qui accueille jusqu'à 300 000 visiteurs par an, et propose toute la journée des animations sur la vie marine.",
+          "picture": "https://lh3.googleusercontent.com/a-/AOh14Gj31NgaCu7o1pgDr_ZidE32UtZ7uKwXdyJI9Ix2=s96-c",
+          "location": "Chessy, France",
+          "socialLinks": []
+        }
+      ],
+      "review": {
+        "average": 4.25,
+        "positives": 0,
+        "negatives": 0
+      }
+    },
+    {
+      "id": "cm8xmk9ll03ftqo3m1ri8og3y",
+      "title": "S'endetter pour Se Développer : Stratégies d’Investissement en Dette Technique",
+      "abstract": "Dans le monde du développement logiciel, la dette technique est souvent perçue comme un fardeau à éviter à tout prix. Pourtant, à l’image d’un prêt bancaire bien maîtrisé, elle peut être un levier puissant pour accélérer l’innovation et répondre rapidement aux défis du marché. Cette conférence propose d’explorer la dette technique sous un angle inédit : celui de l’investissement stratégique.\n\nEn comparant la dette technique à la dette bancaire, nous verrons comment, pourquoi et à quel moment il peut être bénéfique d’en contracter, notamment en phase de Product-Market Fit (PMF). Nous aborderons les différents types de dette technique, leurs avantages et leurs risques, tout en expliquant comment les gérer de manière optimale pour maximiser le retour sur investissement (ROI).\n\n La conférence se conclura par des stratégies concrètes pour \"rembourser\" cette dette, et des conseils pratiques pour intégrer la gestion de la dette technique dans les processus de développement et les pratiques agiles.\n\n**Public visé :** Développeurs, lead devs, CTO, Product Owners, et toute personne impliquée dans la gestion de projets logiciels.\n\n**Objectifs :**\n\n- Démythifier la dette technique et la considérer comme un investissement stratégique.\n- Identifier les moments clés où contracter de la dette technique peut accélérer le développement produit.\n- Fournir des outils et des méthodes pour gérer efficacement la dette technique et en tirer le meilleur parti.",
+      "deliberationStatus": "ACCEPTED",
+      "confirmationStatus": "CONFIRMED",
+      "publicationStatus": "PUBLISHED",
+      "level": "INTERMEDIATE",
+      "references": "Références : :\nConférence SnowCamp 2025 : S'endetter pour Se Développer : Stratégies d’Investissement en Dette Technique\nConférence Codeur en seine 2024 : S'endetter pour Se Développer : Stratégies d’Investissement en Dette Technique\n\nConférences déjà réalisées pour WeLoveSpeed : \n- https://youtu.be/q65w_luvB3A?si=rJXkQd-HqKh_1xlS\n- https://youtu.be/3mQJBjOUPd8?si=JBFJpepCoEINyD8M\n\nArticle médium : \n- https://medium.com/@ludoviclefebvre33/majorana-1-de-microsoft-la-perc%C3%A9e-quantique-qui-va-tout-bouleverser-57b206162f38\n- https://medium.com/peaksys-engineering/what-is-dolpheen-and-how-can-it-improve-web-performance-e946872e8268",
+      "formats": [
+        "Conférence"
+      ],
+      "categories": [
+        "🛠️ Craft & Tech"
+      ],
+      "tags": [
+        "SHORT-LIST",
+        "\"VRAIMENT\" TRANSVERSE",
+        "A Défrayer"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "speakers": [
+        {
+          "name": "Ludovic Lefebvre",
+          "bio": "En tant que passionné de la performance web depuis plus de 15 ans, j’ai acquis une solide expérience en tant que responsable de l’équipe « coaching perf » chez Peaksys, filiale Tech de Cdiscount, pendant plusieurs années. Aujourd’hui, en tant que Product Owner d’une solution innovante de sécurité et de performance web, ma mission est de fournir des solutions innovantes pour garantir une expérience utilisateur de qualité et une sécurité renforcée.\n\nEn dehors de mon travail, je suis également passionné par le mind mapping et la composition de musique électronique.\n\n- Expert en Web Performance et javascript\n- Product Owner de la solution de web sécurité Saas Baleen.cloud\n- Intervenant à l'université de Bordeaux / Talence\n- Présent au Chrome Advisory Board Google depuis 4 ans",
+          "company": "Peaksys : filiale technologique de Cdiscount",
+          "references": "WeLoveSpeed 2021 : https://www.youtube.com/watch?v=3mQJBjOUPd8&t=887s\nWeLoveSpeed 2023 : https://youtu.be/q65w_luvB3A",
+          "picture": "https://media.licdn.com/dms/image/D4E03AQGMFuiWZD9EmA/profile-displayphoto-shrink_800_800/0/1677874708758?e=1694649600&v=beta&t=fdwfRDR5Mhvlha6vvxIG7NNgqyn0280OSmg4lR7r_EU",
+          "location": null,
+          "socialLinks": [
+            "https://github.com/Ludovic33Fr",
+            "https://x.com/Crafty33"
+          ]
+        }
+      ],
+      "review": {
+        "average": 4.75,
+        "positives": 0,
+        "negatives": 0
+      }
+    }
+  ]
+}
