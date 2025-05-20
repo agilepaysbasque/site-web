@@ -1,0 +1,48 @@
+tracks:
+  - id: amphi
+    name: Amphi
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "cma42c1a405n7o63myeeqti9k"
+      - time: "10:30 - 11:15"
+        talk_id: "cm918qcgj04xqqo3m4fps84u3"
+      - time: "11:30 - 12:15"
+        talk_id: ""
+      - time: "14:00 - 14:45"
+        talk_id: "cma7b37hk00gupo3mgydhybui"
+      - time: "15h00 - 15h45"
+        talk_id: "cm8xmk9ll03ftqo3m1ri8og3y"
+      - time: "16h15 - 17h00"
+        talk_id: "cma6wq9dq00blpo3m4dyg8h6n"
+      - time: "17h15 - 18h00"
+        talk_id: "cm9zqiliq04k3o63mbuwcn0nj"
+
+  - id: salle1
+    name: Salle 1
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "cm8zfant804gfqo3mqp1mnh3h"
+      - time: "10:30 - 11:15"
+        talk_id: "cm9wzqbx1045qo63m0ki7lp04"
+      - time: "11:30 - 12:15"
+        talk_id: ""
+      - time: "14:00 - 14:45"
+        talk_id: ""
+      - time: "15h - 15h45"
+        talk_id: "cm9btfxvc033lk73mvezztsn2"
+      - time: "16h15 - 17h00"
+        talk_id: ""
+      - time: "17h15 - 18h00"
+        talk_id: "cm9ybj7vz04b3o63mgkecbf1x"
+
+  - id: salle2
+    name: Salle 2
+    sessions:
+      - time: "09:15 - 10:00"
+        talk_id: "cm9pwzij301w7o63mimxmkyxt"
+      - time: "10:30 - 12:15"
+        talk_id: "cm95j508e001vk73mxqa4z4y1"
+      - time: "14:00 - 15:45"
+        talk_id: ""
+      - time: "16:15 - 18:00"
+        talk_id: ""

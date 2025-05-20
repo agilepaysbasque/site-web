@@ -5,7 +5,7 @@ keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développem
 layout: "venue"
 menus:
     main:
-        name: "Le lieu"
+        name: "Lieu"
         weight: 3
     footer:
         name: "Le lieu"

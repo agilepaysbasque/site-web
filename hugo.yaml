@@ -8,7 +8,7 @@ menu:
   main:
     - name: "Billetterie"
       url: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2025"
-      weight: 4
+      weight: 5
 
 params:
   social:

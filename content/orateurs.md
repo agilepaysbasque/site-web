@@ -7,7 +7,7 @@ keywords: "Agile Pays Basque, Agile, Pays Basque, Conférence agile, Développem
 edition: "2025"
 menus:
     main:
-        name: "Les orateur·rice.s"
+        name: "Orateur·rice.s"
         weight: 3
     footer:
         name: "Les orateur·rice.s"

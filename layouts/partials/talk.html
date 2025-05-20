@@ -1,20 +1,25 @@
 <div class="col-md-12 tab-wrap">
     <div class="talk">
-          <h2 class="title">{{ .talk.title | safeHTML }}</h2>
-          <p>{{ .time | safeHTML }}</p>
-          <p>{{ .talk.abstract | safeHTML }}</p>
-          <h3 class="speakers">
-              {{ range .talk.speakers }}
-              <span class="image">
-                  {{ $imageName := replaceRE "[ -]" "" ((replaceRE "([A-Z])([A-Z]+)" "${1}${2}" .name | lower) | title) }}
-                  {{ $filename := printf "speakers/%s.jpeg" $imageName }}
 
-                  {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
-              </span>
-              <span class="name">
-                  {{ .name  | safeHTML }} {{ with .company }}<span class="position">({{ .  | safeHTML }})</span>{{ end }}
-              </span>
-              {{ end }}
-          </h3>
+    <h2 class="title">{{ with .talk }}{{ .title | safeHTML }}{{ else }}Session non confirmée{{ end }}</h2>
+        <p>{{ .time | safeHTML }}</p>
+        {{ with .talk }}
+            <p>{{ .abstract | safeHTML }}</p>
+            <h3 class="speakers">
+                {{ range .speakers }}
+                <span class="image">
+                    {{ $imageName := replaceRE "[ -]" "" ((replaceRE "([A-Z])([A-Z]+)" "${1}${2}" .name | lower) | title) }}
+                    {{ $filename := printf "speakers/%s.jpeg" $imageName }}
+
+                    {{ partial "asset-image" (dict "src" $filename "alt" .name  "size" "96x" "class" "img-fluid rounded-circle") }}
+                </span>
+                <span class="name">
+                    {{ .name  | safeHTML }} {{ with .company }}<span class="position">({{ .  | safeHTML }})</span>{{ end }}
+                </span>
+                {{ end }}
+            </h3>
+        {{ else }}
+            <p>Cette session n'est pas encore confirmée.</p>
+        {{ end }}
     </div>
 </div>
