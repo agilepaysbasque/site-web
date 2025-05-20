@@ -1,0 +1,14 @@
+partners:
+  - group: "Partenaires privilégiés"
+    elements:
+      - { name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px" }
+
+  - group: "Soutien Premium"
+    elements:
+      - { name: "BTTRWAY", description: "", link: "https://bttrways.com/", imageUrl: "BTTRWAYS.png", width: "120px" }
+      - { name: "Agile Toulouse", description: "", link: "https://www.agiletoulouse.fr", imageUrl: "agile_toulouse.png", width: "120px" }
+
+  - group: "Soutien Logo"
+    elements:
+      - { name: "Poplidays", description: "", link: "https://www.poplidays.com/fr/", imageUrl: "poplidays.png", width: "120px" }
+      - { name: "Moi, c'est Naya", description: "", link: "https://moicestnaya.com", imageUrl: "naya.png", width: "120px" }
