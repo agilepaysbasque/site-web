@@ -169,13 +169,13 @@
       "speakers": [
         {
           "name": "Anthony Praud",
-          "bio": "Avant, j’étais chef de Projet . Mais  les planning et les budgets à 2 ans me laissaient dubitatif.\nNon, mon truc, c'est plutôt la qualité, la valeur produit et les relations humaines. Du coup, maintenant, j’aide les équipes en tant que Facilitateur.\nJe suis toujours curieux de nouvelles façons de travailler et ainsi de découvrir les bonnes pratiques  de mes collègues et d'échanger avec eux sur la façon d'être un meilleur professionnel.",
+          "bio": "J’accompagne les équipes qui peinent à livrer ce qu’attendent leurs clients, pour qu’elles retrouvent de la fiabilité sans repartir de zéro.\nJe suis toujours curieux de nouvelles façons de travailler et ainsi de découvrir les bonnes pratiques  de mes collègues et d'échanger avec eux sur la façon d'être un meilleur professionnel.",
           "company": null,
-          "references": "Agil'Lille 2022<br>\nAgile Grenoble 2022<br>\nPIAF 2023<br>\nAquilité 2023<br>\nAgile niort 2023<br>\nDemain l'entreprise\nAgile Bordeaux 2023<br>\nAgile niort 2024<br>",
+          "references": "Agil'Lille 2022<br>\nAgile Grenoble 2022<br>\nPIAF 2023<br>\nAquilité 2023<br>\nAgile niort 2023<br>\nDemain l'entreprise\nAgile Bordeaux 2023<br>\nAgile Aix 2023<br>\nAgile niort 2024<br>\nAgile Aix 2024<br>\nAgile niort 2025<br>",
           "picture": "https://lh3.googleusercontent.com/a-/AOh14GilEmjNfLPFHnKqNNnyiX9E-rLfmm2EpSGse2xJuZg=s96-c",
           "location": "Niort, France",
           "socialLinks": [
-            "https://x.com/apraud"
+            "https://www.linkedin.com/in/anthonypraud/"
           ]
         },
         {
@@ -251,7 +251,7 @@
       "title": "Définir le langage commun de votre domaine métier",
       "abstract": "Avez-vous déjà eu l’impression que vos équipes parlait la même langue sans vraiment se comprendre ? Chez PayFit, nous nous sommes retrouvés face à ce paradoxe : des termes comme employee, collaborator, worker, person, individual, user circulaient partout mais chacun leur donnait un sens différent. Cette confusion freinait notre collaboration, et parfois même l'évolution de notre produit !   \n\nDans cette conférence, nous partagerons comment nous avons entrepris d’instaurer un langage commun au sein de nos équipes, un socle essentiel pour aligner la tech, le produit et le métier. Nous verrons ensemble les techniques qui nous ont permis d’y parvenir : des ateliers de découverte transverses aux RFCs (Request for Comments) pour formaliser nos décisions, en passant par une itération constante basée sur des cas d’usage réels.   \n\nMais surtout, nous aborderons l’un des défis majeurs : comment réussir ce travail de clarification et d’alignement lorsque de nombreuses équipes sont impliquées et impactées, chacune avec ses priorités et son vocabulaire ? Vous repartirez avec des méthodes concrètes pour instaurer ce langage commun dans votre organisation et en faire un levier de transformation produit.",
       "deliberationStatus": "ACCEPTED",
-      "confirmationStatus": "PENDING",
+      "confirmationStatus": "CONFIRMED",
       "publicationStatus": "PUBLISHED",
       "level": "BEGINNER",
       "references": "Hello\nÇa sera un tout nouveau talk que nous ferons pour la 1e fois à Agile Pays Basque si nous sommes sélectionnés !\nLe langage est un des éléments centraux du Domain Driven Design. Ce talk sera un retour d'expérience de nos actions à PayFit qui nous ont permis d'identifier ce langage métier et d'aligner les équipes.",
