@@ -27,7 +27,7 @@
                     {{ range .sessions }}
                     {{ $talks := where $talks.proposals "id" .talk_id }}
                     {{ $talk := index $talks 0 }}
-                        {{ partial "talk" (dict "talk" $talk "time" .time) }}
+                        {{ partial "talk" (dict "talk" $talk "title" .title "time" .time) }}
                     {{ end }}
                 </div>
                 {{ end }}
