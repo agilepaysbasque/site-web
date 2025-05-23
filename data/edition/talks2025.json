@@ -478,7 +478,7 @@
       "title": "Embeddings : transformation de la recherche d'information",
       "abstract": "Les moteurs de recherche, basés sur des index, ont longtemps été des outils essentiels pour trouver de l'information en ligne. Cependant, l'évolution rapide des grands modèles de langage a ouvert la voie à une nouvelle génération de systèmes de recherche : les moteurs de réponse, offrant une compréhension sémantique plus approfondie des requêtes.\nCette conférence explorera les différences fondamentales entre ces deux types de moteurs. Nous discuterons de leur fonctionnement respectif et des avantages qu'offrent les moteurs de réponse par rapport aux moteurs de recherche traditionnels. Nous nous pencherons également sur les architectures à mettre en place pour combiner le meilleur des deux mondes : la rapidité des index et la compréhension sémantique des grands modèles de langage",
       "deliberationStatus": "ACCEPTED",
-      "confirmationStatus": "PENDING",
+      "confirmationStatus": "CONFIRMED",
       "publicationStatus": "PUBLISHED",
       "level": "BEGINNER",
       "references": "Cette conférence sera donnée AFUP Day à Poitiers 2025.",
