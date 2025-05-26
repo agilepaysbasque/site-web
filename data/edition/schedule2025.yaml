@@ -35,7 +35,7 @@ tracks:
       - time: "10:30 - 11:15"
         talk_id: "cm9wzqbx1045qo63m0ki7lp04"
       - time: "11:30 - 12:15"
-        talk_id: "cma2d2a4405beo63mfi3481xy"
+#        talk_id: "cma2d2a4405beo63mfi3481xy"
       - time: "12h15 - 14h00"
         title: "Repas"
       - time: "14:00 - 14:45"
