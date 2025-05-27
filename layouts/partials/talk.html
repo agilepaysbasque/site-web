@@ -4,7 +4,7 @@
     <h2 class="title">{{ with .talk }}{{ .title | safeHTML }}{{ else }} {{ .title | default "Session non confirmée" }}{{ end }}</h2>
         <p>{{ .time | safeHTML }}</p>
         {{ with .talk }}
-            <p>{{ .abstract | safeHTML }}</p>
+            <p>{{ .abstract | markdownify  | safeHTML }}</p>
             <h3 class="speakers">
                 {{ range .speakers }}
                 <span class="image">

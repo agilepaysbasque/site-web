@@ -28,17 +28,17 @@
                                     <span class="company">{{ . }}</span>
                                     {{ end }}
                                 </div>
-                                <div class="si-social">
-                                {{ partial "social-media/speaker" . }}
+                                <div>
+                                    {{ partial "social-media/speaker" . }}
                                     {{ with .bio }}
-                                <p class="bio">
-                                    {{ . }}
-                                </p>
-                                {{ if gt (len .) 520 }}
-                                <button class="btn btn-link toggle-bio-btn p-0">
-                                    Voir plus
-                                </button>
-                                {{ end }}
+                                    <div class="bio">
+                                        {{ . | markdownify | safeHTML }}
+                                    </div>
+                                    {{ if gt (len .) 520 }}
+                                    <button class="btn btn-link toggle-bio-btn p-0">
+                                        Voir plus
+                                    </button>
+                                    {{ end }}
                                 {{ end }}
                             </div>
                         </div>

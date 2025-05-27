@@ -993,6 +993,10 @@ ol {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	margin-bottom: 0px;
+	a {
+		color: #f44949;
+		text-decoration: underline;
+	}
 }
 .ft-social {
 	padding-bottom: 8px;

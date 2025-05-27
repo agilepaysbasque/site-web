@@ -1,4 +1,5 @@
-<div class="ft-social">
+{{ with .socials }}
+<div class="si-social ft-social">
   {{ with .socials.linkedin }}<a href="{{ . }}" target="_blank" title="linkedin"><i class="fa-brands fa-linkedin fa-lg"></i></a>{{ end }}
   {{ with .socials.bluesky }}<a href="{{ . }}" target="_blank" title="bluesky"><i class="fa-brands fa-bluesky fa-lg"></i></a>{{ end }}
   {{ with .socials.twitter }}<a href="https://x.com/{{ . }}" target="_blank" title="twitter"><i class="fa-brands fa-square-x-twitter fa-lg"></i></a>{{ end }}
@@ -7,3 +8,4 @@
   {{ with .socials.facebook }}<a href="{{ . }}" target="_blank" title="facebook"><i class="fa-brands fa-facebook fa-lg"></i></a>{{ end }}
   {{ with .socials.instagram }}<a href="{{ . }}" target="_blank" title="instagram"><i class="fa-brands fa-instagram fa-lg"></i></a>{{ end }}
 </div>
+{{ end }}
