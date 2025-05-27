@@ -43,7 +43,7 @@ params:
     communities:
       - label: Le collectif Dev Pays Basque
         link: https://www.linkedin.com/company/collectif-dev-pays-basque/
-      - label: Owiki (Bordeaux)
+      - label: Okiwi (Bordeaux)
         link: https://okiwi.org
 
   venue:
