@@ -1,0 +1,50 @@
+{{- $data := .Site.Data.edition.talks2025 -}}
+{{- $speakersMap := dict -}}
+
+{
+  "sessions": {
+    {{- $first := true -}}
+    {{- range $p := $data.proposals -}}
+      {{- if eq $p.confirmationStatus "CONFIRMED" }}
+        {{- if not $first }},{{ end }}
+        {{- $first = false }}
+        "{{ $p.id }}": {
+          "id": "{{ $p.id }}",
+          "title": {{ $p.title | jsonify }},
+          "trackTitle": "Track A",
+          "speakers": [
+            {{- range $i, $s := $p.speakers -}}
+              {{- if $i }},{{ end }}"{{ $s.name | sha1 }}"
+              {{- $k := $s.name | sha1 }}
+              {{- if not (index $speakersMap $k) }}
+                {{- $speakersMap = merge $speakersMap (dict $k $s) }}
+              {{- end }}
+            {{- end }}
+          ],
+          "tags": {{ $p.categories | jsonify }}
+        }
+      {{- end }}
+    {{- end }}
+  },
+  "speakers": {
+    {{- $first := true -}}
+    {{- range $id, $s := $speakersMap }}
+      {{- if not $first }},{{ end }}
+      {{- $first = false }}
+      "{{ $id }}": {
+        "id": "{{ $id }}",
+        "name": {{ $s.name | jsonify }},
+        "photoUrl": {{ $s.picture | jsonify }},
+        "socials": [
+          {{- range $j, $link := $s.socialLinks -}}
+            {{- if $j }},{{ end }}
+            {
+              "name": "link",
+              "link": {{ $link | jsonify }}
+            }
+          {{- end }}
+        ]
+      }
+    {{- end }}
+  }
+}
