@@ -11,6 +11,7 @@
         "{{ $p.id }}": {
           "id": "{{ $p.id }}",
           "title": {{ $p.title | jsonify }},
+          "trackTitle": " ",
           "speakers": [
             {{- range $i, $s := $p.speakers -}}
               {{- if $i }},{{ end }}"{{ $s.name | sha1 }}"
