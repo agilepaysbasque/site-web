@@ -6,4 +6,5 @@ menus:
     footer:
         name: "Newsletter"
         weight: 5
+layout: "newsletter"
 ---
