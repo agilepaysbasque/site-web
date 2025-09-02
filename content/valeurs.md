@@ -13,11 +13,7 @@ menus:
 
 La conférence Agile Pays Basque se tient tous les ans, à Bidart, au Pays Basque à quelques pas de l’océan. 
 
-Nous réunissons les acteurs du monde du logiciel comme les développeurs, les product managers, les UX designers, les facilitateurs, les coachs, ainsi que tous les curieux désireux de découvrir et d’apprendre de nouvelles choses.
-
-La première journée est consacrée aux conférences et aux ateliers. Le lendemain matin, place à l'open space : chacun peut proposer ses sujets et échanger avec les autres participants. 
-
-L’après-midi, c’est détente ! Ce serait dommage de ne pas profiter du beau temps pour aller surfer ou explorer les environs !</p>
+Nous réunissons les acteurs du monde du logiciel comme les développeurs, les product managers, les UX designers, les facilitateurs, les coachs, ainsi que tous les curieux désireux de découvrir et d’apprendre de nouvelles choses pour une journée de conférences et d'ateliers.
 
 {{< asset-image src="about.jpg" alt="Le grand amphi de l'ESTIA" class="img-fluid" size="1140x" >}}
 
